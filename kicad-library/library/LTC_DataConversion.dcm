@@ -1,0 +1,2049 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2310.MSE-12
+D LTC2310-12, 12-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 12-Bit, 2Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2310-12
+$ENDCMP
+#
+$CMP LTC2310.MSE-14
+D LTC2310-14, 14-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 14-Bit, 2Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2310-14
+$ENDCMP
+#
+$CMP LTC2310.MSE-16
+D LTC2310-16, 16-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 16-Bit, 2Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2310-16
+$ENDCMP
+#
+$CMP LTC2311.MSE-12
+D LTC2311-12, 12-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 12-Bit, 5Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2311-12
+$ENDCMP
+#
+$CMP LTC2311.MSE-14
+D LTC2311-14, 14-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 14-Bit, 5Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2311-14
+$ENDCMP
+#
+$CMP LTC2311.MSE-16
+D LTC2311-16, 16-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, MSOP-16-1EP
+K 16-Bit, 5Msps, differential SAR ADC SPI LVDS
+F http://www.linear.com/product/LTC2311-16
+$ENDCMP
+#
+$CMP LTC2312.TS8-12
+D LTC2312-12, 12-Bit, 500ksps Serial Sampling ADC, TSOT-23-8
+K 12-Bit 500ksps SAR ADC
+F http://www.linear.com/product/LTC2312-12
+$ENDCMP
+#
+$CMP LTC2312.TS8-14
+D LTC2312-14, 14-Bit, 500ksps Serial Sampling ADC, TSOT-23-8
+K 14-Bit 500ksps SAR ADC
+F http://www.linear.com/product/LTC2312-14
+$ENDCMP
+#
+$CMP LTC2313.TS8-12
+D LTC2313-12, 12-Bit, 2.5Msps Serial Sampling ADC, TSOT-23-8
+K 12-Bit 2.5Msps SAR ADC
+F http://www.linear.com/product/LTC2313-12
+$ENDCMP
+#
+$CMP LTC2313.TS8-14
+D LTC2313-14, 14-Bit, 2.5Msps Serial Sampling ADC, TSOT-23-8
+K 14-Bit 2.5Msps SAR ADC
+F http://www.linear.com/product/LTC2313-14
+$ENDCMP
+#
+$CMP LTC2314.TS8-14
+D LTC2314-14, 14-Bit, 4.5Msps Serial Sampling ADC, TSOT-23-8
+K 14-Bit 4.5Msps SAR ADC
+F http://www.linear.com/product/LTC2314-14
+$ENDCMP
+#
+$CMP LTC2315.TS8-12
+D LTC2315-12, 12-Bit, 5Msps Serial Sampling ADC, TSOT-23-8
+K 12-Bit 5Msps SAR ADC
+F http://www.linear.com/product/LTC2315-12
+$ENDCMP
+#
+$CMP LTC2321.UFD-12
+D LTC2321-12, Dual 12-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 12-Bit 2Msps differential SAR ADC
+F http://www.linear.com/product/LTC2321-12
+$ENDCMP
+#
+$CMP LTC2321.UFD-14
+D LTC2321-14, Dual 14-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 14-Bit 2Msps differential SAR ADC
+F http://www.linear.com/product/LTC2321-14
+$ENDCMP
+#
+$CMP LTC2321.UFD-16
+D LTC2321-16, Dual 16-Bit, 2Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 16-Bit 2Msps differential SAR ADC
+F http://www.linear.com/product/LTC2321-16
+$ENDCMP
+#
+$CMP LTC2323.UFD-12
+D LTC2323-12, Dual 12-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 12-Bit 5Msps differential SAR ADC
+F http://www.linear.com/product/LTC2323-12
+$ENDCMP
+#
+$CMP LTC2323.UFD-14
+D LTC2323-14, Dual 14-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 14-Bit 5Msps differential SAR ADC
+F http://www.linear.com/product/LTC2323-14
+$ENDCMP
+#
+$CMP LTC2323.UFD-16
+D LTC2323-16, Dual 16-Bit, 5Msps Differential Input ADC with Wide Input Common Mode Range, QFN-28-1EP
+K 16-Bit 5Msps differential SAR ADC
+F http://www.linear.com/product/LTC2323-16
+$ENDCMP
+#
+$CMP LTC2335.LX-16
+D LTC2335-16, 16-Bit, 1Msps 8-Channel Differential ±10.24V Input SoftSpan ADC with Wide Input Common Mode Range, LQFP-48
+K 16-Bit 1Msps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2335-16
+$ENDCMP
+#
+$CMP LTC2335.LX-18
+D LTC2335-18, 18-Bit, 1Msps 8-Channel Differential ±10.24V Input SoftSpan ADC with Wide Input Common Mode Range, LQFP-48
+K 18-Bit 1Msps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2335-18
+$ENDCMP
+#
+$CMP LTC2345.UK-16
+D LTC2345-16, Octal, 16-Bit, 200ksps Differential SoftSpan ADC with Wide Input Common Mode Range, QFN-48-1EP
+K 16-Bit 200ksps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2345-16
+$ENDCMP
+#
+$CMP LTC2345.UK-18
+D LTC2345-18, Octal, 18-Bit, 200ksps Differential SoftSpan ADC with Wide Input Common Mode Range, QFN-48-1EP
+K 18-Bit 200ksps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2345-18
+$ENDCMP
+#
+$CMP LTC2348.LX-16
+D LTC2348-16, Octal, 16-Bit, 200ksps Differential ±10.24V Input SoftSpan ADC with Wide Input Common Mode Range, LQFP-48
+K 16-Bit 200ksps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2348-16
+$ENDCMP
+#
+$CMP LTC2348.LX-18
+D LTC2348-18, Octal, 18-Bit, 200ksps Differential ±10.24V Input SoftSpan ADC with Wide Input Common Mode Range, LQFP-48
+K 18-Bit 200ksps 8-Channel differential SoftSpan SAR ADC SPI
+F http://www.linear.com/product/LTC2348-18
+$ENDCMP
+#
+$CMP LTC2368.DE-16
+D LTC2368-16, 16-Bit, 1Msps, Pseudo- Differential Unipolar SAR ADC with 94.7dB SNR, DFN-16-1EP
+K 16-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-16
+$ENDCMP
+#
+$CMP LTC2368.DE-18
+D LTC2368-18, 18-Bit, 1Msps, Pseudo-Differential Unipolar SAR ADC with 97dB SNR, DFN-16-1EP
+K 18-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-18
+$ENDCMP
+#
+$CMP LTC2368.DE-24
+D LTC2368-24, 24-Bit, 1Msps, Pseudo- Differential Unipolar SAR ADC with Integrated Digital Filter, DFN-16-1EP
+K 24-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-24
+$ENDCMP
+#
+$CMP LTC2368.MS-16
+D LTC2368-16, 16-Bit, 1Msps, Pseudo- Differential Unipolar SAR ADC with 94.7dB SNR, MSOP-16
+K 16-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-16
+$ENDCMP
+#
+$CMP LTC2368.MS-18
+D LTC2368-18, 18-Bit, 1Msps, Pseudo-Differential Unipolar SAR ADC with 97dB SNR, MSOP-16
+K 18-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-18
+$ENDCMP
+#
+$CMP LTC2368.MS-24
+D LTC2368-24, 24-Bit, 1Msps, Pseudo- Differential Unipolar SAR ADC with Integrated Digital Filter, MSOP-16
+K 24-Bit, 1Msps, low-power pseudo-differential SAR ADC SPI filter
+F http://www.linear.com/product/LTC2368-24
+$ENDCMP
+#
+$CMP LTC2369.DE-18
+D LTC2369-18, 18-Bit, 1.6Msps, Pseudo- Differential Unipolar SAR ADC with 96.5dB SNR, DFN-16-1EP
+K 18-Bit, 1.6Msps, low-power pseudo-differential unipolar SAR ADC SPI filter
+F http://www.linear.com/product/LTC2369-18
+$ENDCMP
+#
+$CMP LTC2369.MS-18
+D LTC2369-18, 18-Bit, 1.6Msps, Pseudo- Differential Unipolar SAR ADC with 96.5dB SNR, MSOP-16
+K 18-Bit, 1.6Msps, low-power pseudo-differential unipolar SAR ADC SPI filter
+F http://www.linear.com/product/LTC2369-18
+$ENDCMP
+#
+$CMP LTC2372.UH-16
+D LTC2372-16, 16-Bit, 500ksps, 8-Channel SAR ADC with 96dB SNR, QFN-32-1EP
+K 16-Bit 500ksps 8-Channel SAR ADC SPI
+F http://www.linear.com/product/LTC2372-16
+$ENDCMP
+#
+$CMP LTC2372.UH-18
+D LTC2372-18, 18-Bit, 500ksps, 8-Channel SAR ADC with 100dB SNR, QFN-32-1EP
+K 18-Bit 500ksps 8-Channel SAR ADC SPI
+F http://www.linear.com/product/LTC2372-18
+$ENDCMP
+#
+$CMP LTC2376.DE-16
+D LTC2376-16, 16-Bit, 250ksps, Low Power SAR ADC with 97dB SNR, DFN-16-1EP
+K 16-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-16
+$ENDCMP
+#
+$CMP LTC2376.DE-18
+D LTC2376-18, 18-Bit, 250ksps, Low Power SAR ADC with 102dB SNR, DFN-16-1EP
+K 18-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-18
+$ENDCMP
+#
+$CMP LTC2376.DE-20
+D LTC2376-20, 20-Bit, 250ksps, Low Power SAR ADC with 0.5ppm INL, DFN-16-1EP
+K 20-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-20
+$ENDCMP
+#
+$CMP LTC2376.MS-16
+D LTC2376-16, 16-Bit, 250ksps, Low Power SAR ADC with 97dB SNR, MSOP-16-1EP
+K 16-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-16
+$ENDCMP
+#
+$CMP LTC2376.MS-18
+D LTC2376-18, 18-Bit, 250ksps, Low Power SAR ADC with 102dB SNR, MSOP-16-1EP
+K 18-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-18
+$ENDCMP
+#
+$CMP LTC2376.MS-20
+D LTC2376-20, 20-Bit, 250ksps, Low Power SAR ADC with 0.5ppm INL, MSOP-16-1EP
+K 20-Bit, 250ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2376-20
+$ENDCMP
+#
+$CMP LTC2377.DE-16
+D LTC2377-16, 16-Bit, 500ksps, Low Power SAR ADC with 97dB SNR, DFN-16-1EP
+K 16-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-16
+$ENDCMP
+#
+$CMP LTC2377.DE-18
+D LTC2377-18, 18-Bit, 500ksps, Low Power SAR ADC with 102dB SNR, DFN-16-1EP
+K 18-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-18
+$ENDCMP
+#
+$CMP LTC2377.DE-20
+D LTC2377-20, 20-Bit, 500ksps, Low Power SAR ADC with 0.5ppm INL, DFN-16-1EP
+K 20-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-20
+$ENDCMP
+#
+$CMP LTC2377.MS-16
+D LTC2377-16, 16-Bit, 500ksps, Low Power SAR ADC with 97dB SNR, MSOP-16-1EP
+K 16-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-16
+$ENDCMP
+#
+$CMP LTC2377.MS-18
+D LTC2377-18, 18-Bit, 500ksps, Low Power SAR ADC with 102dB SNR, MSOP-16-1EP
+K 18-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-18
+$ENDCMP
+#
+$CMP LTC2377.MS-20
+D LTC2377-20, 20-Bit, 500ksps, Low Power SAR ADC with 0.5ppm INL, MSOP-16-1EP
+K 20-Bit, 500ksps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2377-20
+$ENDCMP
+#
+$CMP LTC2378.DE-16
+D LTC2378-16, 16-Bit, 1Msps, Low Power SAR ADC with 97dB SNR, DFN-16-1EP
+K 16-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-16
+$ENDCMP
+#
+$CMP LTC2378.DE-18
+D LTC2378-18, 18-Bit, 1Msps, Low Power SAR ADC with 102dB SNR, DFN-16-1EP
+K 18-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-18
+$ENDCMP
+#
+$CMP LTC2378.DE-20
+D LTC2378-20, 20-Bit, 1Msps, Low Power SAR ADC with 0.5ppm INL, DFN-16-1EP
+K 20-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-20
+$ENDCMP
+#
+$CMP LTC2378.MS-16
+D LTC2378-16, 16-Bit, 1Msps, Low Power SAR ADC with 97dB SNR, MSOP-16-1EP
+K 16-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-16
+$ENDCMP
+#
+$CMP LTC2378.MS-18
+D LTC2378-18, 18-Bit, 1Msps, Low Power SAR ADC with 102dB SNR, MSOP-16-1EP
+K 18-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-18
+$ENDCMP
+#
+$CMP LTC2378.MS-20
+D LTC2378-20, 20-Bit, 1Msps, Low Power SAR ADC with 0.5ppm INL, MSOP-16-1EP
+K 20-Bit, 1Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2378-20
+$ENDCMP
+#
+$CMP LTC2379.DE-18
+D LTC2379-18, 18-Bit, 1.6Msps, Low Power SAR ADC with 101.2dB SNR, DFN-16-1EP
+K 18-Bit, 1.6Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2379-18
+$ENDCMP
+#
+$CMP LTC2379.MS-18
+D LTC2379-18, 18-Bit, 1.6Msps, Low Power SAR ADC with 101.2dB SNR, MSOP-16-1EP
+K 18-Bit, 1.6Msps, Low Power SAR ADC SPI
+F http://www.linear.com/product/LTC2379-18
+$ENDCMP
+#
+$CMP LTC2380.DE-24
+D LTC2380-24, 24-Bit, 1.5Msps/2Msps, Low Power SAR ADC with Integrated Digital Filter, DFN-16-1EP
+K 24-Bit, 2Msps, low power SAR ADC SPI filter
+F http://www.linear.com/product/LTC2380-24
+$ENDCMP
+#
+$CMP LTC2380.MS-24
+D LTC2380-24, 24-Bit, 1.5Msps/2Msps, Low Power SAR ADC with Integrated Digital Filter, MSOP-16
+K 24-Bit, 2Msps, low power SAR ADC SPI filter
+F http://www.linear.com/product/LTC2380-24
+$ENDCMP
+#
+$CMP LTC2385.UH-16
+D LTC2385-16, 16-Bit, 5Msps SAR ADC, QFN-32-1EP
+K 16-Bit 5Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2385-16
+$ENDCMP
+#
+$CMP LTC2385.UH-18
+D LTC2385-18, 18-Bit, 5Msps SAR ADC, QFN-32-1EP
+K 18-Bit 5Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2385-18
+$ENDCMP
+#
+$CMP LTC2386.UH-16
+D LTC2386-16, 16-Bit, 10Msps SAR ADC, QFN-32-1EP
+K 16-Bit 10Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2386-16
+$ENDCMP
+#
+$CMP LTC2386.UH-18
+D LTC2386-18, 18-Bit, 10Msps SAR ADC, QFN-32-1EP
+K 18-Bit 10Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2386-18
+$ENDCMP
+#
+$CMP LTC2387.UH-16
+D LTC2387-16, 16-Bit, 15Msps SAR ADC, QFN-32-1EP
+K 16-Bit 15Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2387-16
+$ENDCMP
+#
+$CMP LTC2387.UH-18
+D LTC2387-18, 18-Bit, 15Msps SAR ADC, QFN-32-1EP
+K 18-Bit 15Msps SAR ADC SPI
+F http://www.linear.com/product/LTC2387-18
+$ENDCMP
+#
+$CMP LTC2440.G
+D LTC2440, 24-Bit High Speed Differential Δ∑ ADC with Selectable Speed/Resolution, SSOP-16
+K 24-Bit ∆Σ ADC differential delta-sigma
+F http://www.linear.com/product/LTC2440
+$ENDCMP
+#
+$CMP LTC2442.G
+D LTC2442, 24-Bit High Speed 4-Channel ∆Σ ADC with Integrated Amplifier, SSOP-36
+K 24-Bit 4-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2442
+$ENDCMP
+#
+$CMP LTC2444.UHF
+D LTC2444, 24-Bit High Speed 8-Channel ∆Σ ADCs with Selectable Speed/Resolution, QFN-38-1EP
+K 24-Bit 8-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2444
+$ENDCMP
+#
+$CMP LTC2445.UHF
+D LTC2445, 24-Bit High Speed 8-Channel ∆Σ ADCs with Selectable Speed/Resolution, QFN-38-1EP
+K 24-Bit 8-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2445
+$ENDCMP
+#
+$CMP LTC2446.UHF
+D LTC2446, 24-Bit High Speed 8-Channel ∆Σ ADCs with Selectable Multiple Reference Inputs, QFN-38-1EP
+K 24-Bit 8-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2446
+$ENDCMP
+#
+$CMP LTC2447.UHF
+D LTC2447, 24-Bit High Speed 8-Channel ∆Σ ADCs with Selectable Multiple Reference Inputs, QFN-38-1EP
+K 24-Bit 8-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2447
+$ENDCMP
+#
+$CMP LTC2448.UHF
+D LTC2448, 24-Bit High Speed 16-Channel ∆Σ ADCs with Selectable Speed/Resolution, QFN-38-1EP
+K 24-Bit 16-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2448
+$ENDCMP
+#
+$CMP LTC2449.UHF
+D LTC2449, 24-Bit High Speed 16-Channel ∆Σ ADCs with Selectable Speed/Resolution, QFN-38-1EP
+K 24-Bit 16-Channel ∆Σ ADC delta-sigma
+F http://www.linear.com/product/LTC2449
+$ENDCMP
+#
+$CMP LTC2450.DC
+D LTC2450, Easy-to-Use, Ultra-Tiny 16-Bit ΔΣ ADC, DFN-6-1EP
+K 16-Bit ΔΣ delta-sigma ADC
+F http://www.linear.com/product/LTC2450
+$ENDCMP
+#
+$CMP LTC2450.DC-1
+D LTC2450-1, Easy-to-Use, Ultra-Tiny 16-Bit ΔΣ ADC, DFN-6-1EP
+K 16-Bit ΔΣ delta-sigma ADC
+F http://www.linear.com/product/LTC2450-1
+$ENDCMP
+#
+$CMP LTC2451.DDB
+D LTC2451, Ultra-Tiny, 16-Bit ∆∑ ADC with I2C Interface, DFN-8-1EP
+K 16-Bit ΔΣ delta-sigma ADC I2C
+F http://www.linear.com/product/LTC2451
+$ENDCMP
+#
+$CMP LTC2451.TS8
+D LTC2451, Ultra-Tiny, 16-Bit ∆∑ ADC with I2C Interface, TSOT-23-8
+K 16-Bit ΔΣ delta-sigma ADC I2C
+F http://www.linear.com/product/LTC2451
+$ENDCMP
+#
+$CMP LTC2452.DDB
+D LTC2452, Easy-to-Use, Ultra-Tiny, Differential 16-Bit ΔΣ ADC, DFN-8-1EP
+K 16-Bit ΔΣ differential delta-sigma ADC
+F http://www.linear.com/product/LTC2452
+$ENDCMP
+#
+$CMP LTC2452.TS8
+D LTC2452, Easy-to-Use, Ultra-Tiny, Differential 16-Bit ΔΣ ADC, TSOT-23-8
+K 16-Bit ΔΣ differential delta-sigma ADC
+F http://www.linear.com/product/LTC2452
+$ENDCMP
+#
+$CMP LTC2453.DDB
+D LTC2453, Ultra-Tiny, Differential, 16-Bit ∆∑ ADC with I2C Interface, DFN-8-1EP
+K 16-Bit ΔΣ differential delta-sigma ADC I2C
+F http://www.linear.com/product/LTC2453
+$ENDCMP
+#
+$CMP LTC2453.TS8
+D LTC2453, Ultra-Tiny, Differential, 16-Bit ∆∑ ADC with I2C Interface, TSOT-23-8
+K 16-Bit ΔΣ differential delta-sigma ADC I2C
+F http://www.linear.com/product/LTC2453
+$ENDCMP
+#
+$CMP LTC2480.DD
+D LTC2480, 16-Bit ∆Σ ADC with Easy Drive Input Current Cancellation, DFN-10-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma
+F http://www.linear.com/product/LTC2480
+$ENDCMP
+#
+$CMP LTC2480.MS
+D LTC2480, 16-Bit ∆Σ ADC with Easy Drive Input Current Cancellation, MSOP-10
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma
+F http://www.linear.com/product/LTC2480
+$ENDCMP
+#
+$CMP LTC2481.DD
+D LTC2481, 16-Bit ∆Σ ADC with Easy Drive Input Current Cancellation and I2C Interface, DFN-10-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma I2C
+F http://www.linear.com/product/LTC2481
+$ENDCMP
+#
+$CMP LTC2482.DD
+D LTC2482, 16-Bit ∆Σ ADC with Easy Drive Input Current Cancellation, DFN-10-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma
+F http://www.linear.com/product/LTC2482
+$ENDCMP
+#
+$CMP LTC2483.DD
+D LTC2483, 16-Bit ∆Σ ADC with Easy Drive Input Current Cancellation and I2C Interface, DFN-10-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma I2C
+F http://www.linear.com/product/LTC2483
+$ENDCMP
+#
+$CMP LTC2484.DD
+D LTC2484, 24-Bit ∆Σ ADC with Easy Drive Input Current Cancellation, DFN-10-1EP
+K 24-Bit ∆Σ ADC with Easy-Drive differential delta-sigma
+F http://www.linear.com/product/LTC2484
+$ENDCMP
+#
+$CMP LTC2485.DD
+D LTC2485, 24-Bit ∆Σ ADC with Easy Drive Input Current Cancellation and I2C Interface, DFN-10-1EP
+K 24-Bit ∆Σ ADC with Easy-Drive differential delta-sigma I2C
+F http://www.linear.com/product/LTC2485
+$ENDCMP
+#
+$CMP LTC2486.DE
+D LTC2486, 16-Bit 2-/4-Channel ΔS ADC with PGA and Easy Drive Input Current Cancellation, DFN-14-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma PGA
+F http://www.linear.com/product/LTC2486
+$ENDCMP
+#
+$CMP LTC2487.DE
+D LTC2487, 16-Bit 2-/4-Channel ΔS ADC with PGA and Easy Drive and I2C Interface, DFN-14-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma PGA I2C
+F http://www.linear.com/product/LTC2487
+$ENDCMP
+#
+$CMP LTC2488.DE
+D LTC2488, 16-Bit 2-/4-Channel ΔS ADC Easy Drive Input Current Cancellation, DFN-14-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma
+F http://www.linear.com/product/LTC2488
+$ENDCMP
+#
+$CMP LTC2489.DE
+D LTC2489, 16-Bit 2-/4-Channel ΔS ADC with Easy Drive and I2C Interface, DFN-14-1EP
+K 16-Bit ∆Σ ADC with Easy-Drive differential delta-sigma I2C
+F http://www.linear.com/product/LTC2489
+$ENDCMP
+#
+$CMP LTC2630.SC6-HM10
+D LTC2630-HM10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 10-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-HM12
+D LTC2630-HM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-HM8
+D LTC2630-HM8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 8-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-HZ10
+D LTC2630-HZ10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 10-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-HZ12
+D LTC2630-HZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-HZ8
+D LTC2630-HZ8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 8-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LM10
+D LTC2630-LM10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 10-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LM12
+D LTC2630-LM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LM8
+D LTC2630-LM8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 8-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LZ10
+D LTC2630-LZ10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 10-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LZ12
+D LTC2630-LZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630.SC6-LZ8
+D LTC2630-LZ8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 8-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630A.SC6-HM12
+D LTC2630A-HM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630A.SC6-HZ12
+D LTC2630A-HZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630A.SC6-LM12
+D LTC2630A-LM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2630A.SC6-LZ12
+D LTC2630A-LZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, SC-70-6
+K single voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2630
+$ENDCMP
+#
+$CMP LTC2631.TS8-HM10
+D LTC2631-HM10, Single 10-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-HM12
+D LTC2631-HM12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-HM8
+D LTC2631-HM8, Single 8-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-HZ10
+D LTC2631-HZ10, Single 10-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 10-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-HZ12
+D LTC2631-HZ12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-HZ8
+D LTC2631-HZ8, Single 8-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 8-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LM10
+D LTC2631-LM10, Single 10-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LM12
+D LTC2631-LM12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LM8
+D LTC2631-LM8, Single 8-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LZ10
+D LTC2631-LZ10, Single 10-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 10-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LZ12
+D LTC2631-LZ12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631.TS8-LZ8
+D LTC2631-LZ8, Single 8-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 8-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631A.TS8-HM12
+D LTC2631A-HM12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631A.TS8-HZ12
+D LTC2631A-HZ12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631A.TS8-LM12
+D LTC2631A-LM12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2631A.TS8-LZ12
+D LTC2631A-LZ12, Single 12-Bit I2C VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K single voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2631
+$ENDCMP
+#
+$CMP LTC2632.TS8-HI10
+D LTC2632-HI10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-HI12
+D LTC2632-HI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-HI8
+D LTC2632-HI8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-HZ10
+D LTC2632-HZ10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-HZ12
+D LTC2632-HZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-HZ8
+D LTC2632-HZ8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LI10
+D LTC2632-LI10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LI12
+D LTC2632-LI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LI8
+D LTC2632-LI8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LX10
+D LTC2632-LX10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LX12
+D LTC2632-LX12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LX8
+D LTC2632-LX8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LZ10
+D LTC2632-LZ10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LZ12
+D LTC2632-LZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632.TS8-LZ8
+D LTC2632-LZ8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632A.TS8-HI12
+D LTC2632A-HI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632A.TS8-HZ12
+D LTC2632A-HZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632A.TS8-LI12
+D LTC2632A-LI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632A.TS8-LX12
+D LTC2632A-LX12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2632A.TS8-LZ12
+D LTC2632A-LZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2632
+$ENDCMP
+#
+$CMP LTC2633.TS8-HI10
+D LTC2633-HI10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-HI12
+D LTC2633-HI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-HI8
+D LTC2633-HI8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-HZ10
+D LTC2633-HZ10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-HZ12
+D LTC2633-HZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-HZ8
+D LTC2633-HZ8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LI10
+D LTC2633-LI10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LI12
+D LTC2633-LI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LI8
+D LTC2633-LI8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LO10
+D LTC2633-LO10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LO12
+D LTC2633-LO12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LO8
+D LTC2633-LO8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LX10
+D LTC2633-LX10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LX12
+D LTC2633-LX12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LX8
+D LTC2633-LX8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LZ10
+D LTC2633-LZ10, Dual 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LZ12
+D LTC2633-LZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633.TS8-LZ8
+D LTC2633-LZ8, Dual 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-HI12
+D LTC2633A-HI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-HZ12
+D LTC2633A-HZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-LI12
+D LTC2633A-LI12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-LO12
+D LTC2633A-LO12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-LX12
+D LTC2633A-LX12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2633A.TS8-LZ12
+D LTC2633A-LZ12, Dual 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K dual voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2633
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMI10
+D LTC2634-HMI10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMI12
+D LTC2634-HMI12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMI8
+D LTC2634-HMI8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMX10
+D LTC2634-HMX10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMX12
+D LTC2634-HMX12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HMX8
+D LTC2634-HMX8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HZ10
+D LTC2634-HZ10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HZ12
+D LTC2634-HZ12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-HZ8
+D LTC2634-HZ8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMI10
+D LTC2634-LMI10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMI12
+D LTC2634-LMI12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMI8
+D LTC2634-LMI8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMX10
+D LTC2634-LMX10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMX12
+D LTC2634-LMX12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LMX8
+D LTC2634-LMX8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LZ10
+D LTC2634-LZ10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LZ12
+D LTC2634-LZ12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.MSE-LZ8
+D LTC2634-LZ8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMI10
+D LTC2634-HMI10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMI12
+D LTC2634-HMI12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMI8
+D LTC2634-HMI8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMX10
+D LTC2634-HMX10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMX12
+D LTC2634-HMX12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HMX8
+D LTC2634-HMX8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HZ10
+D LTC2634-HZ10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HZ12
+D LTC2634-HZ12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-HZ8
+D LTC2634-HZ8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMI10
+D LTC2634-LMI10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMI12
+D LTC2634-LMI12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMI8
+D LTC2634-LMI8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMX10
+D LTC2634-LMX10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMX12
+D LTC2634-LMX12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LMX8
+D LTC2634-LMX8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LZ10
+D LTC2634-LZ10, Quad 10-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LZ12
+D LTC2634-LZ12, Quad 12-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2634.UD-LZ8
+D LTC2634-LZ8, Quad 8-Bit SPI VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2634
+$ENDCMP
+#
+$CMP LTC2635.MSE-HMI10
+D LTC2635-HMI10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-HMI12
+D LTC2635-HMI12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-HMI8
+D LTC2635-HMI8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-HZ10
+D LTC2635-HZ10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-HZ12
+D LTC2635-HZ12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-HZ8
+D LTC2635-HZ8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMI10
+D LTC2635-LMI10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMI12
+D LTC2635-LMI12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMI8
+D LTC2635-LMI8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMO10
+D LTC2635-LMO10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMO12
+D LTC2635-LMO12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMO8
+D LTC2635-LMO8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMX10
+D LTC2635-LMX10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMX12
+D LTC2635-LMX12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LMX8
+D LTC2635-LMX8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LZ10
+D LTC2635-LZ10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 10-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LZ12
+D LTC2635-LZ12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.MSE-LZ8
+D LTC2635-LZ8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-10-1EP
+K quad voltage DAC 8-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HMI10
+D LTC2635-HMI10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HMI12
+D LTC2635-HMI12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HMI8
+D LTC2635-HMI8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HZ10
+D LTC2635-HZ10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HZ12
+D LTC2635-HZ12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-HZ8
+D LTC2635-HZ8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMI10
+D LTC2635-LMI10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMI12
+D LTC2635-LMI12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMI8
+D LTC2635-LMI8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMO10
+D LTC2635-LMO10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMO12
+D LTC2635-LMO12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMO8
+D LTC2635-LMO8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMX10
+D LTC2635-LMX10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMX12
+D LTC2635-LMX12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LMX8
+D LTC2635-LMX8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LZ10
+D LTC2635-LZ10, Quad 10-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 10-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LZ12
+D LTC2635-LZ12, Quad 12-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2635.UD-LZ8
+D LTC2635-LZ8, Quad 8-Bit I2C VOUT DAC with 10ppm/°C Reference, QFN-16-1EP
+K quad voltage DAC 8-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2635
+$ENDCMP
+#
+$CMP LTC2636.DE-HMI10
+D LTC2636-HMI10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HMI12
+D LTC2636-HMI12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HMI8
+D LTC2636-HMI8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HMX10
+D LTC2636-HMX10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HMX12
+D LTC2636-HMX12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HMX8
+D LTC2636-HMX8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HZ10
+D LTC2636-HZ10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HZ12
+D LTC2636-HZ12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-HZ8
+D LTC2636-HZ8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMI10
+D LTC2636-LMI10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMI12
+D LTC2636-LMI12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMI8
+D LTC2636-LMI8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMX10
+D LTC2636-LMX10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMX12
+D LTC2636-LMX12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LMX8
+D LTC2636-LMX8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LZ10
+D LTC2636-LZ10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LZ12
+D LTC2636-LZ12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.DE-LZ8
+D LTC2636-LZ8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMI10
+D LTC2636-HMI10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMI12
+D LTC2636-HMI12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMI8
+D LTC2636-HMI8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMX10
+D LTC2636-HMX10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMX12
+D LTC2636-HMX12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HMX8
+D LTC2636-HMX8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HZ10
+D LTC2636-HZ10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HZ12
+D LTC2636-HZ12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-HZ8
+D LTC2636-HZ8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMI10
+D LTC2636-LMI10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMI12
+D LTC2636-LMI12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMI8
+D LTC2636-LMI8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMX10
+D LTC2636-LMX10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMX12
+D LTC2636-LMX12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LMX8
+D LTC2636-LMX8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V mid-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LZ10
+D LTC2636-LZ10, Octal 10-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LZ12
+D LTC2636-LZ12, Octal 12-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2636.MS-LZ8
+D LTC2636-LZ8, Octal 8-Bit SPI VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V zero-reset SPI
+F http://www.linear.com/product/LTC2636
+$ENDCMP
+#
+$CMP LTC2637.DE-HMI10
+D LTC2637-HMI10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HMI12
+D LTC2637-HMI12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HMI8
+D LTC2637-HMI8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HMX10
+D LTC2637-HMX10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HMX12
+D LTC2637-HMX12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HMX8
+D LTC2637-HMX8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HZ10
+D LTC2637-HZ10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HZ12
+D LTC2637-HZ12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-HZ8
+D LTC2637-HZ8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMI10
+D LTC2637-LMI10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMI12
+D LTC2637-LMI12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMI8
+D LTC2637-LMI8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMX10
+D LTC2637-LMX10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMX12
+D LTC2637-LMX12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LMX8
+D LTC2637-LMX8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LZ10
+D LTC2637-LZ10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 10-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LZ12
+D LTC2637-LZ12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.DE-LZ8
+D LTC2637-LZ8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, DFN-14-1EP
+K octal voltage DAC 8-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMI10
+D LTC2637-HMI10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMI12
+D LTC2637-HMI12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMI8
+D LTC2637-HMI8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMX10
+D LTC2637-HMX10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMX12
+D LTC2637-HMX12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HMX8
+D LTC2637-HMX8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HZ10
+D LTC2637-HZ10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HZ12
+D LTC2637-HZ12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-HZ8
+D LTC2637-HZ8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 4.096V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMI10
+D LTC2637-LMI10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMI12
+D LTC2637-LMI12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMI8
+D LTC2637-LMI8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMX10
+D LTC2637-LMX10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMX12
+D LTC2637-LMX12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LMX8
+D LTC2637-LMX8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V mid-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LZ10
+D LTC2637-LZ10, Octal 10-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 10-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LZ12
+D LTC2637-LZ12, Octal 12-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 12-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2637.MS-LZ8
+D LTC2637-LZ8, Octal 8-Bit I2C VOUT DAC with 10ppm/°C Reference, MSOP-16
+K octal voltage DAC 8-Bit reference 2.5V zero-reset I2C
+F http://www.linear.com/product/LTC2637
+$ENDCMP
+#
+$CMP LTC2640.TS8-HM10
+D LTC2640-HM10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 10-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-HM12
+D LTC2640-HM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-HM8
+D LTC2640-HM8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 8-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-HZ10
+D LTC2640-HZ10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 10-Bit reference 4.096V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-HZ12
+D LTC2640-HZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 4.096V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-HZ8
+D LTC2640-HZ8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 8-Bit reference 4.096V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LM10
+D LTC2640-LM10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 10-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LM12
+D LTC2640-LM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LM8
+D LTC2640-LM8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 8-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LZ10
+D LTC2640-LZ10, Single 10-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 10-Bit reference 2.5V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LZ12
+D LTC2640-LZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 2.5V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640.TS8-LZ8
+D LTC2640-LZ8, Single 8-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 8-Bit reference 2.5V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640A.TS8-HM12
+D LTC2640A-HM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 4.096V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640A.TS8-HZ12
+D LTC2640A-HZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 4.096V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640A.TS8-LM12
+D LTC2640A-LM12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 2.5V mid-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2640A.TS8-LZ12
+D LTC2640A-LZ12, Single 12-Bit SPI VOUT DAC with 10ppm/°C Reference, TSOT-23-8
+K voltage DAC 12-Bit reference 2.5V zero-reset
+F http://www.linear.com/product/LTC2640
+$ENDCMP
+#
+$CMP LTC2641.DD-12
+D LTC2641-12, 12-Bit Vout DAC, DFN-8-1EP
+K 12-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641.DD-14
+D LTC2641-14, 14-Bit Vout DAC, DFN-8-1EP
+K 14-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641.DD-16
+D LTC2641-16, 16-Bit Vout DAC, DFN-8-1EP
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641.MS-12
+D LTC2641-12, 12-Bit Vout DAC, MSOP-8
+K 12-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641.MS-14
+D LTC2641-14, 14-Bit Vout DAC, MSOP-8
+K 14-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641.MS-16
+D LTC2641-16, 16-Bit Vout DAC, MSOP-8
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641A.DD-16
+D LTC2641-16, 16-Bit Vout DAC, DFN-8-1EP
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2641A.MS-16
+D LTC2641-16, 16-Bit Vout DAC, MSOP-8
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2641
+$ENDCMP
+#
+$CMP LTC2642.DD-12
+D LTC2642-12, 12-Bit Vout DAC, DFN-8-1EP
+K 12-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642.DD-14
+D LTC2642-14, 14-Bit Vout DAC, DFN-8-1EP
+K 14-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642.DD-16
+D LTC2642-16, 16-Bit Vout DAC, DFN-8-1EP
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642.MS-12
+D LTC2642-12, 12-Bit Vout DAC, MSOP-8
+K 12-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642.MS-14
+D LTC2642-14, 14-Bit Vout DAC, MSOP-8
+K 14-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642.MS-16
+D LTC2642-16, 16-Bit Vout DAC, MSOP-8
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642A.DD-16
+D LTC2642-16, 16-Bit Vout DAC, DFN-8-1EP
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+$CMP LTC2642A.MS-16
+D LTC2642-16, 16-Bit Vout DAC, MSOP-8
+K 16-Bit Vout DAC
+F http://www.linear.com/product/LTC2642
+$ENDCMP
+#
+#End Doc Library

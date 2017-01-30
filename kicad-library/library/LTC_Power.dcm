@@ -1,0 +1,1365 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1761.S5-1.2
+D LT1761-1.2, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 1.2V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-1.5
+D LT1761-1.5, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 1.5V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-1.8
+D LT1761-1.8, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 1.8V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-2
+D LT1761-2, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 2V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-2.5
+D LT1761-2.5, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 2.5V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-2.8
+D LT1761-2.8, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 2.8V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-3
+D LT1761-3, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 3V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-3.3
+D LT1761-3.3, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 3.3V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-5
+D LT1761-5, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 5V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-BYP
+D LT1761ES5-BYP, 100mA, Low Noise, LDO Micropower Regulator adjustable, SOT-23-5
+K Ultra Low Power adjustable LDO 100mA
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-SD
+D LT1761ES5-SD, 100mA, Low Noise, LDO Micropower Regulator adjustable with shutdown, SOT-23-5
+K Ultra Low Power adjustable LDO 100mA shutdown
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT1761.S5-X
+D LT1761ES5-X, 100mA, Low Noise, LDO Micropower Regulator fixed, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA 1.2V 1.5V 1.8V 2V 2.5V 2.8V 3V 3.3V 5V
+F http://www.linear.com/product/LT1761
+$ENDCMP
+#
+$CMP LT3007.TS8
+D LT3007, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23
+K LDO Regulator IQ
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-1.2
+D LT3007-1.2, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 1.2V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-1.5
+D LT3007-1.5, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 1.5V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-1.8
+D LT3007-1.8, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 20mA 1.8V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-2.5
+D LT3007-2.5, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 20mA 2.5V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-3.3
+D LT3007-3.3, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 20mA 3.3V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-5
+D LT3007-5, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 20mA 5V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3007.TS8-X
+D LT3007-X, 3μA IQ, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators, TSOT-23-8
+K LDO Regulator IQ fixed 1.2V 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.linear.com/product/LT3007
+$ENDCMP
+#
+$CMP LT3008.DC
+D LT3008, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators adjustable, DFN-6-1EP
+K LDO Regulator low IQ adjustable
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-1.2
+D LT3008-1.2, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 1.2
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-1.5
+D LT3008-1.5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 1.5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-1.8
+D LT3008-1.8, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 1.8V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-2.5
+D LT3008-2.5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 2.5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-3.3
+D LT3008-3.3, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 3.3V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-5
+D LT3008-5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 20mA 5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.DC-X
+D LT3008-X, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, DFN-6-1EP
+K LDO Regulator low IQ fixed 1.2 1.5 1.8 2.5 3.3 5
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8
+D LT3008, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators adjustable, TSOT-23-8
+K LDO Regulator low IQ adjustable
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-1.2
+D LT3008-1.2, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 1.2V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-1.5
+D LT3008-1.5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 1.5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-1.8
+D LT3008-1.8, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 1.8V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-2.5
+D LT3008-2.5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 2.5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-3.3
+D LT3008-3.3, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 3.3V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-5
+D LT3008-5, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA 5V
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3008.TS8-X
+D LT3008-X, 3μA Iq, 20mA, 45V Low Dropout Fault Tolerant Linear Regulators fixed, TSOT-23-8
+K LDO Regulator low IQ fixed 20mA
+F http://www.linear.com/product/LT3008
+$ENDCMP
+#
+$CMP LT3010.MS8E
+D LT3010, 50mA, 3V to 80V Low Dropout Micropower Linear Regulator, MSOP-8-1EP
+K LDO Regulator Iq adjustable 50mA
+F http://www.linear.com/product/LT3010
+$ENDCMP
+#
+$CMP LT3010.MS8E-5
+D LT3010-5, 50mA, 3V to 80V Low Dropout Micropower Linear Regulator fixed 5V, MSOP-8-1EP
+K LDO Regulator Iq fixed 5V 50mA
+F http://www.linear.com/product/LT3010
+$ENDCMP
+#
+$CMP LT3011.DD
+D LT3011, 50mA, 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD, DFN-10-1EP
+K LDO limit regulator 50mA
+F http://www.linear.com/product/LT3011
+$ENDCMP
+#
+$CMP LT3011.MSE
+D LT3011, 50mA, 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD, MSOP-12-1EP
+K LDO limit regulator 50mA
+F http://www.linear.com/product/LT3011
+$ENDCMP
+#
+$CMP LT3012.DE
+D LT3012, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator, DFN-12-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3012
+$ENDCMP
+#
+$CMP LT3012.FE
+D LT3012, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator, TSSOP-16-1EP
+K LDO regulator 250mA
+F http://www.linear.com/product/LT3012
+$ENDCMP
+#
+$CMP LT3012B.DE
+D LT3012B, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator, DFN-12-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3012B
+$ENDCMP
+#
+$CMP LT3012B.FE
+D LT3012B, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator, TSSOP-16-1EP
+K LDO regulator 250mA
+F http://www.linear.com/product/LT3012B
+$ENDCMP
+#
+$CMP LT3013.DE
+D LT3013, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator with PWRGD, DFN-12-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3013
+$ENDCMP
+#
+$CMP LT3013.FE
+D LT3013, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator with PWRGD, TSSOP-16-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3013
+$ENDCMP
+#
+$CMP LT3013B.DE
+D LT3013B, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator with PWRGD, DFN-12-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3013B
+$ENDCMP
+#
+$CMP LT3013B.FE
+D LT3013B, 250mA, 4V to 80V Low Dropout Micropower Linear Regulator with PWRGD, TSSOP-16-1EP
+K LDO limit regulator 250mA
+F http://www.linear.com/product/LT3013B
+$ENDCMP
+#
+$CMP LT3014.S5
+D LT3014, 20mA, Low Noise, LDO Micropower Regulator, SOT-23-5
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014
+$ENDCMP
+#
+$CMP LT3014B.S5
+D LT3014, 20mA, Low Noise, LDO Micropower Regulator, SOT-23-5
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014
+$ENDCMP
+#
+$CMP LT3014HV.S5
+D LT3014, 20mA, Low Noise, LDO Micropower Regulator, SOT-23-5
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014
+$ENDCMP
+#
+$CMP LT3015.DD
+D LT3015, 1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-12
+D LT3015-12, 1.5A, Fixed 12V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 12V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-15
+D LT3015-15, 1.5A, Fixed 15V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 15V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-2.5
+D LT3015-2.5, 1.5A, Fixed 2.5V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 2.5V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-3
+D LT3015-3, 1.5A, Fixed 3V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 3V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-3.3
+D LT3015-3.3, 1.5A, Fixed 3.3V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 3.3V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.DD-5
+D LT3015-5, 1.5A, Fixed 5V, Low Noise, Negative Linear Regulator with Precision Current Limit, DFN-8-1EP
+K LDO negative 1.5A precision current limit fixed 5V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE
+D LT3015, 1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-12
+D LT3015-12, 1.5A, Fixed 12V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 12V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-15
+D LT3015-15, 1.5A, Fixed 15V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 15V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-2.5
+D LT3015-2.5, 1.5A, Fixed 2.5V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 2.5V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-3
+D LT3015-3, 1.5A, Fixed 3V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 3V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-3.3
+D LT3015-3.3, 1.5A, Fixed 3.3V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 3.3V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3015.MSE-5
+D LT3015-5, 1.5A, Fixed 5V, Low Noise, Negative Linear Regulator with Precision Current Limit, MSOP-12-1EP
+K LDO negative 1.5A precision current limit fixed 5V
+F http://www.linear.com/product/LT3015
+$ENDCMP
+#
+$CMP LT3042.DD
+D LT3042, 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, DFN-10-1EP
+K LDO Resistor Regulator 200mA
+F http://www.linear.com/product/LT3042
+$ENDCMP
+#
+$CMP LT3060.DC
+D LT3060, 45V VIN, Micropower, Low Noise, 100mA LDO with Output Discharge, DFN-8-1EP
+K LDO limit regulator 100mA
+F http://www.linear.com/product/LT3060
+$ENDCMP
+#
+$CMP LT3060.TS8
+D LT3060, 45V VIN, Micropower, Low Noise, 100mA LDO with Output Discharge, TSOT-23-8
+K LDO limit regulator 100mA
+F http://www.linear.com/product/LT3060
+$ENDCMP
+#
+$CMP LT3061.DCB
+D LT3061, 45V VIN, Micropower, Low Noise, 100mA LDO with Output Discharge, DFN-8-1EP
+K LDO limit regulator 100mA
+F http://www.linear.com/product/LT3061
+$ENDCMP
+#
+$CMP LT3061.MS8E
+D LT3061, 45V VIN, Micropower, Low Noise, 100mA LDO with Output Discharge, MSOP-8-1EP
+K LDO limit regulator 100mA
+F http://www.linear.com/product/LT3061
+$ENDCMP
+#
+$CMP LT3062.DCB
+D LT3062, 45V VIN, Micropower, Low Noise, 200mA LDO, DFN-8-1EP
+K LDO limit regulator 200mA
+F http://www.linear.com/product/LT3062
+$ENDCMP
+#
+$CMP LT3062.MS8E
+D LT3062, 45V VIN, Micropower, Low Noise, 200mA LDO, MSOP-8-1EP
+K LDO limit regulator 200mA
+F http://www.linear.com/product/LT3062
+$ENDCMP
+#
+$CMP LT3063.DCB
+D LT3063, 45V VIN, Micropower, Low Noise, 200mA LDO with Output Discharge, DFN-8-1EP
+K LDO limit regulator 200mA
+F http://www.linear.com/product/LT3063
+$ENDCMP
+#
+$CMP LT3063.MS8E
+D LT3063, 45V VIN, Micropower, Low Noise, 200mA LDO with Output Discharge, MSOP-8-1EP
+K LDO limit regulator 200mA
+F http://www.linear.com/product/LT3063
+$ENDCMP
+#
+$CMP LT3065.DD
+D LT3065, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-1.2
+D LT3065, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-1.5
+D LT3065-1.5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator fixed 1.5V
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-1.8
+D LT3065-1.8, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator fixed 1.8V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-2.5
+D LT3065-2.5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator fixed 2.5V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-3.3
+D LT3065-3.3, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator fixed 3.3V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.DD-5
+D LT3065-5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, DFN-10-1EP
+K LDO limit regulator fixed 5V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE
+D LT3065, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-1.2
+D LT3065, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-1.5
+D LT3065-1.5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator fixed 1.5V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-1.8
+D LT3065-1.8, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator fixed 1.8V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-2.5
+D LT3065-2.5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator fixed 2.5V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-3.3
+D LT3065-3.3, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator fixed 3.3V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3065.MSE-5
+D LT3065-5, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good, MSOP-12-1EP
+K LDO limit regulator fixed 5V 500mA
+F http://www.linear.com/product/LT3065
+$ENDCMP
+#
+$CMP LT3066.DE
+D LT3066, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Active Output Discharge, DFN-12-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
+$CMP LT3066.MSE
+D LT3066, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Active Output Discharge, MSOP-12-1EP
+K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
+$CMP LT3080.DD
+D LT3080, Adjustable1.1A Single Resistor Low Dropout Regulator, DFN-8-1EP
+K LDO Resistor Regulator Monitors
+F http://www.linear.com/product/LT3080
+$ENDCMP
+#
+$CMP LT3080.MS8E
+D LT3080, Adjustable 1.1A Single Resistor Low Dropout Regulator, MSOP-8-1EP
+K LDO Resistor Regulator Monitors adjustable
+F http://www.linear.com/product/LT3080
+$ENDCMP
+#
+$CMP LT3081.DF
+D LT3081, 1.5A Single Resistor Rugged Linear Regulator with Monitors, DFN-12-1EP
+K LDO Rugged Resistor Regulator Monitors
+F http://www.linear.com/product/LT3081
+$ENDCMP
+#
+$CMP LT3081.FE
+D LT3081, 1.5A Single Resistor Rugged Linear Regulator with Monitors, TSSOP-16-1EP
+K LDO Rugged Resistor Regulator Monitors
+F http://www.linear.com/product/LT3081
+$ENDCMP
+#
+$CMP LT3082.DD
+D LT3082, 200mA Single Resistor Low Dropout Linear Regulator, DFN-8-1EP
+K LDO Resistor Regulator
+F http://www.linear.com/product/LT3082
+$ENDCMP
+#
+$CMP LT3082.ST
+D LT3082, 200mA Single Resistor Low Dropout Linear Regulator, SOT-223
+K LDO Resistor Regulator
+F http://www.linear.com/product/LT3082
+$ENDCMP
+#
+$CMP LT3082.TS8
+D LT3082, 200mA Single Resistor Low Dropout Linear Regulator, TSOT-23-8
+K LDO Resistor Regulator
+F http://www.linear.com/product/LT3082
+$ENDCMP
+#
+$CMP LT3085.DCB
+D LT3085, Adjustable 500mA Single Resistor Low Dropout Regulator, DFN-6-1EP
+K LDO Resistor Regulator 500mA
+F http://www.linear.com/product/LT3085
+$ENDCMP
+#
+$CMP LT3085.MS8E
+D LT3085, Adjustable 500mA Single Resistor Low Dropout Regulator, MSOP-8-1EP
+K LDO Resistor Regulator 500mA
+F http://www.linear.com/product/LT3085
+$ENDCMP
+#
+$CMP LT3088.DD
+D LT3088, Adjustable 800mA Single Resistor Rugged Linear Regulator, DFN-8-1EP
+K LDO Resistor Regulator Monitors
+F http://www.linear.com/product/LT3088
+$ENDCMP
+#
+$CMP LT3088.M
+D LT3088, Adjustable 800mA Single Resistor Rugged Linear Regulator, DDPAK
+K LDO Resistor Regulator 800mA
+F http://www.linear.com/product/LT3088
+$ENDCMP
+#
+$CMP LT3088.ST
+D LT3088, Adjustable 800mA Single Resistor Rugged Linear Regulator, SOT-223
+K LDO Resistor Regulator 800mA
+F http://www.linear.com/product/LT3088
+$ENDCMP
+#
+$CMP LT3089.DF
+D LT3089, 800mA Single Resistor Rugged Linear Regulator with Monitors, DFN-12-1EP
+K LDO Rugged Resistor Regulator Monitors
+F http://www.linear.com/product/LT3089
+$ENDCMP
+#
+$CMP LT3089.FE
+D LT3089, 800mA Single Resistor Rugged Linear Regulator with Monitors, TSSOP-16-1EP
+K LDO Rugged Resistor Regulator Monitors
+F http://www.linear.com/product/LT3089
+$ENDCMP
+#
+$CMP LT3091.DE
+D LT3091, –36V, 1.5A Negative Linear Regulator with Programmable Current Limit, DFN-14-1EP
+K LDO negative resistor regulator monitors current limit 1.5A
+F http://www.linear.com/product/LT3091
+$ENDCMP
+#
+$CMP LT3092.DD
+D LT3092, 200mA 2-Terminal Programmable Current Source, DFN-8-1EP
+K current source
+F http://www.linear.com/product/LT3092
+$ENDCMP
+#
+$CMP LT3092.ST
+D LT3092, 200mA 2-Terminal Programmable Current Source, SOT-223
+K current source
+F http://www.linear.com/product/LT3092
+$ENDCMP
+#
+$CMP LT3092.TS8
+D LT3092, 200mA 2-Terminal Programmable Current Source, TSOT-23-8
+K current source
+F http://www.linear.com/product/LT3092
+$ENDCMP
+#
+$CMP LT3470.DDB
+D LT3470, Micropower Buck Regulator with Integrated Boost and Catch Diodes, DFN-8-1EP
+K 250mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3470
+$ENDCMP
+#
+$CMP LT3470.TS8
+D LT3470, Micropower Buck Regulator with Integrated Boost and Catch Diodes, TSOT-23-8
+K 250mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3470
+$ENDCMP
+#
+$CMP LT3470A.DDB
+D LT3470A, Micropower Buck Regulator with Integrated Boost and Catch Diodes, DFN-8-1EP
+K 250mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3470A
+$ENDCMP
+#
+$CMP LT3502.DC
+D LT3502, 1.1MHz, 500mA Step-Down Regulators, DFN-8-1EP
+K 1.1MHz 500mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3502
+$ENDCMP
+#
+$CMP LT3502.MS
+D LT3502, 1.1MHz, 500mA Step-Down Regulators, MSOP-10
+K 1.1MHz 500mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3502
+$ENDCMP
+#
+$CMP LT3502A.DC
+D LT3502A, 2.2MHz, 500mA Step-Down Regulators, DFN-8-1EP
+K 2.2MHz 500mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3502
+$ENDCMP
+#
+$CMP LT3502A.MS
+D LT3502A, 2.2MHz, 500mA Step-Down Regulators, MSOP-10
+K 2.2MHz 500mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3502
+$ENDCMP
+#
+$CMP LT3590.DC
+D LT3590, 48V Buck Mode LED Driver, DFN-6-1EP
+K 48V Buck LED Driver
+F http://www.linear.com/product/LT3590
+$ENDCMP
+#
+$CMP LT3590.SC8
+D LT3590, 48V Buck Mode LED Driver, SC-70-8
+K 48V Buck LED Driver
+F http://www.linear.com/product/LT3590
+$ENDCMP
+#
+$CMP LT3641.FE
+D LT3641, 4V to 42V Dual Monolithic Buck Regulator with Power-On Reset and Watchdog Timer, TSSOP-28
+K High Voltage 42V Dual Buck monolithic synchronous
+F http://www.linear.com/product/LT3641
+$ENDCMP
+#
+$CMP LT3641.UFD
+D LT3641, 4V to 42V Dual Monolithic Buck Regulator with Power-On Reset and Watchdog Timer, QFN-28-1EP
+K High Voltage 42V Dual Buck monolithic synchronous POR Watchdog
+F http://www.linear.com/product/LT3641
+$ENDCMP
+#
+$CMP LT3761.MSE
+D LT3761, 60VIN LED Controller with Internal PWM Generator, MSOP-16-1EP
+K LED driver PWM controller multi-topology
+F http://www.linear.com/product/LT3761
+$ENDCMP
+#
+$CMP LT3790.FE
+D LT3790, 60V Synchronous 4-Switch Buck-Boost Controller, TSSOP-38-1EP
+K 60V Synchronous 4-Switch Buck-Boost Controller
+F http://www.linear.com/product/LT3790
+$ENDCMP
+#
+$CMP LT3990.DD
+D LT3990, 62V, 350mA Step-Down Regulator with 2.5μA Quiescent Current and Integrated Diodes, DFN-10-1EP
+K 350mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3990
+$ENDCMP
+#
+$CMP LT3990.MSE
+D LT3990, 62V, 350mA Step-Down Regulator with 2.5μA Quiescent Current and Integrated Diodes, MSOP-16-1EP
+K 350mA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3990
+$ENDCMP
+#
+$CMP LT3990.MSE-3.3
+D LT3990-3.3, 62V, 350mA Fixed 3.3V Step-Down Regulator with 2.5μA Quiescent Current and Integrated Diodes, MSOP-16-1EP
+K 350mA Step-Down Regulator Buck fixed 3.3V
+F http://www.linear.com/product/LT3990
+$ENDCMP
+#
+$CMP LT3990.MSE-5
+D LT3990-5, 62V, 350mA Fixed 5V Step-Down Regulator with 2.5μA Quiescent Current and Integrated Diodes, MSOP-16-1EP
+K 350mA Step-Down Regulator Buck fixed 5V
+F http://www.linear.com/product/LT3990
+$ENDCMP
+#
+$CMP LT3991.DD
+D LT3991, 55V, 1.2A Step-Down Regulator with 2.8μA Quiescent Current, DFN-10-1EP
+K 55V 1.2A 2.8µA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3991
+$ENDCMP
+#
+$CMP LT3991.MSE
+D LT3991, 55V, 1.2A Step-Down Regulator with 2.8μA Quiescent Current, MSOP-10-1EP
+K 55V 1.2A 2.8µA Step-Down Regulator Buck
+F http://www.linear.com/product/LT3991
+$ENDCMP
+#
+$CMP LT3991.MSE-3.3
+D LT3991-3.3, 55V, 1.2A Step-Down Regulator Fixed 3.3V with 2.8μA Quiescent Current, MSOP-10-1EP
+K 55V 1.2A 2.8µA Step-Down Regulator Buck fixed 3.3V
+F http://www.linear.com/product/LT3991
+$ENDCMP
+#
+$CMP LT3991.MSE-5
+D LT3991-5, 55V, 1.2A Step-Down Regulator Fixed 5V with 2.8μA Quiescent Current, MSOP-10-1EP
+K 55V 1.2A 2.8µA Step-Down Regulator Buck fixed 5V
+F http://www.linear.com/product/LT3991
+$ENDCMP
+#
+$CMP LT8300.S5
+D LT8300, 100VIN Micropower Isolated Flyback Converter with 150V/260mA Switch, TSOT-23-5
+K 100V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8300
+$ENDCMP
+#
+$CMP LT8301.S5
+D LT8301, 42VIN Micropower No-Opto Isolated Flyback Converter with 65V/1.2A Switch, TSOT-23-5
+K 42V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8301
+$ENDCMP
+#
+$CMP LT8302.S8E
+D LT8302, 42VIN Micropower No-Opto Isolated Flyback Converter with 65V/3.6A Switch, SOIC-8-1EP
+K 42V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8302
+$ENDCMP
+#
+$CMP LT8391.FE
+D LT8391, 60V Synchronous 4-Switch Buck-Boost LED Controller with Spread Spectrum, TSSOP-28-1EP
+K 60V Synchronous 4-Switch Buck-Boost LED Controller
+F http://www.linear.com/product/LT8391
+$ENDCMP
+#
+$CMP LT8391.UDF
+D LT8391, 60V Synchronous 4-Switch Buck-Boost LED Controller with Spread Spectrum, QFN-28-1EP
+K 60V Synchronous 4-Switch Buck-Boost LED Controller
+F http://www.linear.com/product/LT8391
+$ENDCMP
+#
+$CMP LT8601.UJ
+D LT8601, 42V Triple Monolithic Synchronous Step-Down Regulator, QFN-40-1EP
+K Triple 42V Buck monolithic synchronous step-down regulator
+F http://www.linear.com/product/LT8601
+$ENDCMP
+#
+$CMP LT8602.UJ
+D LT8602, 42V Quad Monolithic Synchronous Step-Down Regulator, QFN-40-1EP
+K Quad 42V Buck monolithic synchronous step-down regulator
+F http://www.linear.com/product/LT8602
+$ENDCMP
+#
+$CMP LT8608.MSE
+D LT8608EMSE, 42V, 1.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8608
+$ENDCMP
+#
+$CMP LT8609.MSE
+D LT8609EMSE, 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8609
+$ENDCMP
+#
+$CMP LT8609A.MSE
+D LT8609AEMSE, Low EMI 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V Buck monolithic synchronous EMI
+F http://www.linear.com/product/LT8609
+$ENDCMP
+#
+$CMP LT8610A.MSE
+D LT8610A, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-16-1EP
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8610A
+$ENDCMP
+#
+$CMP LT8610AB.MSE
+D LT8610A, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-16-1EP
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8610A
+$ENDCMP
+#
+$CMP LT8610AB.MSE-3.3
+D LT8610AB-3.3, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, Fixed 3.3V, MSOP-16-1EP
+K High Voltage 42V Buck monolithic synchronous 3.3V fixed
+F http://www.linear.com/product/LT8610A
+$ENDCMP
+#
+$CMP LT8610AB.MSE-5
+D LT8610AB-5, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, Fixed 5V, MSOP-16-1EP
+K High Voltage 42V Buck monolithic synchronous 5V fixed
+F http://www.linear.com/product/LT8610A
+$ENDCMP
+#
+$CMP LT8610AC.MSE
+D LT8610A, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-16-1EP
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8610A
+$ENDCMP
+#
+$CMP LT8611.UDD
+D LT8611, 42V, 2.5A Synchronous Step-Down Regulator with Current Sense and 2.5μA Quiescent Current, QFN-24-1EP
+K High Voltage 42V Buck monolithic synchronous monitor 
+F http://www.linear.com/product/LT8611
+$ENDCMP
+#
+$CMP LT8612.UDE
+D LT8612, 42V, 6A Synchronous Step-Down Regulator with Current Sense and 3μA Quiescent Current, QFN-28-1EP
+K High Voltage 42V Buck monolithic synchronous
+F http://www.linear.com/product/LT8612
+$ENDCMP
+#
+$CMP LT8613.UDE
+D LT8613, 42V, 6A Synchronous Step-Down Regulator with Current Sense and 3μA Quiescent Current, QFN-28-1EP
+K High Voltage 42V Buck monolithic synchronous monitor control
+F http://www.linear.com/product/LT8613
+$ENDCMP
+#
+$CMP LT8614.UDC
+D LT8614, 42V, 4A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+K 42V, 4A Synchronous Step-Down Silent Switcher Buck
+F http://www.linear.com/product/LT8614
+$ENDCMP
+#
+$CMP LT8631.FE
+D LT8631, 100V, 1A Synchronous Micropower Step-Down Regulator, TSSOP-20-1EP
+K High Voltage 100V 1A Buck monolithic synchronous
+F http://www.linear.com/product/LT8631
+$ENDCMP
+#
+$CMP LT8640.UDC
+D LT8640, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+K 42V, 5A Synchronous Step-Down Silent Switcher Buck
+F http://www.linear.com/product/LT8640
+$ENDCMP
+#
+$CMP LT8640.UDC-1
+D LT8640-1, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+K 42V, 5A Synchronous Step-Down Silent Switcher Buck
+F http://www.linear.com/product/LT8640
+$ENDCMP
+#
+$CMP LTC3265.DHC
+D LTC3265, Low Noise Dual Supply with Boost and Inverting Charge Pumps, DFN-18-1EP
+K dual charge pump boost inverting
+F http://www.linear.com/product/LTC3265
+$ENDCMP
+#
+$CMP LTC3265.FE
+D LTC3265, Low Noise Dual Supply with Boost and Inverting Charge Pumps, TSSOP-20-1EP
+K dual charge pump boost inverting
+F http://www.linear.com/product/LTC3265
+$ENDCMP
+#
+$CMP LTC3400.S6
+D LTC3400, 600mA, 1.2MHz Micropower Synchronous Boost Converter, TSOT-23-6
+K 600mA 1.2MHz Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3400
+$ENDCMP
+#
+$CMP LTC3400.S6-1
+D LTC3400, 600mA, 1.2MHz Micropower Synchronous Boost Converter, TSOT-23-6
+K 600mA 1.2MHz Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3400
+$ENDCMP
+#
+$CMP LTC3400B.S6
+D LTC3400, 600mA, 1.2MHz Micropower Synchronous Boost Converter, TSOT-23-6
+K 600mA 1.2MHz Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3400
+$ENDCMP
+#
+$CMP LTC3459.DC
+D LTC3459, 10V Micropower Synchronous Boost Converter, DFN-6-1EP
+K 10V Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3459
+$ENDCMP
+#
+$CMP LTC3459.DCB
+D LTC3459, 10V Micropower Synchronous Boost Converter, DFN-6-1EP
+K 10V Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3459
+$ENDCMP
+#
+$CMP LTC3459.S6
+D LTC3459, 10V Micropower Synchronous Boost Converter, TSOT-23-6
+K 10V Micropower Synchronous Boost Step-Up Converter Converter
+F http://www.linear.com/product/LTC3459
+$ENDCMP
+#
+$CMP LTC3530.DD
+D LTC3530, Wide Input Voltage Synchronous Buck-Boost DC/DC Converter, DFN-10-1EP
+K buck-boost synchronous converter
+F http://www.linear.com/product/LTC3530
+$ENDCMP
+#
+$CMP LTC3530.MS
+D LTC3530, Wide Input Voltage Synchronous Buck-Boost DC/DC Converter, MSOP-10
+K buck-boost synchronous converter
+F http://www.linear.com/product/LTC3530
+$ENDCMP
+#
+$CMP LTC3531.DD
+D LTC3531, 200mA Buck-Boost Synchronous DC/DC Converters, DFN-8-1EP
+K buck-boost synchronous converter
+F http://www.linear.com/product/LTC3531
+$ENDCMP
+#
+$CMP LTC3531.DD-3
+D LTC3531-3, Fixed 3V 200mA Buck-Boost Synchronous DC/DC Converters, DFN-8-1EP
+K fixed 3V buck-boost synchronous converter
+F http://www.linear.com/product/LTC3531
+$ENDCMP
+#
+$CMP LTC3531.DD-3.3
+D LTC3531-3.3, Fixed 3.3V 200mA Buck-Boost Synchronous DC/DC Converters, DFN-8-1EP
+K fixed 3.3V buck-boost synchronous converter
+F http://www.linear.com/product/LTC3531
+$ENDCMP
+#
+$CMP LTC3531.S6-3
+D LTC3531-3, Fixed 3V 200mA Buck-Boost Synchronous DC/DC Converters, TSOT-23-6
+K fixed 3V buck-boost synchronous converter
+F http://www.linear.com/product/LTC3531
+$ENDCMP
+#
+$CMP LTC3531.S6-3.3
+D LTC3531-3.3, Fixed 3.3V 200mA Buck-Boost Synchronous DC/DC Converters, TSOT-23-6
+K fixed 3.3V buck-boost synchronous converter
+F http://www.linear.com/product/LTC3531
+$ENDCMP
+#
+$CMP LTC3542.DC
+D LTC3542, 500mA, 2.25MHz Synchronous Step-Down DC/DC Converter, DFN-6-1EP
+K 500mA 2.25MHz Synchronous Step-Down Buck Converter
+F http://www.linear.com/product/LTC3542
+$ENDCMP
+#
+$CMP LTC3542.S6
+D LTC3542, 500mA, 2.25MHz Synchronous Step-Down DC/DC Converter, TSOT-23-6
+K 500mA 2.25MHz Synchronous Step-Down Buck Converter
+F http://www.linear.com/product/LTC3542
+$ENDCMP
+#
+$CMP LTC3547.DDB
+D LTC3547, Dual Monolithic 300mA Synchronous Step-Down Regulator, DFN-8-1EP
+K dual 300mA Synchronous Step-Down Buck Converter
+F http://www.linear.com/product/LTC3547
+$ENDCMP
+#
+$CMP LTC3547.DDB-m
+D LTC3547, Dual Monolithic 300mA Synchronous Step-Down Regulator, DFN-8-1EP
+K duaö 300mA Synchronous Step-Down Buck Converter
+F http://www.linear.com/product/LTC3547
+$ENDCMP
+#
+$CMP LTC3549.DCB
+D LTC3549, 250mA Low VIN Buck Regulator in 2mm×3mm DFN, DFN-6-1EP
+K 250mA Synchronous Step-Down Buck Converter
+F http://www.linear.com/product/LTC3549
+$ENDCMP
+#
+$CMP LTC3630.DHC
+D LTC3630, High Efficiency, 65V 500mA Synchronous Step-Down Converter, DFN-16-1EP
+K 65V 500mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3630
+$ENDCMP
+#
+$CMP LTC3630.MSE
+D LTC3630, High Efficiency, 65V 500mA Synchronous Step-Down Converter, MSOP-16(12)-1EP
+K 65V 500mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3630
+$ENDCMP
+#
+$CMP LTC3630A.DHC
+D LTC3630A, High Efficiency, 76V 500mA Synchronous Step-Down Converter, DFN-16-1EP
+K 75V 500mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3630A
+$ENDCMP
+#
+$CMP LTC3630A.MSE
+D LTC3630A, High Efficiency, 76V 500mA Synchronous Step-Down Converter, MSOP-16-1EP
+K 76V 500mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3630A
+$ENDCMP
+#
+$CMP LTC3631.DD
+D LTC3631, High Eficiency, High Voltage 100mA Synchronous Step-Down Converter, DFN-8-1EP
+K 100mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3631
+$ENDCMP
+#
+$CMP LTC3631.DD-3.3
+D LTC3631-3.3, High Eficiency, High Voltage 100mA Synchronous Step-Down Converter, Fixed 3.3V, DFN-8-1EP
+K 100mA Step-Down Regulator Buck synchronous fixed 3.3V
+F http://www.linear.com/product/LTC3631
+$ENDCMP
+#
+$CMP LTC3631.DD-5
+D LTC3631-5, High Eficiency, High Voltage 100mA Synchronous Step-Down Converter, Fixed 5V, DFN-8-1EP
+K 100mA Step-Down Regulator Buck synchronous fixed 5V
+F http://www.linear.com/product/LTC3631
+$ENDCMP
+#
+$CMP LTC3631.MS8E-3.3
+D LTC3631-3.3, High Eficiency, High Voltage 100mA Synchronous Step-Down Converter, Fixed 3.3V, MSOP-8-1EP
+K 100mA Step-Down Regulator Buck synchronous fixed 3.3V
+F http://www.linear.com/product/LTC3631
+$ENDCMP
+#
+$CMP LTC3631.MS8E-5
+D LTC3631-5, High Eficiency, High Voltage 100mA Synchronous Step-Down Converter, Fixed 5V, MSOP-8-1EP
+K 100mA Step-Down Regulator Buck synchronous fixed 5V
+F http://www.linear.com/product/LTC3631
+$ENDCMP
+#
+$CMP LTC3632.DD
+D LTC3632, High Eficiency, High Voltage 20mA Synchronous Step-Down Converter, DFN-8-1EP
+K 20mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3632
+$ENDCMP
+#
+$CMP LTC3633.FE
+D LTC3633, Dual Channel 3A, 15V Monolithic Synchronous Step-Down Regulator, TSSOP-28-1EP
+K Dual 3A 15V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633
+$ENDCMP
+#
+$CMP LTC3633.UFD
+D LTC3633, Dual Channel 3A, 15V Monolithic Synchronous Step-Down Regulator, QFN-28-1EP
+K Dual 3A 15V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633
+$ENDCMP
+#
+$CMP LTC3633A.FE
+D LTC3633A, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, TSSOP-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A
+$ENDCMP
+#
+$CMP LTC3633A.FE-1
+D LTC3633A-1, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, TSSOP-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A
+$ENDCMP
+#
+$CMP LTC3633A.FE-2
+D LTC3633A-2, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, TSSOP-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A-2
+$ENDCMP
+#
+$CMP LTC3633A.FE-3
+D LTC3633A-3, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, TSSOP-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A-2
+$ENDCMP
+#
+$CMP LTC3633A.UFD
+D LTC3633A, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, QFN-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A
+$ENDCMP
+#
+$CMP LTC3633A.UFD-1
+D LTC3633A-1, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, QFN-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A
+$ENDCMP
+#
+$CMP LTC3633A.UFD-2
+D LTC3633A-2, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, QFN-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A-2
+$ENDCMP
+#
+$CMP LTC3633A.UFD-3
+D LTC3633A-3, Dual Channel 3A, 20V Monolithic Synchronous Step-Down Regulator, QFN-28-1EP
+K Dual 3A 20V Monolithic Synchronous Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3633A-2
+$ENDCMP
+#
+$CMP LTC3634.FE
+D LTC3634, 15V Dual 3A Monolithic Step-Down Regulator for DDR Power, TSSOP-28-1EP
+K Dual 3A 15V Monolithic Synchronous Step-Down Regulator Buck DDR
+F http://www.linear.com/product/LTC3634
+$ENDCMP
+#
+$CMP LTC3637.DHC
+D LTC3637, 76V, 1A Step-Down Regulator, DFN-16-1EP
+K 76V 1A Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3637
+$ENDCMP
+#
+$CMP LTC3637.MSE
+D LTC3637, 76V, 1A Step-Down Regulator, MSOP-16(12)-1EP
+K 76V 1A Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3637
+$ENDCMP
+#
+$CMP LTC3638.MSE
+D LTC3638, High Efficiency, 140V 250mA Step-Down Regulator, MSOP-16(12)-1EP
+K 140V 250mA Step-Down Regulator Buck
+F http://www.linear.com/product/LTC3638
+$ENDCMP
+#
+$CMP LTC3639.MSE
+D LTC3639, High Efficiency, 150V 100mA Synchronous Step-Down Regulator, MSOP-16(12)-1EP
+K 150V 100mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3639
+$ENDCMP
+#
+$CMP LTC3642.DD
+D LTC3642, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, DFN-8-1EP
+K 50mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3642.DD-3.3
+D LTC3642-3.3, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, Fixed 3.3V, DFN-8-1EP
+K 50mA Step-Down Regulator Buck synchronous fixed 3.3V
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3642.DD-5
+D LTC3642-5, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, Fixed 5V, DFN-8-1EP
+K 50mA Step-Down Regulator Buck synchronous fixed 5V
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3642.MS8E
+D LTC3642, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, MSOP-8-1EP
+K 50mA Step-Down Regulator Buck synchronous
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3642.MS8E-3.3
+D LTC3642-3.3, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, Fixed 3.3V, MSOP-8-1EP
+K 50mA Step-Down Regulator Buck synchronous fixed 3.3V
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3642.MS8E-5
+D LTC3642-5, High Eficiency, High Voltage 50mA Synchronous Step-Down Converter, Fixed 5V, MSOP-8-1EP
+K 50mA Step-Down Regulator Buck synchronous fixed 5V
+F http://www.linear.com/product/LTC3642
+$ENDCMP
+#
+$CMP LTC3850.UF
+D LTC3850, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, QFN-28-1EP
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3850
+$ENDCMP
+#
+$CMP LTC3850.UFD
+D LTC3850, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, QFN-28-1EP
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3850
+$ENDCMP
+#
+$CMP LTC3850IGN-2
+D LTC3850-2, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, SSOP-28
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3850-2
+$ENDCMP
+#
+$CMP LTC3851A.MSE
+D LTC3851A, Synchronous Step-Down Switching Regulator Controller, MSOP-16-1EP
+K Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3851A
+$ENDCMP
+#
+$CMP LTC3851A.MSE-1
+D LTC3851A-1, Synchronous Step-Down Switching Regulator Controller, MSOP-16-1EP
+K Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3851A-1
+$ENDCMP
+#
+$CMP LTC3851A.UD
+D LTC3851A, Synchronous Step-Down Switching Regulator Controller, QFN-16-1EP
+K Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3851A
+$ENDCMP
+#
+$CMP LTC3851A.UD-1
+D LTC3851A-1, Synchronous Step-Down Switching Regulator Controller, QFN-16-1EP
+K Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3851A-1
+$ENDCMP
+#
+$CMP LTC3869.UF
+D LTC3869, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, QFN-28-1EP
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3869
+$ENDCMP
+#
+$CMP LTC3869.UFD
+D LTC3869, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, QFN-28-1EP
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3869
+$ENDCMP
+#
+$CMP LTC3869IGN-2
+D LTC3869-2, Dual, 2-Phase Synchronous Step-Down DC/DC Controller, SSOP-28
+K Dual Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3869
+$ENDCMP
+#
+$CMP LTC3877.UK
+D LTC3877, Dual Phase Step-Down Synchronous Controller with VID Output Voltage Programming and Low Value DCR Sensing, QFN-44-1EP
+K Dual Step-Down Synchronous Controller VID DCR Sensing Buck
+F http://www.linear.com/product/LTC3877
+$ENDCMP
+#
+$CMP LTC3895.FE
+D LTC3895, 150V Low IQ, Synchronous Step-Down DC/DC Controller, SSOP-28
+K 150V Step-Down Synchronous Controller Buck
+F http://www.linear.com/product/LTC3895
+$ENDCMP
+#
+$CMP LTC7149.FE
+D LTC7149, 60V, 4A Synchronous Step-Down Regulator for Inverting Outputs, TSSOP-28-1EP
+K 60V 4A Buck monolithic synchronous step-down Buck inverting
+F http://www.linear.com/product/LTC7149
+$ENDCMP
+#
+$CMP LTC7149.UFD
+D LTC7149, 60V, 4A Synchronous Step-Down Regulator for Inverting Outputs, QFN-28-1EP
+K 60V 4A Buck monolithic synchronous step-down Buck inverting
+F http://www.linear.com/product/LTC7149
+$ENDCMP
+#
+$CMP LTM4622.V
+D LTM4622, Dual Ultrathin 2.5A or Single 5A Step-Down DC/DC μModule Regulator, LGA-25
+K Dual Ultrathin 2.5A Step-Down DC/DC Module Regulator
+F http://www.linear.com/product/LTM4622
+$ENDCMP
+#
+$CMP LTM4622.Y
+D LTM4622, Dual Ultrathin 2.5A or Single 5A Step-Down DC/DC μModule Regulator, BGA-25
+K Dual Ultrathin 2.5A Step-Down DC/DC Module Regulator
+F http://www.linear.com/product/LTM4622
+$ENDCMP
+#
+$CMP LTM4623.V
+D LTM4623, Ultrathin 20VIN, 3A Step-Down DC/DC μModule Regulator, LGA-25
+K Ultrathin 20V 3A Step-Down DC/DC Buck μModule Regulator
+F http://www.linear.com/product/LTM4623
+$ENDCMP
+#
+$CMP LTM4623.Y
+D LTM4623, Ultrathin 20VIN, 3A Step-Down DC/DC μModule Regulator, BGA-25
+K Ultrathin 20V 3A Step-Down DC/DC Buck μModule Regulator
+F http://www.linear.com/product/LTM4623
+$ENDCMP
+#
+$CMP LTM4625.V
+D LTM4625, 20VIN, 5A Step-Down DC/DC μModule Regulator, LGA-25
+K 20V 5A Step-Down DC/DC Buck μModule Regulator
+F http://www.linear.com/product/LTM4625
+$ENDCMP
+#
+$CMP LTM4625.Y
+D LTM4625, 20VIN, 5A Step-Down DC/DC μModule Regulator, BGA-25
+K 20V 5A Step-Down DC/DC Buck μModule Regulator
+F http://www.linear.com/product/LTM4625
+$ENDCMP
+#
+$CMP LTM4632.V
+D LTM4632, Ultrathin, Triple Output, Step-Down μModule Regulator for DDR-QDR4 Memory, LGA-25
+K Dual Ultrathin DDR-QDR4 Memory Step-Down DC/DC Module Regulator
+F http://www.linear.com/product/LTM4632
+$ENDCMP
+#
+$CMP LTM4642.Y
+D LTM4642, Dual 20VIN, Dual 4A or Single 8A DC/DC μModule Regulator, BGA-56
+K Dual DC/DC μModule Regulator 4A Array Buck
+F http://www.linear.com/product/LTM4642
+$ENDCMP
+#
+$CMP LTM4644.Y
+D LTM4644, Quad DC/DC μModule Regulator with Configurable 4A Output Array, BGA-77
+K Quad DC/DC μModule Regulator 4A Array Buck
+F http://www.linear.com/product/LTM4644
+$ENDCMP
+#
+$CMP LTM8067.Y
+D LTM8067, 2.8VIN to 40VIN Isolated μModule DC/DC Converter, BGA-38
+K Isolated DC/DC Module Regulator
+F http://www.linear.com/product/LTM8067
+$ENDCMP
+#
+$CMP LTM8068.Y
+D LTM8068, 2.8VIN to 40VIN Isolated μModule DC/DC Converter with LDO Post Regulator, BGA-38
+K Isolated DC/DC Module Regulator
+F http://www.linear.com/product/LTM8068
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,471 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1799.S5
+D LTC1799, 1kHz to 33MHz Resistor Set Oscillator, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC1799
+$ENDCMP
+#
+$CMP LTC6900.S5
+D LTC6900, Low Power, 1kHz to 20MHz Resistor Set Oscillator, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC6900
+$ENDCMP
+#
+$CMP LTC6902.MS
+D LTC6902, Multiphase Oscillator with Spread Spectrum Frequency Modulation, MSOP-10
+K Oscillator
+F http://www.linear.com/product/LTC6902
+$ENDCMP
+#
+$CMP LTC6905.S5
+D LTC6905, Low Power, 17MHz to 170MHz Resistor Set Oscillator, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC6905
+$ENDCMP
+#
+$CMP LTC6907.S6
+D LTC6907, Micropower, 40kHz to 4MHz Resistor Set Oscillator, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC6907
+$ENDCMP
+#
+$CMP LTC6908-1.DCB
+D LTC6908-1, Dual 0/180° Output Oscillator with Spread Spectrum Modulation, DFN-6-1EP
+K Oscillator
+F http://www.linear.com/product/LTC6908-1
+$ENDCMP
+#
+$CMP LTC6908-1.S6
+D LTC6908-1, Dual 0/180° Output Oscillator with Spread Spectrum Modulation, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC6908-1
+$ENDCMP
+#
+$CMP LTC6908-2.DCB
+D LTC6908-2, Dual 0/90° Output Oscillator with Spread Spectrum Modulation, DFN-6-1EP
+K Oscillator
+F http://www.linear.com/product/LTC6908-1
+$ENDCMP
+#
+$CMP LTC6908-2.S6
+D LTC6908-2, Dual 0/90° Output Oscillator with Spread Spectrum Modulation, TSOT-23-5
+K Oscillator
+F http://www.linear.com/product/LTC6908-1
+$ENDCMP
+#
+$CMP LTC6909.MS
+D LTC6909, 1 to 8 Output, Multiphase Silicon Oscillator with Spread Spectrum Modulation, MSOP-16
+K Oscillator
+F http://www.linear.com/product/LTC6909
+$ENDCMP
+#
+$CMP LTC6930-4.19.DCB
+D LTC6930-4.19, 32.768kHz to 8.192MHz Precision µPower Oscillator, DFN-8-1EP
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-4.19.MS8
+D LTC6930-4.19, 32.768kHz to 8.192MHz Precision µPower Oscillator, MSOP-8
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-5.00.DCB
+D LTC6930-5.00, 32.768kHz to 8.192MHz Precision µPower Oscillator, DFN-8-1EP
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-5.00.MS8
+D LTC6930-5.00, 32.768kHz to 8.192MHz Precision µPower Oscillator, MSOP-8
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-7.37.DCB
+D LTC6930-7.37, 32.768kHz to 8.192MHz Precision µPower Oscillator, DFN-8-1EP
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-7.37.MS8
+D LTC6930-7.37, 32.768kHz to 8.192MHz Precision µPower Oscillator, MSOP-8
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-8.00.DCB
+D LTC6930-8.00, 32.768kHz to 8.192MHz Precision µPower Oscillator, DFN-8-1EP
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-8.00.MS8
+D LTC6930-8.00, 32.768kHz to 8.192MHz Precision µPower Oscillator, MSOP-8
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-8.19.DCB
+D LTC6930-8.19, 32.768kHz to 8.192MHz Precision µPower Oscillator, DFN-8-1EP
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6930-8.19.MS8
+D LTC6930-8.19, 32.768kHz to 8.192MHz Precision µPower Oscillator, MSOP-8
+K Precision  Oscillator
+F http://www.linear.com/product/LTC6930
+$ENDCMP
+#
+$CMP LTC6945.UFD-1
+D LTC6945-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6945
+$ENDCMP
+#
+$CMP LTC6945.UFD-2
+D LTC6945-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6945
+$ENDCMP
+#
+$CMP LTC6945.UFD-3
+D LTC6945-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6945
+$ENDCMP
+#
+$CMP LTC6945.UFD-4
+D LTC6945-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6945
+$ENDCMP
+#
+$CMP LTC6946.UFD-1
+D LTC6946-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6946
+$ENDCMP
+#
+$CMP LTC6946.UFD-2
+D LTC6946-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6946
+$ENDCMP
+#
+$CMP LTC6946.UFD-3
+D LTC6946-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6946
+$ENDCMP
+#
+$CMP LTC6946.UFD-4
+D LTC6946-1, Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6946
+$ENDCMP
+#
+$CMP LTC6947.UFD-1
+D LTC6947-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6947
+$ENDCMP
+#
+$CMP LTC6947.UFD-2
+D LTC6947-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6947
+$ENDCMP
+#
+$CMP LTC6947.UFD-3
+D LTC6947-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6947
+$ENDCMP
+#
+$CMP LTC6947.UFD-4
+D LTC6947-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6947
+$ENDCMP
+#
+$CMP LTC6948.UFD-1
+D LTC6948-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6948
+$ENDCMP
+#
+$CMP LTC6948.UFD-2
+D LTC6948-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6948
+$ENDCMP
+#
+$CMP LTC6948.UFD-3
+D LTC6948-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6948
+$ENDCMP
+#
+$CMP LTC6948.UFD-4
+D LTC6948-1, Ultralow Noise 0.37GHz to 6.39GHz Fractional-N Synthesizer with Integrated VCO, QFN-28-1EP
+K integer-N synthesizer
+F http://www.linear.com/product/LTC6948
+$ENDCMP
+#
+$CMP LTC6951.UHF
+D LTC6951, Ultralow Jitter Multi-Output Clock Synthesizer with Integrated VCO, QFN-40-1EP
+K clock distribution driver synthesizer
+F http://www.linear.com/product/LTC6951
+$ENDCMP
+#
+$CMP LTC6951.UHF-1
+D LTC6951, Ultralow Jitter Multi-Output Clock Synthesizer with Integrated VCO, QFN-40-1EP
+K clock distribution driver synthesizer
+F http://www.linear.com/product/LTC6951
+$ENDCMP
+#
+$CMP LTC6954.UFF-1
+D LTC6954-1, Low Phase Noise, Triple Output Clock Distribution Divider/Driver, QFN-36-1EP
+K clock distribution driver
+F http://www.linear.com/product/LTC6954
+$ENDCMP
+#
+$CMP LTC6954.UFF-2
+D LTC6954-2, Low Phase Noise, Triple Output Clock Distribution Divider/Driver, QFN-36-1EP
+K clock distribution driver
+F http://www.linear.com/product/LTC6954
+$ENDCMP
+#
+$CMP LTC6954.UFF-3
+D LTC6954-3, Low Phase Noise, Triple Output Clock Distribution Divider/Driver, QFN-36-1EP
+K clock distribution driver
+F http://www.linear.com/product/LTC6954
+$ENDCMP
+#
+$CMP LTC6954.UFF-4
+D LTC6954-4, Low Phase Noise, Triple Output Clock Distribution Divider/Driver, QFN-36-1EP
+K clock distribution driver
+F http://www.linear.com/product/LTC6954
+$ENDCMP
+#
+$CMP LTC6957.DD-1
+D LTC6957-1, Low Phase Noise, Dual LVPECL Output Buffer/Driver/Logic Converter, DFN-12-1EP
+K Buffer Driver Converter LVPECL
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.DD-2
+D LTC6957-2, Low Phase Noise, Dual LVDS Output Buffer/Driver/Logic Converter, DFN-12-1EP
+K Buffer Driver Converter LVDS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.DD-3
+D LTC6957-3, Low Phase Noise, Dual CMOS In-Phase Output Buffer/Driver/Logic Converter, DFN-12-1EP
+K Buffer Driver Converter CMOS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.DD-4
+D LTC6957-4, Low Phase Noise, Dual CMOS Complementary Output Buffer/Driver/Logic Converter, DFN-12-1EP
+K Buffer Driver Converter CMOS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.MS-1
+D LTC6957-1, Low Phase Noise, Dual LVPECL Output Buffer/Driver/Logic Converter, MSOP-12
+K Buffer Driver Converter LVPECL
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.MS-2
+D LTC6957-2, Low Phase Noise, Dual LVDS Output Buffer/Driver/Logic Converter, MSOP-12
+K Buffer Driver Converter LVDS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.MS-3
+D LTC6957-3, Low Phase Noise, Dual CMOS In-Phase Output Buffer/Driver/Logic Converter, MSOP-12
+K Buffer Driver Converter CMOS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6957.MS-4
+D LTC6957-4, Low Phase Noise, Dual CMOS Complementary Output Buffer/Driver/Logic Converter, MSOP-12
+K Buffer Driver Converter CMOS
+F http://www.linear.com/product/LTC6957
+$ENDCMP
+#
+$CMP LTC6990.DCB
+D LTC6990, TimerBlox: Voltage Controlled Silicon Oscillator, DFN-6-1EP
+K TimerBlox: VCO
+F http://www.linear.com/product/LTC6990
+$ENDCMP
+#
+$CMP LTC6990.S6
+D LTC6990, TimerBlox: Voltage Controlled Silicon Oscillator, TSOT-23-6
+K TimerBlox: VCO
+F http://www.linear.com/product/LTC6990
+$ENDCMP
+#
+$CMP LTC6991.DCB
+D LTC6991, TimerBlox: Resettable, Low Frequency Oscillator, DFN-6-1EP
+K TimerBlox: reset LFO
+F http://www.linear.com/product/LTC6991
+$ENDCMP
+#
+$CMP LTC6991.S6
+D LTC6991, TimerBlox: Resettable, Low Frequency Oscillator, TSOT-23-6
+K TimerBlox: reset LFO
+F http://www.linear.com/product/LTC6991
+$ENDCMP
+#
+$CMP LTC6992.DCB-1
+D LTC6992-1, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 0% to 100%, DFN-6-1EP
+K TimerBlox: PWM 0% to 100%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.DCB-2
+D LTC6992-2, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 5% to 95%, DFN-6-1EP
+K TimerBlox: PWM 5% to 95%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.DCB-3
+D LTC6992-3, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 0% to 95%, DFN-6-1EP
+K TimerBlox: PWM 0% to 95%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.DCB-4
+D LTC6992-4, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 5% to 100%, DFN-6-1EP
+K TimerBlox: PWM 5% to 100%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.S6-1
+D LTC6992-1, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 0% to 100%, TSOT-23-6
+K TimerBlox: PWM 0% to 100%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.S6-2
+D LTC6992-2, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 5% to 95%, TSOT-23-6
+K TimerBlox: PWM 5% to 95%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.S6-3
+D LTC6992-3, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 0% to 95%, TSOT-23-6
+K TimerBlox: PWM 0% to 95%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6992.S6-4
+D LTC6992-4, TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM) 5% to 100%, TSOT-23-6
+K TimerBlox: PWM 5% to 100%
+F http://www.linear.com/product/LTC6992-1
+$ENDCMP
+#
+$CMP LTC6993.DCB-1
+D LTC6993-1, TimerBlox: Monostable Pulse Generator (One Shot) Rising-Edge Retrigger No, DFN-6-1EP
+K TimerBlox: Monoflop Rising-Edge Retrigger No
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.DCB-2
+D LTC6993-2, TimerBlox: Monostable Pulse Generator (One Shot) Rising-Edge Retrigger Yes, DFN-6-1EP
+K TimerBlox: Monoflop Rising-Edge Retrigger Yes
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.DCB-3
+D LTC6993-3, TimerBlox: Monostable Pulse Generator (One Shot) Falling-Edge Retrigger No, DFN-6-1EP
+K TimerBlox: Monoflop Falling-Edge Retrigger No
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.DCB-4
+D LTC6993-4, TimerBlox: Monostable Pulse Generator (One Shot) Falling-Edge Retrigger Yes, DFN-6-1EP
+K TimerBlox: Monoflop Falling-Edge Retrigger Yes
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.S6-1
+D LTC6993-1, TimerBlox: Monostable Pulse Generator (One Shot) Rising-Edge Retrigger No, TSOT-23-6
+K TimerBlox: Monoflop Rising-Edge Retrigger No
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.S6-2
+D LTC6993-2, TimerBlox: Monostable Pulse Generator (One Shot) Rising-Edge Retrigger Yes, TSOT-23-6
+K TimerBlox: Monoflop Rising-Edge Retrigger Yes
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.S6-3
+D LTC6993-3, TimerBlox: Monostable Pulse Generator (One Shot) Falling-Edge Retrigger No, TSOT-23-6
+K TimerBlox: Monoflop Falling-Edge Retrigger No
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6993.S6-4
+D LTC6993-4, TimerBlox: Monostable Pulse Generator (One Shot) Falling-Edge Retrigger Yes, TSOT-23-6
+K TimerBlox: Monoflop Falling-Edge Retrigger Yes
+F http://www.linear.com/product/LTC6993-1
+$ENDCMP
+#
+$CMP LTC6994.DCB-1
+D LTC6994-1, TimerBlox: Delay Block/ Debouncer, DFN-6-1EP
+K TimerBlox: Delay Debouncer
+F http://www.linear.com/product/LTC6994-1
+$ENDCMP
+#
+$CMP LTC6994.DCB-2
+D LTC6994-2, TimerBlox: Delay Block/ Debouncer, DFN-6-1EP
+K TimerBlox: Delay Debouncer
+F http://www.linear.com/product/LTC6994-1
+$ENDCMP
+#
+$CMP LTC6994.S6-1
+D LTC6994-1, TimerBlox: Delay Block/ Debouncer, TSOT-23-6
+K TimerBlox: Delay Debouncer
+F http://www.linear.com/product/LTC6994-1
+$ENDCMP
+#
+$CMP LTC6994.S6-2
+D LTC6994-2, TimerBlox: Delay Block/ Debouncer, TSOT-23-6
+K TimerBlox: Delay Debouncer
+F http://www.linear.com/product/LTC6994-1
+$ENDCMP
+#
+$CMP LTC6995.DCB-1
+D LTC6995-1, TimerBlox: Long Timer, Low Frequency Oscillator, DFN-6-1EP
+K TimerBlox: LFO Timer
+F http://www.linear.com/product/LTC6995-1
+$ENDCMP
+#
+$CMP LTC6995.DCB-2
+D LTC6995-2, TimerBlox: Long Timer, Low Frequency Oscillator, DFN-6-1EP
+K TimerBlox: LFO Timer
+F http://www.linear.com/product/LTC6995-1
+$ENDCMP
+#
+$CMP LTC6995.S6-1
+D LTC6995-1, TimerBlox: Long Timer, Low Frequency Oscillator, TSOT-23-6
+K TimerBlox: LFO Timer
+F http://www.linear.com/product/LTC6995-1
+$ENDCMP
+#
+$CMP LTC6995.S6-2
+D LTC6995-2, TimerBlox: Long Timer, Low Frequency Oscillator, TSOT-23-6
+K TimerBlox: LFO Timer
+F http://www.linear.com/product/LTC6995-1
+$ENDCMP
+#
+#End Doc Library

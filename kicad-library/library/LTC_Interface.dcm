@@ -1,0 +1,129 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1785.S8
+D LT1785, ±60V Fault Protected RS485/RS422 Transceivers, SOIC-8
+K ±60V protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1785
+$ENDCMP
+#
+$CMP LT1785A.S8
+D LT1785A, ±60V Fault Protected RS485/RS422 Transceivers failsafe, SOIC-8
+K ±60V failsafe protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1785
+$ENDCMP
+#
+$CMP LT1791.S
+D LT1791, ±60V Fault Protected RS485/RS422 Transceivers, SOIC-14
+K ±60V protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1791
+$ENDCMP
+#
+$CMP LT1791A.S
+D LT1791A, ±60V Fault Protected RS485/RS422 Transceivers failsafe, SOIC-14
+K ±60V protected failsafe RS485 RS422 transceiver
+F http://www.linear.com/product/LT1791
+$ENDCMP
+#
+$CMP LTC2862.DD-1
+D LTC2862-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.DD-2
+D LTC2862-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.S8-1
+D LTC2862-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.S8-2
+D LTC2862-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.DD-1
+D LTC2863-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.DD-2
+D LTC2863-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.S8-1
+D LTC2863-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.S8-2
+D LTC2863-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.DD-1
+D LTC2864-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-10-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.DD-2
+D LTC2864-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-10-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.S-1
+D LTC2864-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-14
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.S-2
+D LTC2864-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-14
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2875.S8
+D LTC2875, ±60V Fault Protected 3.3V or 5V 25kV ESD High Speed CAN Transceiver, SOIC-8
+K ±60V protected CAN transceiver
+F http://www.linear.com/product/LTC2875
+$ENDCMP
+#
+$CMP LTC2876.DD
+D LTC2876, ±60V Rugged PROFIBUS RS485 Transceivers, DFN-8-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2876.MS8E
+D LTC2876, ±60V Rugged PROFIBUS RS485 Transceivers, MSOP-8-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2877.DD
+D LTC2877, ±60V Rugged PROFIBUS RS485 Transceivers, DFN-10-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2877.MSE
+D LTC2877, ±60V Rugged PROFIBUS RS485 Transceivers, MSOP-10-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+#End Doc Library

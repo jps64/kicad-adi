@@ -1,0 +1,261 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT4356.DE-1
+D LT4356-1, High Voltage Surge Stopper with Current Limit, DFN-12-1EP
+K surge stopper current limit
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.DE-2
+D LT4356-2, High Voltage Surge Stopper with Current Limit, Aux-Amp on, DFN-12-1EP
+K surge stopper current limit aux-amp-on
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.DE-3
+D LT4356-3, High Voltage Surge Stopper with Current Limit, Fault Latch-off, DFN-12-1EP
+K surge stopper current limit fault latch-off
+F http://www.linear.com/product/LT4356-3
+$ENDCMP
+#
+$CMP LT4356.MS-1
+D LT4356-1, High Voltage Surge Stopper with Current Limit, MSOP-10
+K surge stopper current limit
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.MS-2
+D LT4356-2, High Voltage Surge Stopper with Current Limit, Aux-Amp on, MSOP-10
+K surge stopper current limit aux-amp-on
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.MS-3
+D LT4356-3, High Voltage Surge Stopper with Current Limit, Fault Latch-off, MSOP-10
+K surge stopper current limit fault latch-off
+F http://www.linear.com/product/LT4356-3
+$ENDCMP
+#
+$CMP LT4356.S-1
+D LT4356-1, High Voltage Surge Stopper with Current Limit, SOIC-16
+K surge stopper current limit
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.S-2
+D LT4356-2, High Voltage Surge Stopper with Current Limit, Aux-Amp on, SOIC-16
+K surge stopper current limit aux-amp-on
+F http://www.linear.com/product/LT4356-1
+$ENDCMP
+#
+$CMP LT4356.S-3
+D LT4356-3, High Voltage Surge Stopper with Current Limit, Fault Latch-off, SOIC-16
+K surge stopper current limit fault latch-off
+F http://www.linear.com/product/LT4356-3
+$ENDCMP
+#
+$CMP LT4363.DE-1
+D LT4363-1, High Voltage Surge Stopper with Current Limit, Latch-off, DFN-12-1EP
+K surge stopper current limit latch-off
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LT4363.DE-2
+D LT4363-2, High Voltage Surge Stopper with Current Limit, Retry, DFN-12-1EP
+K surge stopper current limit retry
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LT4363.MS-1
+D LT4363-1, High Voltage Surge Stopper with Current Limit, Latch-off, MSOP-12
+K surge stopper current limit latch-off
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LT4363.MS-2
+D LT4363-2, High Voltage Surge Stopper with Current Limit, Retry, MSOP-12
+K surge stopper current limit retry
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LT4363.S-1
+D LT4363-1, High Voltage Surge Stopper with Current Limit, Latch-off, SOIC-16
+K surge stopper current limit latch-off
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LT4363.S-2
+D LT4363-2, High Voltage Surge Stopper with Current Limit, Retry, SOIC-16
+K surge stopper current limit retry
+F http://www.linear.com/product/LT4363
+$ENDCMP
+#
+$CMP LTC2941.DCB
+D LTC2941, Battery Gas Gauge with I2C Interface, DFN-6-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2941
+$ENDCMP
+#
+$CMP LTC2941.DCB-1
+D LTC2941-1, 1A I2C Battery Gas Gauge with Internal Sense Resistor, DFN-6-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2941-1
+$ENDCMP
+#
+$CMP LTC2941.MS8E
+D LTC2941, Battery Gas Gauge with I2C Interface, MSOP-8-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2941
+$ENDCMP
+#
+$CMP LTC2941.MS8E-1
+D LTC2941-1, 1A I2C Battery Gas Gauge with Internal Sense Resistor, MSOP-8-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2941-1
+$ENDCMP
+#
+$CMP LTC2942.DCB
+D LTC2942, Battery Gas Gauge with Temperature, Voltage Measurement, DFN-6-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2942
+$ENDCMP
+#
+$CMP LTC2942.DCB-1
+D LTC2942-1, 1A Battery Gas Gauge with Internal Sense Resistor and Temperature/Voltage Measurement, DFN-6-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2942-1
+$ENDCMP
+#
+$CMP LTC2943.DD
+D LTC2943, Multicell Battery Gas Gauge with Temperature, Voltage and Current Measurement, DFN-8-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2943
+$ENDCMP
+#
+$CMP LTC2943.DD-1
+D LTC2943-1, 1A Multicell Battery Gas Gauge with Temperature, Voltage and Current Measurement, DFN-8-1EP
+K battery gas gauge
+F http://www.linear.com/product/LTC2943-1
+$ENDCMP
+#
+$CMP LTC2945.MS
+D LTC2945, Wide Range I2C Power Monitor, MSOP-12
+K I2C power monitor
+F http://www.linear.com/product/LTC2945
+$ENDCMP
+#
+$CMP LTC2945.MS-1
+D LTC2945, Wide Range I2C Power Monitor, Inverted SDAO, MSOP-12
+K I2C power monitor
+F http://www.linear.com/product/LTC2945
+$ENDCMP
+#
+$CMP LTC2945.UD
+D LTC2945, Wide Range I2C Power Monitor, QFN-12-1EP
+K I2C power monitor
+F http://www.linear.com/product/LTC2945
+$ENDCMP
+#
+$CMP LTC2945.UD-1
+D LTC2945-1, Wide Range I2C Power Monitor, Inverted SDAO, QFN-12-1EP
+K I2C power monitor
+F http://www.linear.com/product/LTC2945
+$ENDCMP
+#
+$CMP LTC2946.DE
+D LTC2946, Wide Range I2C Power, Charge and Energy Monitor, DFN-16-1EP
+K I2C charge energy monitor
+F http://www.linear.com/product/LTC2946
+$ENDCMP
+#
+$CMP LTC2946.DE-1
+D LTC2946, Wide Range I2C Power, Charge and Energy Monitor, Inverted SDAO, DFN-16-1EP
+K I2C charge energy monitor
+F http://www.linear.com/product/LTC2946
+$ENDCMP
+#
+$CMP LTC2946.MS
+D LTC2946, Wide Range I2C Power, Charge and Energy Monitor, MSOP-16
+K I2C charge energy monitor
+F http://www.linear.com/product/LTC2946
+$ENDCMP
+#
+$CMP LTC2946.MS-1
+D LTC2946, Wide Range I2C Power, Charge and Energy Monitor, Inverted SDAO, MSOP-16
+K I2C charge energy monitor
+F http://www.linear.com/product/LTC2946
+$ENDCMP
+#
+$CMP LTC4359.DCB
+D LTC4359, Ideal Diode Controller with Reverse Input Protection, DFN-6-1EP
+K ideal diode protection
+F http://www.linear.com/product/LTC4359
+$ENDCMP
+#
+$CMP LTC4359.MS8
+D LTC4359, Ideal Diode Controller with Reverse Input Protection, MSOP-8
+K ideal diode protection
+F http://www.linear.com/product/LTC4359
+$ENDCMP
+#
+$CMP LTC4371.DD
+D LTC4371, Dual Negative Voltage Ideal Diode-OR Controller and Monitor, DFN-10-1EP
+K Dual Negative Ideal Diode-OR Controller Monitor
+F http://www.linear.com/product/LTC4371
+$ENDCMP
+#
+$CMP LTC4371.MS
+D LTC4371, Dual Negative Voltage Ideal Diode-OR Controller and Monitor, MSOP-10
+K Dual Negative Ideal Diode-OR Controller Monitor
+F http://www.linear.com/product/LTC4371
+$ENDCMP
+#
+$CMP LTC4380.DD-1
+D LTC4380-1, Low Quiescent Current Surge Stopper, Fixed, Latch-Off, DFN-10-1EP
+K surge stopper fixed latch-off
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.DD-2
+D LTC4380-2, Low Quiescent Current Surge Stopper, Fixed, Retry, DFN-10-1EP
+K surge stopper fixed retry
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.DD-3
+D LTC4380-3, Low Quiescent Current Surge Stopper, Adjustable, Latch-Off, DFN-10-1EP
+K surge stopper adjustable latch-off
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.DD-4
+D LTC4380-4, Low Quiescent Current Surge Stopper, Adjustable, Retry, DFN-10-1EP
+K surge stopper adjustable retry
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.MS-1
+D LTC4380-1, Low Quiescent Current Surge Stopper, Fixed, Latch-Off, MSOP-10
+K surge stopper fixed latch-off
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.MS-2
+D LTC4380-2, Low Quiescent Current Surge Stopper, Fixed, Retry, MSOP-10
+K surge stopper fixed retry
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.MS-3
+D LTC4380-3, Low Quiescent Current Surge Stopper, Adjustable, Latch-Off, MSOP-10
+K surge stopper adjustable latch-off
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+$CMP LTC4380.MS-4
+D LTC4380-4, Low Quiescent Current Surge Stopper, Adjustable, Retry, MSOP-10
+K surge stopper adjustable retry
+F http://www.linear.com/product/LTC4380
+$ENDCMP
+#
+#End Doc Library

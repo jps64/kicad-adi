@@ -1,0 +1,2007 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1013.S8
+D LT1013, Dual Precision OpAmp, SOIC-8
+K dual precision opamp
+F http://www.linear.com/product/LT1013
+$ENDCMP
+#
+$CMP LT1014.SW
+D LT1014, Quad Precision OpAmp, SOIC-16
+K quad precision opamp
+F http://www.linear.com/product/LT1014
+$ENDCMP
+#
+$CMP LT1027+LS8-5
+D LT1027, Precision, Low Noise, High Stability Hermetic Voltage Reference 5V, LCC-8
+K precision low-noise hermetic reference 5V
+F http://www.linear.com/product/LT1027
+$ENDCMP
+#
+$CMP LT1050.S8
+D LT1050, Precision Zero-Drift Operational Amplifier with Internal Capacitors, SOIC-8
+K zero-drift OpAmp
+F http://www.linear.com/product/LT1050
+$ENDCMP
+#
+$CMP LT1112.S8
+D LT1112, Dual Low Power Precision, Picoamp Input OpAmp, SOIC-8
+K dual precision low-power picoamp opamp
+F http://www.linear.com/product/LT1112
+$ENDCMP
+#
+$CMP LT1167.S8
+D LT1167, Single Resistor Gain Programmable, Precision Instrumentation Amplifier, SOIC-8
+K precision instrumentation OpAmp
+F http://www.linear.com/product/LT1167
+$ENDCMP
+#
+$CMP LT1361.S8
+D LT1361, Dual 50MHz 800V/μs OpAmp, SOIC-8
+K dual opamp
+F http://www.linear.com/product/LT1361
+$ENDCMP
+#
+$CMP LT1362.S
+D LT1362, Quad 50MHz 800V/μs OpAmp, SOIC-16
+K quad opamp
+F http://www.linear.com/product/LT1362
+$ENDCMP
+#
+$CMP LT1366.S8
+D LT1366, Dual Precision Rail-to-Rail Input and Output Op Amps, .(C), SOIC-8
+K dual precision RRI RRO OpAmp
+F http://www.linear.com/product/LT1366
+$ENDCMP
+#
+$CMP LT1367.S
+D LT1367, Quad Precision Rail-to-Rail Input and Output Op Amps, .(C), SOIC-14
+K quad precision RRI RRO OpAmp
+F http://www.linear.com/product/LT1367
+$ENDCMP
+#
+$CMP LT1368.S8
+D LT1368, Dual Precision Rail-to-Rail Input and Output Op Amps, .(C), SOIC-8
+K dual precision RRI RRO OpAmp
+F http://www.linear.com/product/LT1368
+$ENDCMP
+#
+$CMP LT1369.S
+D LT1369, Quad Precision Rail-to-Rail Input and Output Op Amps, .(C), SOIC-14
+K quad precision RRI RRO OpAmp
+F http://www.linear.com/product/LT1369
+$ENDCMP
+#
+$CMP LT1460+MS8-10
+D LT1460, Micropower Precision Series Reference 10V, MSOP-8
+K micropower precision series reference 10V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+MS8-2.5
+D LT1460, Micropower Precision Series Reference 2.5V, MSOP-8
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+MS8-5
+D LT1460, Micropower Precision Series Reference 5V, MSOP-8
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S3-10
+D LT1460, Micropower Precision Series Reference 10V, SOT-23
+K micropower precision series reference 10V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S3-2.5
+D LT1460, Micropower Precision Series Reference 2.5V, SOT-23
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S3-3
+D LT1460, Micropower Precision Series Reference 3V, SOT-23
+K micropower precision series reference 3V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S3-3.3
+D LT1460, Micropower Precision Series Reference 3.3V, SOT-23
+K micropower precision series reference 3.3V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S3-5
+D LT1460, Micropower Precision Series Reference 5V, SOT-23
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S8-10
+D LT1460, Micropower Precision Series Reference 10V, SOIC-8
+K micropower precision series reference 10V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S8-2.5
+D LT1460, Micropower Precision Series Reference 2.5V, SOIC-8
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+S8-5
+D LT1460, Micropower Precision Series Reference 5V, SOIC-8
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+Z-10
+D LT1460, Micropower Precision Series Reference 10V, TO-92
+K micropower precision series reference 10V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+Z-2.5
+D LT1460, Micropower Precision Series Reference 2.5V, TO-92
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1460+Z-5
+D LT1460, Micropower Precision Series Reference 5V, TO-92
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT1460
+$ENDCMP
+#
+$CMP LT1468.DD
+D LT1468, 90MHz, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), DFN-8-1EP
+K 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1468
+$ENDCMP
+#
+$CMP LT1468.DD-2
+D LT1468-2, 200MHz, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), DFN-8-1EP
+K 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1468-2
+$ENDCMP
+#
+$CMP LT1468.S8
+D LT1468, 90MHz, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), SOIC-8
+K 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1468
+$ENDCMP
+#
+$CMP LT1468.S8-2
+D LT1468-2, Dual 200MHz, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), SOIC-8
+K dual 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1468-2
+$ENDCMP
+#
+$CMP LT1468A.DD
+D LT1468A, 90MHz, Low Offset, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), DFN-8-1EP
+K 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1468
+$ENDCMP
+#
+$CMP LT1468A.DD-2
+D LT1468A-2, 200MHz, Low Offset, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), DFN-8-1EP
+K 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1468-2
+$ENDCMP
+#
+$CMP LT1469.DF
+D LT1469, Dual 90MHz, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), DFN-12-1EP
+K dual 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1469
+$ENDCMP
+#
+$CMP LT1469.DF-2
+D LT1469-2, Dual 200MHz, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), DFN-12-1EP
+K dual 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1469-2
+$ENDCMP
+#
+$CMP LT1469.S8
+D LT1469, Dual 90MHz, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), SOIC-8
+K dual 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1469
+$ENDCMP
+#
+$CMP LT1469.S8-2
+D LT1469-2, Dual 200MHz, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), SOIC-8
+K dual 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1469-2
+$ENDCMP
+#
+$CMP LT1469A.DF
+D LT1469A, Dual 90MHz, Low Offset, 22V/μs 16-Bit Accurate Operational Amplifier, .(C, I), DFN-12-1EP
+K dual 90MHz ADC OpAmp
+F http://www.linear.com/product/LT1469
+$ENDCMP
+#
+$CMP LT1469A.DF-2
+D LT1469A-2, Dual 200MHz, Low Offset, 30V/μs 16-Bit Accurate AV ≥ 2 OpAmp, .(C, I), DFN-12-1EP
+K dual 200MHz ADC OpAmp
+F http://www.linear.com/product/LT1469-2
+$ENDCMP
+#
+$CMP LT1490.S8
+D LT1490, Dual Micropower Rail-to-Rail Input and Output OpAmp, SOIC-8
+K dual micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1490
+$ENDCMP
+#
+$CMP LT1490A.DD
+D LT1490A, Dual Over-The-Top Micropower Rail-to-Rail Input and Output OpAmp, DFN-8-1EP
+K dual over-the-top micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1490A
+$ENDCMP
+#
+$CMP LT1490A.MS8
+D LT1490A, Dual Over-The-Top Micropower Rail-to-Rail Input and Output OpAmp, MSOP-8
+K dual over-the-top micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1490A
+$ENDCMP
+#
+$CMP LT1490A.S8
+D LT1490A, Dual Over-The-Top Micropower Rail-to-Rail Input and Output OpAmp, SOIC-8
+K dual over-the-top micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1490A
+$ENDCMP
+#
+$CMP LT1491.S
+D LT1491, Quad Micropower Rail-to-Rail Input and Output OpAmp, SOIC-14
+K quad micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1491
+$ENDCMP
+#
+$CMP LT1491A.DHC
+D LT1491A, Quad Over-The-Top Micropower Rail-to-Rail Input and Output OpAmp, DFN-16-1EP
+K quad over-the-top micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1491A
+$ENDCMP
+#
+$CMP LT1491A.S
+D LT1491A, Quad Over-The-Top Micropower Rail-to-Rail Input and Output OpAmp, SOIC-14
+K quad micropower over-the-top RRI RRO OpAmp
+F http://www.linear.com/product/LT1491A
+$ENDCMP
+#
+$CMP LT1498.S8
+D LT1498, Dual 10MHz, 6V/μs Rail-to-Rail Input and Output Precision C-Load OpAmp, SOIC-8
+K dual 10MHz RRI RRO load OpAmp
+F http://www.linear.com/product/LT1498
+$ENDCMP
+#
+$CMP LT1499.S
+D LT1499, Quad 10MHz, 6V/μs Rail-to-Rail Input and Output Precision C-Load OpAmp, SOIC-14
+K quad 10MHz RRI RRO load OpAmp
+F http://www.linear.com/product/LT1499
+$ENDCMP
+#
+$CMP LT1637.DD
+D LT1637, 1.1MHz, 0.4V/μs Over-The-Top Micropower, Rail-To-Rail Input and Output, DFN-8-1EP
+K 1.1MHz over-the-top RRI RRO OpAmp
+F http://www.linear.com/product/LT1637
+$ENDCMP
+#
+$CMP LT1637.MS8
+D LT1637, 1.1MHz, 0.4V/μs Over-The-Top Micropower, Rail-To-Rail Input and Output, MSOP-8
+K 1.1MHz over-the-top RRI RRO OpAmp
+F http://www.linear.com/product/LT1637
+$ENDCMP
+#
+$CMP LT1637.S8
+D LT1637, 1.1MHz, 0.4V/μs Over-The-Top Micropower, Rail-To-Rail Input and Output, SOIC-8
+K 1.1MHz over-the-top RRI RRO OpAmp
+F http://www.linear.com/product/LT1637
+$ENDCMP
+#
+$CMP LT1638.DD
+D LT1638, Dual 1.2MHz, 0.4V/μs Over-The-Top Micropower Rail-to-Rail Input and Output OpAmps, DFN-8
+K Dual 1.2MHz, 0.4V/μs Over-The-Top Micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1638
+$ENDCMP
+#
+$CMP LT1638.MS8
+D LT1638, 1.2MHz, 0.4V/μs Over-The-Top Micropower Rail-to-Rail Input and Output OpAmps, MSOP-8
+K Dual 1.2MHz 0.4V/μs Over-The-Top Micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1638
+$ENDCMP
+#
+$CMP LT1638.S8
+D LT1638, 1.2MHz, 0.4V/μs Over-The-Top Micropower Rail-to-Rail Input and Output OpAmps, SOIC-8
+K Dual 1.2MHz 0.4V/μs Over-The-Top Micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1638
+$ENDCMP
+#
+$CMP LT1639.S
+D LT1639, Quad 1.2MHz, 0.4V/Œºs Over-The-Top Micropower Rail-to-Rail Input and Output OpAmps, SOIC-14
+K Quad 1.2MHz, 0.4V/μs Over-The-Top Micropower RRI RRO OpAmp
+F http://www.linear.com/product/LT1639
+$ENDCMP
+#
+$CMP LT1677.S8
+D LT1677, Low Noise, Rail-to-Rail Precision OpAmp, SOIC-8
+K low-noise RRI RRO precision OpAmp
+F http://www.linear.com/product/LT1677
+$ENDCMP
+#
+$CMP LT1678.S8
+D LT1678, Dual Low Noise, Rail-to-Rail, Precision OpAmp, SOIC-8
+K dual precision low-noise rro rri opamp
+F http://www.linear.com/product/LT1678
+$ENDCMP
+#
+$CMP LT1679.S
+D LT1679, Quad Low Noise, Rail-to-Rail, Precision OpAmp, SOIC-14
+K quad precision low-noise rro rri opamp
+F http://www.linear.com/product/LT1679
+$ENDCMP
+#
+$CMP LT1782.S5
+D LT1782, Micropower, Over-The-Top, Rail-to-Rail Input and Output OpAmp, TSOT-23-5
+K single micropower over-the-top RRI RRO opamp
+F http://www.linear.com/product/LT1782
+$ENDCMP
+#
+$CMP LT1782.S6
+D LT1782, Micropower, Over-The-Top, Rail-to-Rail Input and Output OpAmp, TSOT-23-6
+K single micropower over-the-top RRI RRO shutdown opamp
+F http://www.linear.com/product/LT1782
+$ENDCMP
+#
+$CMP LT1783.S5
+D LT1783, 1.25MHz Over-The-Top Micropower, Rail-to-Rail Input and Output OpAmp, TSOT-23-5
+K single 1.25MHz micropower over-the-top RRI RRO opamp
+F http://www.linear.com/product/LT1783
+$ENDCMP
+#
+$CMP LT1783.S6
+D LT1783, 1.25MHz Over-The-Top Micropower, Rail-to-Rail Input and Output OpAmp, TSOT-23-6
+K single 1.25MHz micropower over-the-top RRI RRO shutdown opamp
+F http://www.linear.com/product/LT1783
+$ENDCMP
+#
+$CMP LT1790+S6-1.25
+D LT1790, Micropower Low Dropout Reference 1.25V, TSOT-23-6
+K micropower voltage reference 1.25V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-2.048
+D LT1790, Micropower Low Dropout Reference 2.048V, TSOT-23-6
+K micropower voltage reference 2.048V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-2.5
+D LT1790, Micropower Low Dropout Reference 2.5V, TSOT-23-6
+K micropower voltage reference 2.5V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-3
+D LT1790, Micropower Low Dropout Reference 3V, TSOT-23-6
+K micropower voltage reference 3V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-3.3
+D LT1790, Micropower Low Dropout Reference 3.3V, TSOT-23-6
+K micropower voltage reference 3.3V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-4.096
+D LT1790, Micropower Low Dropout Reference 4.096V, TSOT-23-6
+K micropower voltage reference 4.096V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1790+S6-5
+D LT1790, Micropower Low Dropout Reference 5V, TSOT-23-6
+K micropower voltage reference 5V
+F http://www.linear.com/product/LT1790
+$ENDCMP
+#
+$CMP LT1806.S6
+D LT1806, 325MHz Rail-to-Rail Input and Output, Low Distortion, Low Noise Precision OpAmp with Shutdown, TSOT-23-6
+K single 325MHz RRI RRO low-noise low-distortion OpAmp shutdown
+F http://www.linear.com/product/LT1806
+$ENDCMP
+#
+$CMP LT1806.S8
+D LT1806, 325MHz Rail-to-Rail Input and Output, Low Distortion, Low Noise Precision OpAmp with Shutdown, SOIC-8
+K single 325MHz RRI RRO low-noise low-distortion OpAmp shutdown
+F http://www.linear.com/product/LT1806
+$ENDCMP
+#
+$CMP LT1807.MS8
+D LT1807, Dual 325MHz Rail-to-Rail Input and Output, Low Distortion, Low Noise Precision OpAmp with Shutdown, MSOP-8
+K dual 325MHz RRI RRO low-noise low-distortion OpAmp shutdown
+F http://www.linear.com/product/LT1807
+$ENDCMP
+#
+$CMP LT1807.S8
+D LT1807, Dual 325MHz Rail-to-Rail Input and Output, Low Distortion, Low Noise Precision OpAmp with Shutdown, SOIC-8
+K dual 325MHz RRI RRO low-noise low-distortion OpAmp shutdown
+F http://www.linear.com/product/LT1807
+$ENDCMP
+#
+$CMP LT1812.S5
+D LT1812, 100MHz, 750V/μs Operational Amplifier, .(C, I), TSOT-23-5
+K 100MHz OpAmp
+F http://www.linear.com/product/LT1812
+$ENDCMP
+#
+$CMP LT1812.S6
+D LT1812, 100MHz, 750V/μs Operational Amplifier with Shutdown, .(C, I), TSOT-23-6
+K 100MHz OpAmp shutdown
+F http://www.linear.com/product/LT1812
+$ENDCMP
+#
+$CMP LT1812.S8
+D LT1812, 100MHz, 750V/μs Operational Amplifier with Shutdown, .(C, I), SOIC-8
+K 100MHz OpAmp shutdown
+F http://www.linear.com/product/LT1812
+$ENDCMP
+#
+$CMP LT1880.S5
+D LT1880, Single Rail-to-Rail Output, Picoamp Input Precision OpAmp, .(C, I), TSOT-23-5
+K single picoamp precision RRO OpAmp
+F http://www.linear.com/product/LT1880
+$ENDCMP
+#
+$CMP LT1881.S8
+D LT1881, Dual Rail-to-Rail Output, Picoamp Input Precision OpAmp, .(C, I, H, MP), SOIC-8
+K single picoamp precision RRO OpAmp
+F http://www.linear.com/product/LT1881
+$ENDCMP
+#
+$CMP LT1881A.S8
+D LT1881A, Dual Rail-to-Rail Output, Low Offset, Picoamp Input Precision OpAmp, .(C, I), SOIC-8
+K dual picoamp precision RRO OpAmp
+F http://www.linear.com/product/LT1881
+$ENDCMP
+#
+$CMP LT1882.S
+D LT1882, Quad Rail-to-Rail Output, Picoamp Input Precision OpAmp, .(C, I), SOIC-14
+K quad picoamp precision RRO OpAmp
+F http://www.linear.com/product/LT1882
+$ENDCMP
+#
+$CMP LT1990.S8
+D LT1990, ±250V Input Range G = 1, 10, Micropower, Difference Amplifier, SOIC-8
+K micropower difference Amplifier
+F http://www.linear.com/product/LT1990
+$ENDCMP
+#
+$CMP LT1991.DD
+D LT1991, Precision, 100μA Gain Selectable Amplifier, DFN-10-1EP
+K gain selectable Amplifier
+F http://www.linear.com/product/LT1991
+$ENDCMP
+#
+$CMP LT1991.MS
+D LT1991, Precision, 100μA Gain Selectable Amplifier, MSOP-10
+K gain selectable Amplifier
+F http://www.linear.com/product/LT1991
+$ENDCMP
+#
+$CMP LT1992-1.MS8
+D LT1992-1, Low Power, Fully Differential Input/Output Amplifier/Driver Fixed Gain 1, MSOP-8
+K SAR ADC differential driver fixed gain RRO OpAmp
+F http://www.linear.com/product/LT1992
+$ENDCMP
+#
+$CMP LT1992-10.MS8
+D LT1992-10, Low Power, Fully Differential Input/Output Amplifier/Driver Fixed Gain 10, MSOP-8
+K SAR ADC differential driver fixed gain RRO OpAmp
+F http://www.linear.com/product/LT1992
+$ENDCMP
+#
+$CMP LT1992-2.MS8
+D LT1992-2, Low Power, Fully Differential Input/Output Amplifier/Driver Fixed Gain 2, MSOP-8
+K SAR ADC differential driver fixed gain RRO OpAmp
+F http://www.linear.com/product/LT1992
+$ENDCMP
+#
+$CMP LT1992-5.MS8
+D LT1992-5, Low Power, Fully Differential Input/Output Amplifier/Driver Fixed Gain 5, MSOP-8
+K SAR ADC differential driver fixed gain RRO OpAmp
+F http://www.linear.com/product/LT1992
+$ENDCMP
+#
+$CMP LT1992.MS8
+D LT1992, Low Power, Fully Differential Input/Output Amplifier/Driver, MSOP-8
+K SAR ADC differential driver RRO OpAmp
+F http://www.linear.com/product/LT1992
+$ENDCMP
+#
+$CMP LT1994.DD
+D LT1994, Low Noise, Low Distortion Fully Differential Input/ Output Amplifier/Driver, DFN-8-1EP
+K SAR ADC differential driver RRO OpAmp
+F http://www.linear.com/product/LT1994
+$ENDCMP
+#
+$CMP LT1994.MS8
+D LT1994, Low Noise, Low Distortion Fully Differential Input/ Output Amplifier/Driver, MSOP-8
+K SAR ADC differential driver RRO OpAmp
+F http://www.linear.com/product/LT1994
+$ENDCMP
+#
+$CMP LT6003.DC
+D LT6003, Single 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, DFN-4-1EP
+K single precision rro rri opamp
+F http://www.linear.com/product/LT6003
+$ENDCMP
+#
+$CMP LT6003.S5
+D LT6003, Single 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, TSOT-23-5
+K single precision rro rri opamp
+F http://www.linear.com/product/LT6003
+$ENDCMP
+#
+$CMP LT6004.DD
+D LT6004, Dual 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, DFN-8-1EP
+K dual precision rro rri opamp
+F http://www.linear.com/product/LT6004
+$ENDCMP
+#
+$CMP LT6004.MS8
+D LT6004, Dual 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, MSOP-8
+K dual precision rro rri opamp
+F http://www.linear.com/product/LT6004
+$ENDCMP
+#
+$CMP LT6005.DHC
+D LT6005, Quad 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, DFN-16-1EP
+K quad precision rro rri opamp
+F http://www.linear.com/product/LT6005
+$ENDCMP
+#
+$CMP LT6005.GN
+D LT6005, Quad 1.6V, 1μA Precision Rail-to-Rail Input and Output OpAmp, SSOP-16
+K quad precision rro rri opamp
+F http://www.linear.com/product/LT6005
+$ENDCMP
+#
+$CMP LT6011.DD
+D LT6011, Dual 135μA, 14nV/√Hz, Rail-to-Rail Output Precision OpAmp, DFN-8-1EP
+K dual precision RRO opamp
+F http://www.linear.com/product/LT6011
+$ENDCMP
+#
+$CMP LT6011.MS8
+D LT6011, Dual 135μA, 14nV/√Hz, Rail-to-Rail Output Precision OpAmp, MSOP-8
+K dual precision RRO opamp
+F http://www.linear.com/product/LT6011
+$ENDCMP
+#
+$CMP LT6011.S8
+D LT6011, Dual 135μA, 14nV/√Hz, Rail-to-Rail Output Precision OpAmp, SOIC-8
+K dual precision RRO opamp
+F http://www.linear.com/product/LT6011
+$ENDCMP
+#
+$CMP LT6012.GN
+D LT6012, Quad 135μA, 14nV/√Hz, Rail-to-Rail Output Precision OpAmp, SSOP-16
+K quad precision RRO opamp
+F http://www.linear.com/product/LT6012
+$ENDCMP
+#
+$CMP LT6012.S
+D LT6012, Quad 135μA, 14nV/√Hz, Rail-to-Rail Output Precision OpAmp, SOIC-14
+K quad precision RRO opamp
+F http://www.linear.com/product/LT6012
+$ENDCMP
+#
+$CMP LT6015.S5
+D LT6015, 3.2MHz, 0.8V/μs Low Power, Over-The-Top Precision OpAmp, TSOT-23-5
+K single 3.2MHz precision over-the-top RRO opamp
+F http://www.linear.com/product/LT6015
+$ENDCMP
+#
+$CMP LT6016.MS8
+D LT6016, Dual 3.2MHz, 0.8V/μs Low Power, Over-The-Top Precision OpAmp, MSOP-8
+K dual 3.2MHz precision over-the-top RRO opamp
+F http://www.linear.com/product/LT6016
+$ENDCMP
+#
+$CMP LT6090.FE
+D LT6090, 140V CMOS Rail-to-Rail Output, Picoamp Input Current OpAmp, SSOP-16-1EP
+K 140V CMOS RRO Picoamp OpAmp
+F http://www.linear.com/product/LTC6090
+$ENDCMP
+#
+$CMP LT6090.FE-5
+D LT6090-5, 140V CMOS Rail-to-Rail Output, Picoamp Input Current OpAmp, SSOP-16-1EP
+K 140V CMOS RRO Picoamp OpAmp
+F http://www.linear.com/product/LTC6090
+$ENDCMP
+#
+$CMP LT6090.S8E
+D LT6090, 140V CMOS Rail-to-Rail Output, Picoamp Input Current OpAmp, SOIC-8-1EP
+K 140V CMOS RRO Picoamp OpAmp
+F http://www.linear.com/product/LTC6090
+$ENDCMP
+#
+$CMP LT6090.S8E-5
+D LT6090-5, 140V CMOS Rail-to-Rail Output, Picoamp Input Current OpAmp, SOIC-8-1EP
+K 140V CMOS RRO Picoamp OpAmp
+F http://www.linear.com/product/LTC6090
+$ENDCMP
+#
+$CMP LT6105.DCB
+D LT6105, Precision, Extended Input Range Current Sense Amplifier, DFN-6-1EP
+K current sense Amp high-side precision RRI
+F http://www.linear.com/product/LTC6105
+$ENDCMP
+#
+$CMP LT6105.MS8
+D LT6105, Precision, Extended Input Range Current Sense Amplifier, MSOP-8
+K current sense Amp high-side precision RRI
+F http://www.linear.com/product/LTC6105
+$ENDCMP
+#
+$CMP LT6106.S5
+D LT6106, 36V Low Cost High Side Current Sense, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LT6106
+$ENDCMP
+#
+$CMP LT6107MPS5
+D LT6107, High Temperature High Side Current Sense Amp, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LT6107
+$ENDCMP
+#
+$CMP LT6108.DCB-1
+D LTC6108-1, High Side Current Sense Amplifier with Reference and Comparator, DFN-8-1EP
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6108.DCB-2
+D LTC6108-2, High Side Current Sense Amplifier with Reference and Comparator, DFN-8-1EP
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6108.MS8-1
+D LTC6108-1, High Side Current Sense Amplifier with Reference and Comparator, MSOP-8
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6108.MS8-2
+D LTC6108-2, High Side Current Sense Amplifier with Reference and Comparator, MSOP-8
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6108A.MS8-1
+D LTC6108-1, High Side Current Sense Amplifier with Reference and Comparator, MSOP-8
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6108A.MS8-2
+D LTC6108-2, High Side Current Sense Amplifier with Reference and Comparator, MSOP-8
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6108
+$ENDCMP
+#
+$CMP LT6109.MS8-1
+D LTC6109-1, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6109
+$ENDCMP
+#
+$CMP LT6109.MS8-2
+D LTC6109-2, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6109
+$ENDCMP
+#
+$CMP LT6109A.MS8-1
+D LTC6109-1, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6109
+$ENDCMP
+#
+$CMP LT6109A.MS8-2
+D LTC6109-2, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
+K current sense Amp high-side precision reference comparator
+F http://www.linear.com/product/LTC6109
+$ENDCMP
+#
+$CMP LT6200-10.S6
+D LT6200-10, 1.6GHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, TSOT-23-6
+K single 1.6GHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6200-10.S8
+D LT6200-10, 1.6GHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, SOIC-8
+K single 1.6GHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6200-5.S6
+D LT6200-5, 800MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, TSOT-23-6
+K single 800MHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6200-5.S8
+D LT6200-5, 800MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, SOIC-8
+K single 800MHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6200.S6
+D LT6200, 165MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, TSOT-23-6
+K single 165MHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6200.S8
+D LT6200, 165MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, SOIC-8
+K single 165MHz low-noise RRI RRO shutdown opamp
+F http://www.linear.com/product/LT6200
+$ENDCMP
+#
+$CMP LT6201.DD
+D LT6201, Dual 165MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, DFN-8
+K dual 165MHz low-noise RRI RRO opamp
+F http://www.linear.com/product/LT6201
+$ENDCMP
+#
+$CMP LT6201.S8
+D LT6201, Dual 165MHz Rail-to-Rail Input and Output, 0.95nV/√Hz Low Noise OpAmp, SOIC-8
+K dual 165MHz low-noise RRI RRO opamp
+F http://www.linear.com/product/LT6201
+$ENDCMP
+#
+$CMP LT6202.S5
+D LT6202, Single 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I, H), TSOT-23-5
+K single 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6202
+$ENDCMP
+#
+$CMP LT6202.S8
+D LT6202, Single 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I), SOIC-8
+K single 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6202
+$ENDCMP
+#
+$CMP LT6203.DD
+D LT6203, Dual 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I), DFN-8-1EP
+K dual 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6203
+$ENDCMP
+#
+$CMP LT6203.MS8
+D LT6203, Dual 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I, H), MSOP-8
+K dual 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6203
+$ENDCMP
+#
+$CMP LT6203.S8
+D LT6203, Dual 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I), SOIC-8
+K dual 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6203
+$ENDCMP
+#
+$CMP LT6204.GN
+D LT6204, Quad 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I), SSOP-16
+K dual 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6204
+$ENDCMP
+#
+$CMP LT6204.S
+D LT6204, Quad 100MHz, Rail-to-Rail Input and Output, Ultralow 1.9nVrtHz Noise, Low Power OpAmp, .(C, I), SOIC-14
+K dual 100Mhz low noise rro rri opamp
+F http://www.linear.com/product/LT6204
+$ENDCMP
+#
+$CMP LT6205.S5
+D LT6205, Single Single-Supply 3V, 100MHz Video OpAmp, .(C, I, H), TSOT-23-5
+K sinle 100MHz video OpAmp
+F http://www.linear.com/product/LT6205
+$ENDCMP
+#
+$CMP LT6206.MS8
+D LT6206, Dual Single-Supply 3V, 100MHz Video OpAmp, .(C, I), MSOP-8
+K dual 100MHz video OpAmp
+F http://www.linear.com/product/LT6206
+$ENDCMP
+#
+$CMP LT6207.GN
+D LT6207, Quad Single-Supply 3V, 100MHz Video OpAmp, .(C, I), SSOP-16
+K quad 100MHz video OpAmp
+F http://www.linear.com/product/LT6207
+$ENDCMP
+#
+$CMP LT6220.S5
+D LT6220, Single 60MHz, 20V/μs, Low Power, Rail-to-Rail Input and Output Precision OpAmp, .(C, I), TSOT-23-5
+K single 60Mhz low power rro rri precision opamp
+F http://www.linear.com/product/LT6220
+$ENDCMP
+#
+$CMP LT6220.S8
+D LT6220, Single 60MHz, 20V/μs, Low Power, Rail-to-Rail Input and Output Precision OpAmp, .(C, I), SOIC-8
+K single 60Mhz low power rro rri precision opamp
+F http://www.linear.com/product/LT6220
+$ENDCMP
+#
+$CMP LT6221.DD
+D LT6221, Dual 60MHz, 20V/μs, Low Power, Rail-to-Rail Input and Output Precision OpAmp, .(C, I), DFN-8-1EP
+K dual 60Mhz low power rro rri precision opamp
+F http://www.linear.com/product/LT6221
+$ENDCMP
+#
+$CMP LT6221.S8
+D LT6221, Dual 60MHz, 20V/μs, Low Power, Rail-to-Rail Input and Output Precision OpAmp, .(C, I), SOIC-8
+K dual 60Mhz low power rro rri precision opamp
+F http://www.linear.com/product/LT6221
+$ENDCMP
+#
+$CMP LT6222.GN
+D LT6222, Quad 60MHz, 20V/μs, Low Power, Rail-to-Rail Input and Output Precision OpAmp, .(C, I), SSOP-16
+K quad 60Mhz low power rro rri precision opamp
+F http://www.linear.com/product/LT6222
+$ENDCMP
+#
+$CMP LT6230.S6
+D LT6230, 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA OpAmp Family, .(C, I), TSOT-23-6
+K single 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6230
+$ENDCMP
+#
+$CMP LT6230.S6-10
+D LT6230-10, 1450MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA OpAmp Family, .(C, I), TSOT-23-6
+K single 1450Mhz low noise rro opamp
+F http://www.linear.com/product/LT6230
+$ENDCMP
+#
+$CMP LT6231.DD
+D LT6231, Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA OpAmp Family, .(C, I), DFN-8
+K dual 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6231
+$ENDCMP
+#
+$CMP LT6231.S8
+D LT6231, Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA OpAmp Family, .(C, I), SOIC-8
+K dual 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6231
+$ENDCMP
+#
+$CMP LT6232.GN
+D LT6232, Quad 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA OpAmp Family, .(C, I), SSOP-16
+K quad 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6232
+$ENDCMP
+#
+$CMP LT6233.S6
+D LT6233, 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA OpAmp Family, .(C, I), TSOT-23-6
+K single 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6233
+$ENDCMP
+#
+$CMP LT6233.S6-10
+D LT6233-10, 375MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA OpAmp Family, .(C, I), TSOT-23-6
+K single 375MHz low noise rro opamp
+F http://www.linear.com/product/LT6233
+$ENDCMP
+#
+$CMP LT6234.DD
+D LT6234, Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA OpAmp Family, .(C, I), DFN-8
+K dual 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6234
+$ENDCMP
+#
+$CMP LT6234.S8
+D LT6234, Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA OpAmp Family, .(C, I), SOIC-8
+K dual 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6234
+$ENDCMP
+#
+$CMP LT6235.GN
+D LT6235, Quad 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA OpAmp Family, .(C, I), SSOP-16
+K quad 215Mhz low noise rro opamp
+F http://www.linear.com/product/LT6235
+$ENDCMP
+#
+$CMP LT6552.S8
+D LT6552, 3.3V Single Supply Video Difference Amplifier, SOIC-8
+K Video Difference Amplifier OpAmp
+F http://www.linear.com/product/LT6552
+$ENDCMP
+#
+$CMP LT6650.S5
+D LT6650, Micropower, 400mV Reference with Rail-to-Rail Buffer Amplifier, TSOT-23-5
+K micropower precision series reference 0.4V buffer
+F http://www.linear.com/product/LT6650
+$ENDCMP
+#
+$CMP LT6654+LS8-2.048
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 2.048V, LCC-8
+K micropower precision series reference 2.048V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+LS8-2.5
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 2.5V, LCC-8
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+LS8-4.096
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 4.096V, LCC-8
+K micropower precision series reference 4.096V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+LS8-5
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 5V, LCC-8
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-1.25
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 1.25V, TSOT-23-6
+K micropower precision series reference 1.25V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-2.048
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 2.048V, TSOT-23-6
+K micropower precision series reference 2.048V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-2.5
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 2.5V, TSOT-23-6
+K micropower precision series reference 2.5V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-3
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 3V, TSOT-23-6
+K micropower precision series reference 3V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-3.3
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 3.3V, TSOT-23-6
+K micropower precision series reference 3.3V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-4.096
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 4.096V, TSOT-23-6
+K micropower precision series reference 4.096V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6654+S6-5
+D LT6654, Precision Wide Supply High Output Drive Low Noise Reference 5V, TSOT-23-6
+K micropower precision series reference 5V
+F http://www.linear.com/product/LT6654
+$ENDCMP
+#
+$CMP LT6657+MS8-2.5
+D LT6657, 1.5ppm/°C Drift, Low Noise, Buffered Reference 2.5V, MSOP-8
+K low-drift low-noise series reference 2.5V
+F http://www.linear.com/product/LT6657
+$ENDCMP
+#
+$CMP LTC2050.S5
+D LTC2050, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), TSOT-23-5
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2050.S6
+D LTC2050, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), TSOT-23-6
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2050.S8
+D LTC2050, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-8
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2050HV.S5
+D LTC2050HV, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), TSOT-23-5
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2050HV.S6
+D LTC2050HV, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), TSOT-23-6
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2050HV.S8
+D LTC2050HV, Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-8
+K zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2050
+$ENDCMP
+#
+$CMP LTC2051.DD
+D LTC2051, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I), DFN-8-1EP
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051.MS10
+D LTC2051, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), MSOP-10
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051.MS8
+D LTC2051, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), MSOP-8
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051.S8
+D LTC2051, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-8
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051HV.DD
+D LTC2051HV, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I), DFN-8-1EP
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051HV.MS10
+D LTC2051HV, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), MSOP-10
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051HV.MS8
+D LTC2051HV, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), MSOP-8
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2051HV.S8
+D LTC2051HV, Dual Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-8
+K dual zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2051
+$ENDCMP
+#
+$CMP LTC2052.GN
+D LTC2052, Quad Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SSOP-16
+K quad zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2052
+$ENDCMP
+#
+$CMP LTC2052.S
+D LTC2052, Quad Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-14
+K quad zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2052
+$ENDCMP
+#
+$CMP LTC2052HV.GN
+D LTC2052HV, Quad Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SSOP-16
+K quad zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2052
+$ENDCMP
+#
+$CMP LTC2052HV.S
+D LTC2052HV, Quad Zero-Drift Operational Amplifiers, Offset 3μV, Offset Drift 30nV/°C OpAmp, .(C, I, H), SOIC-14
+K quad zero-drift chopper OpAmp
+F http://www.linear.com/product/LTC2052
+$ENDCMP
+#
+$CMP LTC6078.DD
+D LTC6078, Dual Micropower Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-10-1EP
+K dual Micropower Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6078
+$ENDCMP
+#
+$CMP LTC6078.MS8
+D LTC6078, Dual Micropower Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), MSOP-8
+K dual Micropower Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6078
+$ENDCMP
+#
+$CMP LTC6078A.MS8
+D LTC6078A, Dual Micropower Precision CMOS, Low Offset & Drift, Rail-to-Rail Input/Output Amplifiers, .(C, I, H), MSOP-8
+K dual Micropower Precision CMOS RRI RRO OpAmp low offset drift
+F http://www.linear.com/product/LTC6078
+$ENDCMP
+#
+$CMP LTC6079.DHC
+D LTC6079, Quad Micropower Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-16-1EP
+K quad Micropower Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6079
+$ENDCMP
+#
+$CMP LTC6079.GN
+D LTC6079, Quad Micropower Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), SSOP-16
+K quad Micropower Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6079
+$ENDCMP
+#
+$CMP LTC6081.DD
+D LTC6081, Dual Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-10-1EP
+K dual Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6081
+$ENDCMP
+#
+$CMP LTC6081.MS8
+D LTC6081, Dual Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), MSOP-8
+K dual Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6081
+$ENDCMP
+#
+$CMP LTC6082.DHC
+D LTC6082, Quad Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-16-1EP
+K dual Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6082
+$ENDCMP
+#
+$CMP LTC6082.GN
+D LTC6082, Quad Precision CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), SSOP-16
+K dual Precision CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6082
+$ENDCMP
+#
+$CMP LTC6084.DD
+D LTC6084, Dual 1.5MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-10-1EP
+K dual 1.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6084
+$ENDCMP
+#
+$CMP LTC6084.MS8
+D LTC6084, Dual 1.5MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), MSOP-8
+K dual 1.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6084
+$ENDCMP
+#
+$CMP LTC6085.DHC
+D LTC6085, Quad 1.5MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-16-1EP
+K dual 1.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6085
+$ENDCMP
+#
+$CMP LTC6085.GN
+D LTC6085, Quad 1.5MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), SSOP-16
+K dual 1.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6085
+$ENDCMP
+#
+$CMP LTC6087.DD
+D LTC6087, Dual 14MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-10-1EP
+K dual 14MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6087
+$ENDCMP
+#
+$CMP LTC6087.MS8
+D LTC6087, Dual 14MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), MSOP-8
+K dual 14MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6087
+$ENDCMP
+#
+$CMP LTC6088.DHC
+D LTC6088, Quad 14MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I), DFN-16-1EP
+K dual 14MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6088
+$ENDCMP
+#
+$CMP LTC6088.GN
+D LTC6088, Quad 14MHz CMOS Rail-to-Rail Input/Output Amplifiers, .(C, I, H), SSOP-16
+K dual 14MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6088
+$ENDCMP
+#
+$CMP LTC6101A.MS8
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, MSOP-8
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101A.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101B.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101C.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101HVA.MS8
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, MSOP-8
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101HVA.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101HVB.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6101HVC.S5
+D LTC6101, High Voltage, High-Side Current Sense Amplifier, TSOT-23-5
+K current sense Amp high-side
+F http://www.linear.com/product/LTC6101
+$ENDCMP
+#
+$CMP LTC6102.DD
+D LTC6102, Precision Zero Drift Current Sense Amplifier, DFN-8-1EP
+K current sense Amp high-side precision zero drift enable
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6102.DD-1
+D LTC6102-1, Precision Zero Drift Current Sense Amplifier, DFN-8-1EP
+K current sense Amp high-side precision zero drift enable
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6102.MS8
+D LTC6102, Precision Zero Drift Current Sense Amplifier, MSOP-8
+K current sense Amp high-side precision zero drift
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6102.MS8-1
+D LTC6102-1, Precision Zero Drift Current Sense Amplifier, MSOP-8
+K current sense Amp high-side precision zero drift enable
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6102HV.DD
+D LTC6102, Precision Zero Drift Current Sense Amplifier, DFN-8-1EP
+K current sense Amp high-side precision zero drift enable
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6102HV.MS8
+D LTC6102, Precision Zero Drift Current Sense Amplifier, MSOP-8
+K current sense Amp high-side precision zero drift
+F http://www.linear.com/product/LTC6102
+$ENDCMP
+#
+$CMP LTC6103.MS8
+D LTC6103, Dual High Voltage, High Side Current Sense Amplifier, MSOP-8
+K dual current sense Amp high-side
+F http://www.linear.com/product/LTC6103
+$ENDCMP
+#
+$CMP LTC6104.MS8
+D LTC6104, High Voltage, High Side, Bi-Directional Current Sense Amplifier, MSOP-8
+K current sense Amp high-side bi-directional
+F http://www.linear.com/product/LTC6104
+$ENDCMP
+#
+$CMP LTC6240.S5
+D LTC6240, 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I, H), TSOT-23-5
+K 18MHz Low Noise RRO CMOS OpAmp
+F http://www.linear.com/product/LTC6240
+$ENDCMP
+#
+$CMP LTC6240.S8
+D LTC6240, 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I, H), SOIC-8
+K 18MHz Low Noise RRO CMOS OpAmp
+F http://cds.linear.com/docs/en/datasheet/624012fe.pdf
+$ENDCMP
+#
+$CMP LTC6241.DD
+D LTC6241, Dual 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I), DFN-8-1EP
+K Dual 18MHz Low Noise RRO CMOS OpAmp
+F http://www.linear.com/product/LTC6241
+$ENDCMP
+#
+$CMP LTC6241.S8
+D LTC6241, Dual 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I, H), SOIC-8
+K Dual 18MHz Low Noise RRO CMOS OpAmp
+F http://www.linear.com/product/LTC6241
+$ENDCMP
+#
+$CMP LTC6242.DHC
+D LTC6242, Quad 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I), DFN-16-1EP
+K Quad 18MHz Low Noise RRO CMOS OpAmp
+F http://www.linear.com/product/LTC6242
+$ENDCMP
+#
+$CMP LTC6242.GN
+D LTC6242, Quad 18MHz, Low Noise, Rail-to-Rail Output, CMOS OpAmp, .(C, I, H), SSOP-16
+K Quad 18MHz Low Noise RRO CMOS OpAmp
+F http://www.linear.com/product/LTC6242
+$ENDCMP
+#
+$CMP LTC6244.MS8
+D LTC6244, Dual 50MHz, Low Noise, Rail-to-Rail, CMOS OpAmp, .(C, I, H), MSOP-8
+K dual 50MHz CMOS low noise RRO OpAmp
+F http://www.linear.com/product/LTC6244
+$ENDCMP
+#
+$CMP LTC6244HV.MS8
+D LTC6244HV, Dual 50MHz, Low Noise, Rail-to-Rail, CMOS OpAmp, .(C, I, H), MSOP-8
+K dual 50MHz CMOS low noise RRO OpAmp
+F http://www.linear.com/product/LTC6244
+$ENDCMP
+#
+$CMP LTC6246.S6
+D LTC6246, Single 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-6
+K single 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6246
+$ENDCMP
+#
+$CMP LTC6247.DC
+D LTC6247, Dual 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I), DFN-8-1EP
+K dual 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6247
+$ENDCMP
+#
+$CMP LTC6247.KC
+D LTC6247, Dual 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I), DFN-8-1EP
+K dual 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6247
+$ENDCMP
+#
+$CMP LTC6247.MS
+D LTC6247, Dual 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I), MSOP-10
+K dual 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6247
+$ENDCMP
+#
+$CMP LTC6247.MS8
+D LTC6247, Dual 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I), MSOP-8
+K dual 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6247
+$ENDCMP
+#
+$CMP LTC6247.TS8
+D LTC6247, Dual 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-8
+K dual 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6247
+$ENDCMP
+#
+$CMP LTC6248.MS
+D LTC6248, Quad 180MHz, 1mA Power Efficient Single Rail-to-Rail I/O OpAmp, .(C, I, H), MSOP-16
+K quad 180MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6248
+$ENDCMP
+#
+$CMP LTC6252.S6
+D LTC6252, Single 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-6
+K single 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6252
+$ENDCMP
+#
+$CMP LTC6253.DC
+D LTC6253, Dual 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), DFN-8-1EP
+K dual 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6253
+$ENDCMP
+#
+$CMP LTC6253.MS
+D LTC6253, Dual 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), MSOP-10
+K dual 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6253
+$ENDCMP
+#
+$CMP LTC6253.MS-7
+D LTC6253-7, Dual 2GHz, 3.5mA Gain of 7 Stable Rail-to-Rail I/O OpAmp, MSOP-10
+K dual 2GHz RRI RRO OpAmp
+F http://www.linear.com/product/LTC6253-7
+$ENDCMP
+#
+$CMP LTC6253.MS8
+D LTC6253, Dual 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), MSOP-8
+K dual 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6253
+$ENDCMP
+#
+$CMP LTC6253.TS8
+D LTC6253, Dual 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-8
+K dual 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6253
+$ENDCMP
+#
+$CMP LTC6254.MS
+D LTC6254, Quad 720MHz, 3.5mA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), MSOP-16
+K quad 720MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6254
+$ENDCMP
+#
+$CMP LTC6255.DC
+D LTC6255, Single 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), DFN-6-1EP
+K single 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6255
+$ENDCMP
+#
+$CMP LTC6255.S6
+D LTC6255, Single 6.5MHz, 65μA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-6
+K single 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6255
+$ENDCMP
+#
+$CMP LTC6256.DC
+D LTC6256, Dual 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), DFN-8-1EP
+K dual 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6256
+$ENDCMP
+#
+$CMP LTC6256.KC
+D LTC6256, Dual 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), DFN-8-1EP
+K dual 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6256
+$ENDCMP
+#
+$CMP LTC6256.MS
+D LTC6256, Dual 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), MSOP-10
+K dual 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6256
+$ENDCMP
+#
+$CMP LTC6256.MS8
+D LTC6256, Dual 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I), MSOP-8
+K dual 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6256
+$ENDCMP
+#
+$CMP LTC6256.TS8
+D LTC6256, Dual 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), TSOT-23-8
+K dual 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6256
+$ENDCMP
+#
+$CMP LTC6257.MS
+D LTC6257, Quad 6.5MHz, 65µA Power Efficient Rail-to-Rail I/O OpAmp, .(C, I, H), MSOP-16
+K quad 6.5MHz CMOS RRI RRO OpAmp
+F http://www.linear.com/product/LTC6257
+$ENDCMP
+#
+$CMP LTC6268.S6
+D LTC6268, Single 500MHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), TSOT-23-6
+K single 500MHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6268
+$ENDCMP
+#
+$CMP LTC6268.S6-10
+D LTC6268-10, Single 4GHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), TSOT-23-6
+K single 4GHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6268-10
+$ENDCMP
+#
+$CMP LTC6268.S8
+D LTC6268, Single 500MHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), SOIC-8
+K single 500MHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6268
+$ENDCMP
+#
+$CMP LTC6268.S8-10
+D LTC6268-10, Single 4GHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), SOIC-8
+K single 4GHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6268-10
+$ENDCMP
+#
+$CMP LTC6269.DD
+D LTC6269, Dual 500MHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), DFN-10-1EP
+K dual 500MHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6269
+$ENDCMP
+#
+$CMP LTC6269.DD-10
+D LTC6269-10, Dual 4GHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), DFN-10-1EP
+K dual 4GHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6269-10
+$ENDCMP
+#
+$CMP LTC6269.MS8E
+D LTC6269, Dual 500MHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), MSOP-8-1EP
+K dual 500MHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6269
+$ENDCMP
+#
+$CMP LTC6269.MS8E-10
+D LTC6269-10, Dual 4GHz Ultra-Low Bias Current FET Input OpAmp, .(I, H), MSOP-8-1EP
+K dual 4GHz Low Bias Current FET OpAmp
+F http://www.linear.com/product/LTC6269-10
+$ENDCMP
+#
+$CMP LTC6350.DD
+D LTC6350, Low Noise Single-Ended to Differential Converter/ADC Driver, DFN-8-1EP
+K Low-Noise Single-Ended to Differential Converter/ADC Driver
+F http://www.linear.com/product/LTC6350
+$ENDCMP
+#
+$CMP LTC6350.MS8
+D LTC6350, Low Noise Single-Ended to Differential Converter/ADC Driver, MSOP-8
+K Low-Noise Single-Ended to Differential Converter/ADC Driver
+F http://www.linear.com/product/LTC6350
+$ENDCMP
+#
+$CMP LTC6362.DD
+D LTC6362, Precision, Low Power Rail-to-Rail Input/Output Differential OpAmp/SAR ADC Driver, .(C, I, H), DFN-8-1EP
+K SAR ADC driver 500MHz RRI RRO differential OpAmp
+F http://www.linear.com/product/LTC6362
+$ENDCMP
+#
+$CMP LTC6362.MS8
+D LTC6362, Precision, Low Power Rail-to-Rail Input/Output Differential OpAmp/SAR ADC Driver, .(C, I, H), MSOP-8
+K SAR ADC driver 500MHz RRI RRO differential OpAmp
+F http://www.linear.com/product/LTC6362
+$ENDCMP
+#
+$CMP LTC6363.DD
+D LTC6363, Precision, Low Power Rail-to-Rail Output Differential OpAmp, .(I, H), DFN-8-1EP
+K SAR ADC driver 500MHz RRI RRO OpAmp
+F http://www.linear.com/product/LTC6363
+$ENDCMP
+#
+$CMP LTC6363.MS8
+D LTC6363, Precision, Low Power Rail-to-Rail Output Differential OpAmp, .(I, H), MSOP-8
+K SAR ADC driver 500MHz RRI RRO OpAmp
+F http://www.linear.com/product/LTC6363
+$ENDCMP
+#
+$CMP LTC6400.UD-14
+D LTC6400-14, 2GHz Low Noise, Low Distortion Differential ADC Driver for DC-140MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6400-14
+$ENDCMP
+#
+$CMP LTC6400.UD-20
+D LTC6400-20, 1.3GHz Low Noise, Low Distortion Differential ADC Driver for 140MHz IF, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6400-20
+$ENDCMP
+#
+$CMP LTC6400.UD-26
+D LTC6400-26, 1.6GHz Low Noise, Low Distortion Differential ADC Driver for DC-140MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6400-26
+$ENDCMP
+#
+$CMP LTC6400.UD-8
+D LTC6400-8, 2.2GHz Low Noise, Low Distortion Differential ADC Driver for DC-300MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6400-8
+$ENDCMP
+#
+$CMP LTC6401.UD-14
+D LTC6401-14, 2GHz Low Noise, Low Distortion Differential ADC Driver for DC-140MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6401-14
+$ENDCMP
+#
+$CMP LTC6401.UD-20
+D LTC6401-20, 1.3GHz Low Noise, Low Distortion Differential ADC Driver for 140MHz IF, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6401-20
+$ENDCMP
+#
+$CMP LTC6401.UD-26
+D LTC6401-26, 1.6GHz Low Noise, Low Distortion Differential ADC Driver for DC-140MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6401-26
+$ENDCMP
+#
+$CMP LTC6401.UD-8
+D LTC6401-8, 2.2GHz Low Noise, Low Distortion Differential ADC Driver for DC-300MHz, .(C, I), QFN-16-1EP
+K single ADC driver differential OpAmp
+F http://www.linear.com/product/LTC6401-8
+$ENDCMP
+#
+$CMP LTC6406.MSE
+D LTC6406, 3GHz, Low Noise, Rail-to-Rail Input Differential Amplifier/Driver, MSOP-8-1EP
+K SAR ADC differential driver 3GHz RRI OpAmp
+F http://www.linear.com/product/LTC6406
+$ENDCMP
+#
+$CMP LTC6406.UD
+D LTC6406, 3GHz, Low Noise, Rail-to-Rail Input Differential Amplifier/Driver, QFN-16-1EP
+K 3GHz Low-Noise RRI Differential SAR ADC Driver OpAmp
+F http://www.linear.com/product/LTC6406
+$ENDCMP
+#
+$CMP LTC6409.UDB
+D LTC6409, 10GHz GBW, 1.1nV/√Hz Differential Amplifier/ADC Driver, QFN-10-1EP
+K 10GHz Low-Noise Differential SAR ADC Driver OpAmp
+F http://www.linear.com/product/LTC6409
+$ENDCMP
+#
+$CMP LTC6652+LS8-2.5
+D LTC6652, Precision Low Drift Low Noise Buffered Reference, LCC-8
+K precision low drift low noise buffered voltage reference
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+LS8-4.096
+D LTC6652, Precision Low Drift Low Noise Buffered Reference, LCC-8
+K precision low drift low noise buffered voltage reference
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+LS8-5
+D LTC6652, Precision Low Drift Low Noise Buffered Reference, LCC-8
+K precision low drift low noise buffered voltage reference
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-1.25
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 1.25V, MSOP-8
+K precision low drift low noise buffered voltage reference 1.25V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-2.048
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 2.048V, MSOP-8
+K precision low drift low noise buffered voltage reference 2.048V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-2.5
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 2.5V, MSOP-8
+K precision low drift low noise buffered voltage reference 2.5V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-3
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 3V, MSOP-8
+K precision low drift low noise buffered voltage reference 3V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-3.3
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 3.3V, MSOP-8
+K precision low drift low noise buffered voltage reference 3.3V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-4.096
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 4.096V, MSOP-8
+K precision low drift low noise buffered voltage reference 4.096V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6652+MS8-5
+D LTC6652, Precision Low Drift Low Noise Buffered Reference 5V, MSOP-8
+K precision low drift low noise buffered voltage reference 5V
+F http://www.linear.com/product/LTC6652
+$ENDCMP
+#
+$CMP LTC6655+LS8-2.5
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference, LCC-8
+K precision low drift 0.25ppm noise voltage reference
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+LS8-4.096
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference, LCC-8
+K precision low drift 0.25ppm noise voltage reference
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+LS8-5
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference, LCC-8
+K precision low drift 0.25ppm noise voltage reference
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-1.25
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 1.25V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 1.25V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-2.048
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 2.048V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 2.048V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-2.5
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 2.5V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 2.5V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-3
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 3V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 3V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-3.3
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 3.3V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 3.3V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-4.096
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 4.096V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 4.096V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6655+MS8-5
+D LTC6655, Precision Low Drift 0.25ppm Noise Reference 5V, MSOP-8
+K precision low drift 0.25ppm noise voltage reference 5V
+F http://www.linear.com/product/LTC6655
+$ENDCMP
+#
+$CMP LTC6656+DC-1.25
+D LTC6656, 1μA Precision Series Voltage Reference 1.25V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 1.25V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-2.048
+D LTC6656, 1μA Precision Series Voltage Reference 2.048V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 2.048V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-2.5
+D LTC6656, 1μA Precision Series Voltage Reference 2.5V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 2.5V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-3
+D LTC6656, 1μA Precision Series Voltage Reference 3V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 3V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-3.3
+D LTC6656, 1μA Precision Series Voltage Reference 3.3V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 3.3V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-4.096
+D LTC6656, 1μA Precision Series Voltage Reference 4.096V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 4.096V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+DC-5
+D LTC6656, 1μA Precision Series Voltage Reference 5V, DFN-6-1EP
+K 1μA precision series voltage voltage reference 5V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+LS8-1.25
+D LTC6656, 1μA Precision Series Voltage Reference 1.25V, LCC-8
+K 1μA precision series voltage voltage reference 1.25V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-1.25
+D LTC6656, 1μA Precision Series Voltage Reference 1.25V, TSOT-23-6
+K 1μA precision series voltage voltage reference 1.25V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-2.048
+D LTC6656, 1μA Precision Series Voltage Reference 2.048V, TSOT-23-6
+K 1μA precision series voltage voltage reference 2.048V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-2.5
+D LTC6656, 1μA Precision Series Voltage Reference 2.5V, TSOT-23-6
+K 1μA precision series voltage voltage reference 2.5V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-3
+D LTC6656, 1μA Precision Series Voltage Reference 3V, TSOT-23-6
+K 1μA precision series voltage voltage reference 3V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-3.3
+D LTC6656, 1μA Precision Series Voltage Reference 3.3V, TSOT-23-6
+K 1μA precision series voltage voltage reference 3.3V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-4.096
+D LTC6656, 1μA Precision Series Voltage Reference 4.096V, TSOT-23-6
+K 1μA precision series voltage voltage reference 4.096V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6656+S6-5
+D LTC6656, 1μA Precision Series Voltage Reference 5V, TSOT-23-6
+K 1μA precision series voltage voltage reference 5V
+F http://www.linear.com/product/LTC6656
+$ENDCMP
+#
+$CMP LTC6752.S5
+D LTC6752, 280MHz, 2.9ns Comparator Family with Rail-to-Rail Inputs and CMOS Outputs, TSOT-23-5
+K comparator RRI CMOS
+F http://www.linear.com/product/LTC6752
+$ENDCMP
+#
+$CMP LTC6910-1.TS8
+D LTC6910-1, Digitally Controlled Programmable Gain Amplifiers, TSOT-23-8
+K Digitally Controlled Programmable Gain OpAmp
+F http://www.linear.com/product/LTC6910
+$ENDCMP
+#
+$CMP OpAmpDiff.UD
+D OpAmp Differential Generic, QFN-16-1EP
+K OpAmp Differential Generic
+F OpAmp Differential Generic
+$ENDCMP
+#
+$CMP OpAmpDual.DD
+D OpAmp Dual Generic, DFN-8
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDual.MS8
+D OpAmp Dual Generic, MSOP-8
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDual.MS8E
+D OpAmp Dual Generic, MSOP-8-1EP
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDual.S8
+D OpAmp Dual Generic, SOIC-8
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDual.TS8
+D OpAmp Dual Generic, TSOT-23-8
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDualE.DD
+D OpAmp Dual Generic, DFN-8-1EP
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDualESHDN.DD
+D OpAmp Dual Generic enable=H, DFN-10-1EP
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpDualSHDN.MS10
+D OpAmp Dual Generic enable=H, MSOP-10
+K OpAmp Dual Generic
+F OpAmp Dual Generic
+$ENDCMP
+#
+$CMP OpAmpQuad.DHC
+D OpAmp Quad Generic, DFN-16-1EP
+K OpAmp Quad Generic
+F OpAmp Quad Generic
+$ENDCMP
+#
+$CMP OpAmpQuad.GN
+D OpAmp Quad Generic, SSOP-16
+K OpAmp Quad Generic
+F OpAmp Quad Generic
+$ENDCMP
+#
+$CMP OpAmpQuad.MS
+D OpAmp Quad Generic, MSOP-16
+K OpAmp Quad Generic
+F OpAmp Quad Generic
+$ENDCMP
+#
+$CMP OpAmpQuad.S
+D OpAmp Quad Generic, SOIC-14
+K OpAmp Quad Generic
+F OpAmp Quad Generic
+$ENDCMP
+#
+$CMP OpAmpQuad.SW
+D OpAmp Quad Generic, SOIC-16
+K OpAmp Quad Generic
+F OpAmp Quad Generic
+$ENDCMP
+#
+$CMP OpAmpSingle.DC
+D OpAmp Single Generic, DFN-4-1EP
+K OpAmp Single Generic
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingle.S5
+D OpAmp Single Generic, TSOT-23-5
+K OpAmp Single Generic
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingle.S8
+D OpAmp Single Generic, SOIC-8
+K OpAmp Single Generic
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingleEN.S6
+D OpAmp Single Generic enable=L, TSOT-23-6
+K OpAmp Single Generic enable
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingleSHDN.DC
+D OpAmp Single Generic enable=H, DFN-6-1EP
+K OpAmp Single Generic SHDN
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingleSHDN.S6
+D OpAmp Single Generic enable=H, TSOT-23-6
+K OpAmp Single Generic SHDN
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingleSHDN1.S8
+D OpAmp Single Generic enable=H, SOIC-8
+K OpAmp Single Generic SHDN
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP OpAmpSingleSHDN8.S8
+D OpAmp Single Generic enable=H, SOIC-8
+K OpAmp Single Generic SHDN
+F OpAmp Single Generic
+$ENDCMP
+#
+$CMP SymbolAllOptions.MS
+D Generic Symbol with all options, MSOP-16-1EP
+K Generic Symbol with all options
+F Generic Symbol with all options
+$ENDCMP
+#
+$CMP XCompSingle.S5
+D Comparator Single Generic, TSOT-23-5
+K Comparator Single Generic
+F Comparator Single Generic
+$ENDCMP
+#
+#End Doc Library
