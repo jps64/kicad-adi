@@ -126,4 +126,142 @@ K ±60V profibus failsafe protected 3V 5V RS485 transceiver
 F http://www.linear.com/product/LTC2876
 $ENDCMP
 #
+$CMP LTM2881.V-3
+D LTM2881-3, Isolated RS485/RS422 μModule Transceiver + Power, LGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.V-5
+D LTM2881-5, Isolated RS485/RS422 μModule Transceiver + Power, LGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.Y-3
+D LTM2881-3, Isolated RS485/RS422 μModule Transceiver + Power, BGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.Y-5
+D LTM2881-5, Isolated RS485/RS422 μModule Transceiver + Power, BGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2883.Y-3I
+D LTM2883-3I, I2C Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power I2C
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-3S
+D LTM2883-3S, Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-5I
+D LTM2883-5I, Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-5S
+D LTM2883-5S, SPI Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power SPI
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2884.Y
+D LTM2884, 2500VRMS Isolated USB Transceiver with Isolated Power, BGA-44
+K Isolated USB Transceiver Power
+F http://www.linear.com/product/LTM2884
+$ENDCMP
+#
+$CMP LTM2885.Y
+D LTM2885, 6500VRMS Isolated RS485/RS422 μModule Transceiver + Power, BGA-42
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2885
+$ENDCMP
+#
+$CMP LTM2886.Y-3I
+D LTM2886-3I, I2C Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable 5V Regulated Power
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-3S
+D LTM2886-3S, SPI Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable Regulated Power SPI
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-5I
+D LTM2886-5I, I2C Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable 5V Regulated Power
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-5S
+D LTM2886-5S, SPI Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable Regulated Power SPI
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2887.Y-3I
+D LTM2887-3I, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-3S
+D LTM2887-3S, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-5I
+D LTM2887-5I, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-5S
+D LTM2887-5S, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2889.Y-3
+D LTM2889-3, Isolated CAN FD μModule Transceiver and Power, BGA-32
+K Isolated CAN FD μModule Transceiver
+F http://www.linear.com/product/LTM2889
+$ENDCMP
+#
+$CMP LTM2889.Y-5
+D LTM2889-5, Isolated CAN FD μModule Transceiver and Power, BGA-32
+K Isolated CAN FD μModule Transceiver
+F http://www.linear.com/product/LTM2889
+$ENDCMP
+#
+$CMP LTM2893.Y
+D LTM2893, 100MHz Isolated ADC Serial Interface, BGA-36
+K 100MHz Isolated ADC Serial Interface
+F http://www.linear.com/product/LTM2893
+$ENDCMP
+#
+$CMP LTM2893.Y-1
+D LTM2893-1, 100MHz Isolated ADC Serial Interface, BGA-36
+K 100MHz Isolated ADC Serial Interface
+F http://www.linear.com/product/LTM2893
+$ENDCMP
+#
+$CMP LTM2894.Y
+D LTM2894, 7500VRMS Isolated USB Transceiver, BGA-24
+K Isolated USB Transceiver
+F http://www.linear.com/product/LTM2894
+$ENDCMP
+#
 #End Doc Library

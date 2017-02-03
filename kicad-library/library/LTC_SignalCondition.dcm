@@ -612,6 +612,18 @@ K dual 3.2MHz precision over-the-top RRO opamp
 F http://www.linear.com/product/LT6016
 $ENDCMP
 #
+$CMP LT6018.DD
+D LT6018, 36V, Ultralow Noise, Precision Op Amp, DFN-12(10)
+K 36V Ultralow Noise Precision Op Amp
+F http://www.linear.com/product/LT6018
+$ENDCMP
+#
+$CMP LT6018.S8E
+D LT6018, 36V, Ultralow Noise, Precision Op Amp, SOIC-8
+K 36V Ultralow Noise Precision Op Amp
+F http://www.linear.com/product/LT6018
+$ENDCMP
+#
 $CMP LT6090.FE
 D LT6090, 140V CMOS Rail-to-Rail Output, Picoamp Input Current OpAmp, SSOP-16-1EP
 K 140V CMOS RRO Picoamp OpAmp
@@ -696,25 +708,25 @@ K current sense Amp high-side precision reference comparator
 F http://www.linear.com/product/LTC6108
 $ENDCMP
 #
-$CMP LT6109.MS8-1
+$CMP LT6109.MS-1
 D LTC6109-1, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
 K current sense Amp high-side precision reference comparator
 F http://www.linear.com/product/LTC6109
 $ENDCMP
 #
-$CMP LT6109.MS8-2
+$CMP LT6109.MS-2
 D LTC6109-2, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
 K current sense Amp high-side precision reference comparator
 F http://www.linear.com/product/LTC6109
 $ENDCMP
 #
-$CMP LT6109A.MS8-1
+$CMP LT6109A.MS-1
 D LTC6109-1, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
 K current sense Amp high-side precision reference comparator
 F http://www.linear.com/product/LTC6109
 $ENDCMP
 #
-$CMP LT6109A.MS8-2
+$CMP LT6109A.MS-2
 D LTC6109-2, High Side Current Sense Amplifier with Reference and Comparators, MSOP-10
 K current sense Amp high-side precision reference comparator
 F http://www.linear.com/product/LTC6109
@@ -918,6 +930,12 @@ K quad 215Mhz low noise rro opamp
 F http://www.linear.com/product/LT6235
 $ENDCMP
 #
+$CMP LT6552.DD
+D LT6552, 3.3V Single Supply Video Difference Amplifier, DFN-8
+K Video Difference Amplifier OpAmp
+F http://www.linear.com/product/LT6552
+$ENDCMP
+#
 $CMP LT6552.S8
 D LT6552, 3.3V Single Supply Video Difference Amplifier, SOIC-8
 K Video Difference Amplifier OpAmp
@@ -996,9 +1014,27 @@ K micropower precision series reference 5V
 F http://www.linear.com/product/LT6654
 $ENDCMP
 #
+$CMP LT6657+MS8-1.25
+D LT6657, 1.5ppm/°C Drift, Low Noise, Buffered Reference 1.25V, MSOP-8
+K low-drift low-noise series reference 1.25V
+F http://www.linear.com/product/LT6657
+$ENDCMP
+#
 $CMP LT6657+MS8-2.5
 D LT6657, 1.5ppm/°C Drift, Low Noise, Buffered Reference 2.5V, MSOP-8
 K low-drift low-noise series reference 2.5V
+F http://www.linear.com/product/LT6657
+$ENDCMP
+#
+$CMP LT6657+MS8-3
+D LT6657, 1.5ppm/°C Drift, Low Noise, Buffered Reference 3V, MSOP-8
+K low-drift low-noise series reference 3V
+F http://www.linear.com/product/LT6657
+$ENDCMP
+#
+$CMP LT6657+MS8-5
+D LT6657, 1.5ppm/°C Drift, Low Noise, Buffered Reference 5V, MSOP-8
+K low-drift low-noise series reference 5V
 F http://www.linear.com/product/LT6657
 $ENDCMP
 #
@@ -1620,7 +1656,7 @@ K single ADC driver differential OpAmp
 F http://www.linear.com/product/LTC6401-8
 $ENDCMP
 #
-$CMP LTC6406.MSE
+$CMP LTC6406.MS8E
 D LTC6406, 3GHz, Low Noise, Rail-to-Rail Input Differential Amplifier/Driver, MSOP-8-1EP
 K SAR ADC differential driver 3GHz RRI OpAmp
 F http://www.linear.com/product/LTC6406
@@ -1636,6 +1672,36 @@ $CMP LTC6409.UDB
 D LTC6409, 10GHz GBW, 1.1nV/√Hz Differential Amplifier/ADC Driver, QFN-10-1EP
 K 10GHz Low-Noise Differential SAR ADC Driver OpAmp
 F http://www.linear.com/product/LTC6409
+$ENDCMP
+#
+$CMP LTC6430.UF-15
+D LTC6430-15, High Linearity Differential RF/IF Amplifier/ADC Driver, QFN-24
+K High Linearity Differential RF/IF Amplifier/ADC Driver
+F http://www.linear.com/product/LTC6430-15
+$ENDCMP
+#
+$CMP LTC6430.UF-20
+D LTC6430-20, High Linearity Differential RF/IF Amplifier/ADC Driver, QFN-24
+K High Linearity Differential RF/IF Amplifier/ADC Driver
+F http://www.linear.com/product/LTC6430-20
+$ENDCMP
+#
+$CMP LTC6431.UF-15
+D LTC6431-15, 50Ω Gain Block IF Amplifier, QFN-24
+K 15.5dB Gain Block, 50Ω IF Amplifier
+F http://www.linear.com/product/LTC6431-15
+$ENDCMP
+#
+$CMP LTC6431.UF-20
+D LTC6431-20, 20dB Gain Block, 50Ω IF Amplifier, QFN-24
+K 20dB Gain Block, 50Ω IF Amplifier
+F http://www.linear.com/product/LTC6431-20
+$ENDCMP
+#
+$CMP LTC6433.UF-15
+D LTC6433-15, Low Frequency to 1.4GHz 50Ω Gain Block IF Amplifier, QFN-24
+K 1.4GHz 50Ω Gain Block IF Amplifier
+F http://www.linear.com/product/LTC6433-15
 $ENDCMP
 #
 $CMP LTC6652+LS8-2.5
@@ -1848,6 +1914,12 @@ K 1μA precision series voltage voltage reference 5V
 F http://www.linear.com/product/LTC6656
 $ENDCMP
 #
+$CMP LTC6658+MSE-2.5
+D LTC6655, Precision Dual Output, High Current, Low Noise, Voltage Reference 2.5V, MSOP-16
+K precision low noise voltage reference 2.5V
+F http://www.linear.com/product/LT6658
+$ENDCMP
+#
 $CMP LTC6752.S5
 D LTC6752, 280MHz, 2.9ns Comparator Family with Rail-to-Rail Inputs and CMOS Outputs, TSOT-23-5
 K comparator RRI CMOS
@@ -1939,7 +2011,7 @@ F OpAmp Quad Generic
 $ENDCMP
 #
 $CMP OpAmpQuad.SW
-D OpAmp Quad Generic, SOIC-16
+D OpAmp Quad Generic, SOIC-16W
 K OpAmp Quad Generic
 F OpAmp Quad Generic
 $ENDCMP
