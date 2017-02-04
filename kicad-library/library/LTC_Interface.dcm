@@ -24,6 +24,138 @@ K ±60V protected failsafe RS485 RS422 transceiver
 F http://www.linear.com/product/LT1791
 $ENDCMP
 #
+$CMP LTC2850.DD
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-8-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2850.MS8
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2850.S8
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2851.DD
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-8-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2851.MS8
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2851.S8
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2852.DD
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-10-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2852.MS
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-10
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2852.S
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-14
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2854.DD
+D LTC2854, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-10
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2854
+$ENDCMP
+#
+$CMP LTC2855.DE
+D LTC2855, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-12
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2855
+$ENDCMP
+#
+$CMP LTC2855.GN
+D LTC2855, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, SSOP-16
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2855
+$ENDCMP
+#
+$CMP LTC2856.DD-1
+D LTC2856-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2856-1
+$ENDCMP
+#
+$CMP LTC2856.DD-2
+D LTC2856-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2856-1
+$ENDCMP
+#
+$CMP LTC2857.DD-1
+D LTC2857-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.DD-2
+D LTC2857-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.MS8-1
+D LTC2857-1, 20Mbps 15kV RS485/RS422 Transceivers, MSOP-8
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.MS8-2
+D LTC2857-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, MSOP-8
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2858.DD-1
+D LTC2858-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-10-1EP
+K 20Mbps Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2858
+$ENDCMP
+#
+$CMP LTC2858.DD-2
+D LTC2858-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-10-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2858
+$ENDCMP
+#
+$CMP LTC2861.DE
+D LTC2861, 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-12
+K 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2861
+$ENDCMP
+#
+$CMP LTC2861.GN
+D LTC2861, 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, SSOP-16
+K 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2861
+$ENDCMP
+#
 $CMP LTC2862.DD-1
 D LTC2862-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-8-1EP
 K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
