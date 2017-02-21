@@ -288,14 +288,32 @@ K LDO limit regulator 250mA
 F http://www.linear.com/product/LT3013B
 $ENDCMP
 #
+$CMP LT3014.DD
+D LT3014, 20mA, Low Noise, LDO Micropower Regulator, DFN-8
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014
+$ENDCMP
+#
 $CMP LT3014.S5
 D LT3014, 20mA, Low Noise, LDO Micropower Regulator, SOT-23-5
 K Ultra Low Power Adjustable LDO 20mA
 F http://www.linear.com/product/LT3014
 $ENDCMP
 #
+$CMP LT3014B.DD
+D LT3014B, 20mA, Low Noise, LDO Micropower Regulator, DFN-8
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014B
+$ENDCMP
+#
 $CMP LT3014B.S5
 D LT3014, 20mA, Low Noise, LDO Micropower Regulator, SOT-23-5
+K Ultra Low Power Adjustable LDO 20mA
+F http://www.linear.com/product/LT3014
+$ENDCMP
+#
+$CMP LT3014HV.DD
+D LT3014, 20mA, Low Noise, LDO Micropower Regulator, DFN-8
 K Ultra Low Power Adjustable LDO 20mA
 F http://www.linear.com/product/LT3014
 $ENDCMP
@@ -394,6 +412,24 @@ $CMP LT3042.DD
 D LT3042, 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, DFN-10-1EP
 K LDO Resistor Regulator 200mA
 F http://www.linear.com/product/LT3042
+$ENDCMP
+#
+$CMP LT3042.MSE
+D LT3042, 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, MSOP-10
+K LDO Resistor Regulator 200mA
+F http://www.linear.com/product/LT3042
+$ENDCMP
+#
+$CMP LT3045.DD
+D LT3045, 20V, 500mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, DFN-10-1EP
+K LDO Resistor Regulator 500mA
+F http://www.linear.com/product/LT3045
+$ENDCMP
+#
+$CMP LT3045.MSE
+D LT3045, 20V, 500mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator, MSOP-12
+K LDO Resistor Regulator 500mA
+F http://www.linear.com/product/LT3045
 $ENDCMP
 #
 $CMP LT3060.DC
@@ -534,9 +570,33 @@ K LDO limit regulator 500mA
 F http://www.linear.com/product/LT3066
 $ENDCMP
 #
+$CMP LT3066.DE-3.3
+D LT3066-3.3, 45V VIN, 500mA Low Noise, 3.3V fixed, Linear Regulator with Programmable Current Limit and Active Output Discharge, DFN-12-1EP
+K LDO limit regulator 500mA 3.3V fixed
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
+$CMP LT3066.DE-5
+D LT3066-5, 45V VIN, 500mA Low Noise, 5V fixed, Linear Regulator with Programmable Current Limit and Active Output Discharge, DFN-12-1EP
+K LDO limit regulator 500mA 5V fixed
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
 $CMP LT3066.MSE
 D LT3066, 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Active Output Discharge, MSOP-12-1EP
 K LDO limit regulator 500mA
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
+$CMP LT3066.MSE-3.3
+D LT3066-3.3, 45V VIN, 500mA Low Noise, 3.3V fixed, Linear Regulator with Programmable Current Limit and Active Output Discharge, MSOP-12-1EP
+K LDO limit regulator 500mA 3.3V fixed
+F http://www.linear.com/product/LT3066
+$ENDCMP
+#
+$CMP LT3066.MSE-5
+D LT3066-5, 45V VIN, 500mA Low Noise, 5V fixed, Linear Regulator with Programmable Current Limit and Active Output Discharge, MSOP-12-1EP
+K LDO limit regulator 500mA 5V fixed
 F http://www.linear.com/product/LT3066
 $ENDCMP
 #
@@ -548,6 +608,12 @@ $ENDCMP
 #
 $CMP LT3080.MS8E
 D LT3080, Adjustable 1.1A Single Resistor Low Dropout Regulator, MSOP-8-1EP
+K LDO Resistor Regulator Monitors adjustable
+F http://www.linear.com/product/LT3080
+$ENDCMP
+#
+$CMP LT3080.ST
+D LT3080, Adjustable 1.1A Single Resistor Low Dropout Regulator, SOT-223
 K LDO Resistor Regulator Monitors adjustable
 F http://www.linear.com/product/LT3080
 $ENDCMP
@@ -726,6 +792,18 @@ K 60V Synchronous 4-Switch Buck-Boost Controller
 F http://www.linear.com/product/LT3790
 $ENDCMP
 #
+$CMP LT3791.FE
+D LT3791, 60V Synchronous 4-Switch Buck-Boost LED-Driver Controller, TSSOP-38-1EP
+K 60V Synchronous 4-Switch Buck-Boost Controller LED-Driver
+F http://www.linear.com/product/LT3791
+$ENDCMP
+#
+$CMP LT3791.FE-1
+D LT3791-1, 60V Synchronous 4-Switch Buck-Boost Controller, TSSOP-38-1EP
+K 60V Synchronous 4-Switch Buck-Boost Controller
+F http://www.linear.com/product/LT3791-1
+$ENDCMP
+#
 $CMP LT3990.DD
 D LT3990, 62V, 350mA Step-Down Regulator with 2.5μA Quiescent Current and Integrated Diodes, DFN-10-1EP
 K 350mA Step-Down Regulator Buck
@@ -792,6 +870,24 @@ K 42V No-Opto Isolated Flyback
 F http://www.linear.com/product/LT8302
 $ENDCMP
 #
+$CMP LT8303.S5
+D LT8303, 100Vin Micropower Isolated Flyback Converter with 150V/450mA Switch, TSOT-23-5
+K 100V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8303
+$ENDCMP
+#
+$CMP LT8304.S8E
+D LT8304, 100VIN Micropower No-Opto Isolated Flyback Converter with 150V/2A Switch, SOIC-8-1EP
+K 100V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8304
+$ENDCMP
+#
+$CMP LT8304.S8E-1
+D LT8304-1, 100VIN Micropower No-Opto Isolated Flyback Converter with 150V/2A Switch, SOIC-8-1EP
+K 100V No-Opto Isolated Flyback
+F http://www.linear.com/product/LT8304
+$ENDCMP
+#
 $CMP LT8391.FE
 D LT8391, 60V Synchronous 4-Switch Buck-Boost LED Controller with Spread Spectrum, TSSOP-28-1EP
 K 60V Synchronous 4-Switch Buck-Boost LED Controller
@@ -816,21 +912,45 @@ K Quad 42V Buck monolithic synchronous step-down regulator
 F http://www.linear.com/product/LT8602
 $ENDCMP
 #
+$CMP LT8606.DC
+D LT8606, Low EMI 42V, 350mA Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, DFN-8
+K High Voltage 42V 350mA Buck monolithic synchronous EMI
+F http://www.linear.com/product/LT8606
+$ENDCMP
+#
+$CMP LT8606.MSE
+D LT8606, 42V, 350mA Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V 350mA Buck monolithic synchronous
+F http://www.linear.com/product/LT8606
+$ENDCMP
+#
+$CMP LT8607.DC
+D LT8607, Low EMI 42V, 750mA Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, DFN-8
+K High Voltage 42V 750mA Buck monolithic synchronous EMI
+F http://www.linear.com/product/LT8607
+$ENDCMP
+#
+$CMP LT8607.MSE
+D LT8607, 42V, 750mA Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V 750mA Buck monolithic synchronous
+F http://www.linear.com/product/LT8607
+$ENDCMP
+#
 $CMP LT8608.MSE
-D LT8608EMSE, 42V, 1.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
-K High Voltage 42V Buck monolithic synchronous
+D LT8608, 42V, 1.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V 1.5A Buck monolithic synchronous
 F http://www.linear.com/product/LT8608
 $ENDCMP
 #
 $CMP LT8609.MSE
-D LT8609EMSE, 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
-K High Voltage 42V Buck monolithic synchronous
+D LT8609, 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V 2A 3A Buck monolithic synchronous
 F http://www.linear.com/product/LT8609
 $ENDCMP
 #
 $CMP LT8609A.MSE
-D LT8609AEMSE, Low EMI 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
-K High Voltage 42V Buck monolithic synchronous EMI
+D LT8609, Low EMI 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-10
+K High Voltage 42V 2A 3A Buck monolithic synchronous EMI
 F http://www.linear.com/product/LT8609
 $ENDCMP
 #
@@ -883,9 +1003,15 @@ F http://www.linear.com/product/LT8613
 $ENDCMP
 #
 $CMP LT8614.UDC
-D LT8614, 42V, 4A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+D LT8614, 42V, 4A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18
 K 42V, 4A Synchronous Step-Down Silent Switcher Buck
 F http://www.linear.com/product/LT8614
+$ENDCMP
+#
+$CMP LT8630.FE
+D LT8630, 100V, 0.6A Synchronous Micropower Step-Down Regulator, TSSOP-20-1EP
+K High Voltage 100V 0.6A Buck monolithic synchronous
+F http://www.linear.com/product/LT8630
 $ENDCMP
 #
 $CMP LT8631.FE
@@ -895,15 +1021,21 @@ F http://www.linear.com/product/LT8631
 $ENDCMP
 #
 $CMP LT8640.UDC
-D LT8640, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+D LT8640, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18
 K 42V, 5A Synchronous Step-Down Silent Switcher Buck
 F http://www.linear.com/product/LT8640
 $ENDCMP
 #
 $CMP LT8640.UDC-1
-D LT8640-1, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18-EPAA
+D LT8640-1, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18
 K 42V, 5A Synchronous Step-Down Silent Switcher Buck
 F http://www.linear.com/product/LT8640
+$ENDCMP
+#
+$CMP LT8641.UDC
+D LT8641, 42V, 3.5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18
+K 42V, 3.5A Synchronous Step-Down Silent Switcher Buck
+F http://www.linear.com/product/LT8641
 $ENDCMP
 #
 $CMP LTC3265.DHC
