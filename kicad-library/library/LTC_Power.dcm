@@ -986,7 +986,7 @@ $ENDCMP
 #
 $CMP LT8611.UDD
 D LT8611, 42V, 2.5A Synchronous Step-Down Regulator with Current Sense and 2.5μA Quiescent Current, QFN-24-1EP
-K High Voltage 42V Buck monolithic synchronous monitor 
+K High Voltage 42V Buck monolithic synchronous monitor
 F http://www.linear.com/product/LT8611
 $ENDCMP
 #
