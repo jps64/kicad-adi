@@ -954,6 +954,12 @@ K High Voltage 42V 2A 3A Buck monolithic synchronous EMI
 F http://www.linear.com/product/LT8609
 $ENDCMP
 #
+$CMP LT8609S.V
+D LT8609S, 42V, 2A/3A Peak Synchronous Step-Down Regulator with 2.5μA Quiescent Current, LQFN-16-1EP
+K High Voltage 42V 2A 3A Buck monolithic synchronous
+F http://www.linear.com/product/LT8609S
+$ENDCMP
+#
 $CMP LT8610A.MSE
 D LT8610A, 42V, 3.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current, MSOP-16-1EP
 K High Voltage 42V Buck monolithic synchronous
@@ -1030,6 +1036,12 @@ $CMP LT8640.UDC-1
 D LT8640-1, 42V, 5A Synchronous Step-Down Silent Switcher with 2.5μA Quiescent Current, QFN-18
 K 42V, 5A Synchronous Step-Down Silent Switcher Buck
 F http://www.linear.com/product/LT8640
+$ENDCMP
+#
+$CMP LT8640S.V
+D LT8640S, 42V, 6A Synchronous Step-Down Silent Switcher 2 with 2.5μA Quiescent Current, LQFN-24-4EP
+K High Voltage 42V 6A Buck monolithic synchronous
+F http://www.linear.com/product/LT8640S
 $ENDCMP
 #
 $CMP LT8641.UDC
@@ -1416,6 +1428,12 @@ K 150V Step-Down Synchronous Controller Buck
 F http://www.linear.com/product/LTC3895
 $ENDCMP
 #
+$CMP LTC4040.UFD
+D LTC4040, 2.5A Battery Backup Power Manager, QFN-24-1EP
+K 2.5A Battery Backup Power Manager
+F http://www.linear.com/product/LTC4040
+$ENDCMP
+#
 $CMP LTC7149.FE
 D LTC7149, 60V, 4A Synchronous Step-Down Regulator for Inverting Outputs, TSSOP-28-1EP
 K 60V 4A Buck monolithic synchronous step-down Buck inverting
@@ -1482,6 +1500,12 @@ K Quad DC/DC μModule Regulator 4A Array Buck
 F http://www.linear.com/product/LTM4644
 $ENDCMP
 #
+$CMP LTM8065.Y
+D LTM8065, 40VIN, 2.5A Silent Switcher μModule Regulator, BGA-36
+K 40VIN, 2.5A Silent Switcher μModule Regulator
+F http://www.linear.com/product/LTM8065
+$ENDCMP
+#
 $CMP LTM8067.Y
 D LTM8067, 2.8VIN to 40VIN Isolated μModule DC/DC Converter, BGA-38
 K Isolated DC/DC Module Regulator
@@ -1492,6 +1516,12 @@ $CMP LTM8068.Y
 D LTM8068, 2.8VIN to 40VIN Isolated μModule DC/DC Converter with LDO Post Regulator, BGA-38
 K Isolated DC/DC Module Regulator
 F http://www.linear.com/product/LTM8068
+$ENDCMP
+#
+$CMP LTM8073.Y
+D LTM8073, 60VIN, 3A Silent Switcher μModule Regulator, BGA-48
+K 60VIN, 3A Silent Switcher μModule Regulator
+F http://www.linear.com/product/LTM8073
 $ENDCMP
 #
 #End Doc Library
