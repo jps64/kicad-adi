@@ -1,4 +1,4 @@
-# KiCad Symbols
+# KiCad Symbols of ADI devices
 
 This repository contains legacy Linear Technology and future Analog Devices KiCad schematic symbol libraries.
 The symbol libraries are provided an a "as is" basis. This is private work and NOT an official release of any company.
