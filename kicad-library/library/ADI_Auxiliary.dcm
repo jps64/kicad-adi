@@ -1,0 +1,153 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EP_0.1Inch_Coarse
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.1Inch_Fine
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.1Inch_None
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.2Inch_Coarse
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.2Inch_Fine
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.2Inch_None
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.4Inch_Coarse
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.4Inch_Fine
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP EP_0.4Inch_None
+D Exposed Pad 0.2x0.2Inch
+K Exposed Pad 0.2x0.2Inch
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-ADI
+D Analog Devices Logo 1.0inch
+$ENDCMP
+#
+$CMP LOGO-ADI-0.2
+D Analog Devices Logo 0.2inch
+$ENDCMP
+#
+$CMP LOGO-ADI-0.3
+D Analog Devices Logo 0.3inch
+$ENDCMP
+#
+$CMP LOGO-ADI-0.4
+D Analog Devices Logo 0.4inch
+$ENDCMP
+#
+$CMP LOGO-ADI-0.5
+D Analog Devices Logo 0.5inch
+$ENDCMP
+#
+$CMP LOGO-ADI-AWP
+D Analog Devices Logo AWP 1.0inch
+$ENDCMP
+#
+$CMP LOGO-ADI-AWP-0.2
+D Analog Devices Logo AWP 0.2inch
+$ENDCMP
+#
+$CMP LOGO-ADI-AWP-0.3
+D Analog Devices Logo AWP 0.3inch
+$ENDCMP
+#
+$CMP LOGO-ADI-AWP-0.4
+D Analog Devices Logo AWP 0.4inch
+$ENDCMP
+#
+$CMP LOGO-ADI-AWP-0.5
+D Analog Devices Logo AWP 0.5inch
+$ENDCMP
+#
+$CMP LOGO-ADI-Triangle
+D Analog Devices Logo Triangle only 1.0inch
+$ENDCMP
+#
+$CMP LOGO-ADI-Triangle-0.2
+D Analog Devices Logo Triangle only 0.2inch
+$ENDCMP
+#
+$CMP LOGO-ADI-Triangle-0.3
+D Analog Devices Logo Triangle only 0.3inch
+$ENDCMP
+#
+$CMP LOGO-ADI-Triangle-0.4
+D Analog Devices Logo Triangle only 0.4inch
+$ENDCMP
+#
+$CMP LOGO-ADI-Triangle-0.5
+D Analog Devices Logo Triangle only 0.5inch
+$ENDCMP
+#
+$CMP LOGO-LTC
+D Linear Technology Logo 1.0inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-LTC-Bug-0.2
+D Linear Technology Logo 0.2inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-LTC-Bug-0.3
+D Linear Technology Logo 0.3inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-LTC-Bug-0.4
+D Linear Technology Logo 0.4inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-LTC-Bug-0.5
+D Linear Technology Logo 0.5inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+$CMP LOGO-LTC-Bug-1.0
+D Linear Technology Logo 1.0inch
+K Linear Technology Logo
+F http://www.linear.com
+$ENDCMP
+#
+#End Doc Library
