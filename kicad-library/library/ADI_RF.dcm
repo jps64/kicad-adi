@@ -42,4 +42,40 @@ K Direct Quadrature Modulator
 F http://www.linear.com/product/LTC5599
 $ENDCMP
 #
+$CMP LTP5901-IPA
+D LTP5901-IPA, SmartMesh IP Access Point 2.4GHz Mote Module
+K LTP5901 AP SmartMesh IP 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012ipaf.pdf
+$ENDCMP
+#
+$CMP LTP5901-IPM
+D LTP5901-IPA, SmartMesh IP Node 2.4GHz Mote Module
+K LTP5901 Mote SmartMesh IP 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012ipmfa.pdf
+$ENDCMP
+#
+$CMP LTP5901-IPR
+D LTP5901-IPR, SmartMesh IP Network eManager 2.4GHz Module
+K LTP5901 SmartMesh IP Network Manager 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012iprfa.pdf
+$ENDCMP
+#
+$CMP LTP5902-IPA
+D LTP5902-IPA, SmartMesh IP Access Point 2.4GHz Mote Module
+K LTP5902 AP SmartMesh IP 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012ipaf.pdf
+$ENDCMP
+#
+$CMP LTP5902-IPM
+D LTP5902-IPA, SmartMesh IP Node 2.4GHz Mote Module
+K LTP5902 Mote SmartMesh IP 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012ipmfa.pdf
+$ENDCMP
+#
+$CMP LTP5902-IPR
+D LTP5902-IPR, SmartMesh IP Network eManager 2.4GHz Module
+K LTP5902 SmartMesh IP Network Manager 2.4GHz Module
+F http://cds.linear.com/docs/en/datasheet/59012iprfa.pdf
+$ENDCMP
+#
 #End Doc Library
