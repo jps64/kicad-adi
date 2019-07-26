@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Package_ADI)(type KiCad)(uri /Users/joachim/TIP/Library/kicad-adi/kicad-footprints/Package_ADI.pretty)(options "")(descr ""))
+  (lib (name tailoredIP)(type KiCad)(uri "$(KIPRJMOD)/tailoredIP.pretty")(options "")(descr ""))
+)

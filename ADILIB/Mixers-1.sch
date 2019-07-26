@@ -1,0 +1,82 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 17 21
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ADI_RF:LTC5510.UF U?
+U 1 1 5733AE99
+P 2800 2400
+F 0 "U?" H 3550 2500 50  0000 L CNN
+F 1 "LTC5510.UF" H 3550 2400 50  0000 L CNN
+F 2 "MSOP-16-1EP" H 3550 2350 50  0000 L CNN
+F 3 "" H 1200 2500 50  0000 C CNN
+	1    2800 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5733AEE7
+P 1800 2200
+F 0 "C?" V 1500 2200 50  0000 C CNN
+F 1 "C" V 1600 2200 50  0000 C CNN
+F 2 "" H 1838 2050 50  0000 C CNN
+F 3 "" H 1800 2200 50  0000 C CNN
+	1    1800 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5733AF55
+P 1800 2600
+F 0 "C?" V 1500 2600 50  0000 C CNN
+F 1 "C" V 1600 2600 50  0000 C CNN
+F 2 "" H 1838 2450 50  0000 C CNN
+F 3 "" H 1800 2600 50  0000 C CNN
+	1    1800 2600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5733AF6E
+P 1600 2400
+F 0 "C?" H 1450 2350 50  0000 R CNN
+F 1 "C" H 1450 2400 50  0000 R CNN
+F 2 "" H 1638 2250 50  0000 C CNN
+F 3 "" H 1600 2400 50  0000 C CNN
+	1    1600 2400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5733AF9D
+P 3000 1500
+F 0 "C?" H 2850 1450 50  0000 R CNN
+F 1 "C" H 2850 1500 50  0000 R CNN
+F 2 "" H 3038 1350 50  0000 C CNN
+F 3 "" H 3000 1500 50  0000 C CNN
+	1    3000 1500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5733AFC7
+P 2600 1500
+F 0 "C?" H 2450 1450 50  0000 R CNN
+F 1 "C" H 2450 1500 50  0000 R CNN
+F 2 "" H 2638 1350 50  0000 C CNN
+F 3 "" H 2600 1500 50  0000 C CNN
+	1    2600 1500
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L
+D Inductor
+K L DEV
+$ENDCMP
+#
+#End Doc Library

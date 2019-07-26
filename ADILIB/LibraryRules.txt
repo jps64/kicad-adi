@@ -1,0 +1,46 @@
+Initial Questions:
+1. Provided the library will grow beyond 1000 parts, should it be split already at setup?
+    Lineartech_Power (all power, LDO, Switcher, input protection, etc.)
+    Lineartech_Mixed (mixed signal, ADCs, DACs, interfaces, etc.)
+    Lineartech_Signal (pure analog signal conditioning, OpAmps, comps, references, etc.)
+    Lineartech_RF (mixers, modulators, demods, etc.)
+    Lineartech_Other (anything not in above ones)
+2. Which library name complies to the nomentclature?
+    LTC_power, LTC_Power, Lineartech_Power - which is preferred?
+3. Should device name, reference and footprint fields be also placed on 0.1inch grid?
+4. Pin names shall never overlap.
+    If the footprint field in the center overlaps with pin names - 
+        a. move footprint field out of center to a non overlapping position
+        b. enlarge the symbol outline
+        c. the footprint field may overlap pin names (since it can be re-positioned in the schematic)
+    I'd go for first a. then c.
+5. Under wich conditions are the field locations in the symbols de-referenced in the schematic?
+6. What is your opinion on the multi-part OpAmp devices?
+
+
+Rules:
+1. Pin Modes:
+    a. VIN, VDD, GND, SGND, PGND get the mode "power input"
+    b. Power good outputs are typically open drain, i.e. get mode "open collector"
+    c. Pins like REF, INTVCC, BYP, ADJ can often be used as outputs, or get a bypass cap or may be
+       even overridden (e.g. REF) - they get mode "passive"
+    d. Switch nodes of DC/DC regulators are not power outputs
+    e. LDO outputs though get the mode "power output"
+2. Document link
+    The link shall reference the product page and not the datasheet PDF. The PDF name is subject to
+    change, if a new datasheet version is released.
+3. Exposed Pad
+    A device with an exposed pad, shall get a visual indicator
+4. Device Name
+    The device name shall include a package reference (although there is already a footprint field)
+    I have DFN-8-1EP with different sizes for a device (DD and DCB suffix)
+5. Field Alignment
+    a. Device name field and reference field shall be left aligned
+    b. Footprint field shall be center aligned
+6. Aliases
+    a. Different temp grades shall not be aliased
+    b. Pin compatible devices with same functionality but different part numbers shall be aliased
+    c. OpAmps often share a 'standard pinout' - shall be aliased from a generic OpAmp
+
+A vendor specific footprint library Housings_Lineartech shall be added for vendor specific footprints
+(like LT8641, µModules, etc.)
