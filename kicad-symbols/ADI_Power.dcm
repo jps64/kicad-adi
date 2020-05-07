@@ -1434,6 +1434,12 @@ K 2.5A Battery Backup Power Manager
 F http://www.linear.com/product/LTC4040
 $ENDCMP
 #
+$CMP LTC4095.DC
+D LTC4095, 950mA, Standalone USB Li-Ion/Polymer Battery Charger, DFN-8-1EP
+K 950mA USB Li-Ion Li-Polymer Battery Charger
+F https://www.analog.com/en/products/ltc4095.html
+$ENDCMP
+#
 $CMP LTC7149.FE
 D LTC7149, 60V, 4A Synchronous Step-Down Regulator for Inverting Outputs, TSSOP-28-1EP
 K 60V 4A Buck monolithic synchronous step-down Buck inverting
@@ -1500,10 +1506,16 @@ K Quad DC/DC μModule Regulator 4A Array Buck
 F http://www.linear.com/product/LTM4644
 $ENDCMP
 #
+$CMP LTM8063.Y
+D LTM8063, 40VIN, 2A Silent Switcher μModule Regulator, BGA-28
+K 40VIN, 2A Silent Switcher μModule Regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8063.pdf
+$ENDCMP
+#
 $CMP LTM8065.Y
 D LTM8065, 40VIN, 2.5A Silent Switcher μModule Regulator, BGA-36
 K 40VIN, 2.5A Silent Switcher μModule Regulator
-F http://www.linear.com/product/LTM8065
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltm8065.pdf
 $ENDCMP
 #
 $CMP LTM8067.Y
@@ -1522,6 +1534,12 @@ $CMP LTM8073.Y
 D LTM8073, 60VIN, 3A Silent Switcher μModule Regulator, BGA-48
 K 60VIN, 3A Silent Switcher μModule Regulator
 F http://www.linear.com/product/LTM8073
+$ENDCMP
+#
+$CMP LTM8074.Y
+D LTM8074, 40VIN, 1.2A Silent Switcher μModule Regulator, BGA-28
+K 40VIN, 1.2A Silent Switcher μModule Regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTM8074.pdf
 $ENDCMP
 #
 #End Doc Library
