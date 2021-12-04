@@ -8,4 +8,7 @@
   (lib (name "ADI_SignalCondition")(type "KiCad")(uri "${KICAD_ADI}/kicad-symbols/ADI_SignalCondition.kicad_sym")(options "")(descr ""))
   (lib (name "ADI_Timing")(type "KiCad")(uri "${KICAD_ADI}/kicad-symbols/ADI_Timing.kicad_sym")(options "")(descr ""))
   (lib (name "ADI_Audio")(type "KiCad")(uri "${KICAD_ADI}/kicad-symbols/ADI_Audio.kicad_sym")(options "")(descr ""))
+  (lib (name "Collection")(type "KiCad")(uri "${KICAD_LOCAL}/local-symbols/Collection.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface_Ethernet")(type "KiCad")(uri "/Users/joachim/tIP/Library/kicad-forks/kicad-symbols/Interface_Ethernet.kicad_sym")(options "")(descr ""))
+  (lib (name "Extra")(type "KiCad")(uri "/Users/joachim/tIP/Designs/Pmod-ADIN1110/pmod-adin1110/Extra.kicad_sym")(options "")(descr ""))
 )
